@@ -1,3 +1,13 @@
+# CAMEO verbs file for TABARI automated coding system
+#
+# This work is licensed under a Creative Commons
+# Attribution-NonCommercial 3.0 Unported License.
+#
+# This dictionary is provided by the Computational Event Data System Project:
+# http://eventdata.parusanalytics.com
+#
+# Last update [documentation only]: 2 October 2013
+
 ABANDON  [---] ;OY 25 Jul 2003
 - SAID + MUST * POLICY  [100] ;ab 10 Jul 2003
 - * HEADQUARTERS  [0874] ;ab 10 Nov 2005

@@ -1,3 +1,14 @@
+# CAMEO agents file for TABARI automated coding system
+# File generated 22-May-2012
+#
+# This work is licensed under a Creative Commons
+# Attribution-NonCommercial 3.0 Unported License.
+#
+# This dictionary is provided by the Computational Event Data System Project:
+# http://eventdata.parusanalytics.com
+#
+# Last update [documentation only]: 2 October 2013
+
 AGRICULTURALIST_ [~AGR]
 AGRICULTURIST_ [~AGR]
 CROPPER_ [~AGR]

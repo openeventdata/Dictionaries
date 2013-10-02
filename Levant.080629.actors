@@ -1,3 +1,15 @@
+# CAMEO actor file for TABARI automated coding system developed for coding the KEDS 
+# Levant data set
+# File generated 29-June-2008
+#
+# This work is licensed under a Creative Commons
+# Attribution-NonCommercial 3.0 Unported License.
+#
+# This dictionary is provided by the Computational Event Data System Project:
+# http://eventdata.parusanalytics.com
+#
+# Last update [documentation only]: 2 October 2013
+
 <NOUN>
 A_PRESIDENT_AND_FIVE_OTHER   ;ab 21 Sep 2005
 A_CABINET_MEETING   ;mdc 28 Nov 2006

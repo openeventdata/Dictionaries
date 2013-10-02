@@ -1,0 +1,4052 @@
+# MidEast actor list for KEDS coding
+# Note: this is a KEDS dictionary ca. 1998 and uses WEIS rather than CAMEO codes
+# 
+# This work was funded in part by US National Science Foundation grant SES-9410023
+#
+# This work is licensed under a Creative Commons
+# Attribution-NonCommercial 3.0 Unported License.
+#
+# This dictionary is provided by the Computational Event Data System Project:
+# http://eventdata.parusanalytics.com
+#
+# Last update [documentation only]: 2 October 2013
+
+ABDUCT [213] ;shan   7/24/93
+- * OF + IN $  [213] ;JON 5/26/95
+ABIDE [080] ;shan   2/20/93
+- WOULD NOT *  [111]
+- FAIL *       [111] ;JON 5/8/95
+ABSTAIN [111] ;jw   10/25/91
+ACCEPT [081:081] ;jw   11/14/91
+- WILL DECIDE WHETHER TO *  [025]
+- SAID WOULD NEVER *        [112]
+- NOT * PROPOSAL            [111]
+- * FORMULATION             [042]
+- * CREDENTIALS             [064]
+- * INVITATION              [082]
+- FORCE TO *                [150]
+- DOES NOT *                [111]
+- * PROPOSAL                [082]
+- PROD TO *                 [102]
+- * REQUEST                 [082]
+- * CHARGES                 [013]
+- MIGHT *                   [024] ;<Enter 6/2/98
+- NOT *                     [111]
+ACCORD [---]
+- INCHING CLOSER *  [082:082] ;tony  4/29/91
+- TO_*              [073]
+ACCUS [121] ;jw   11/14/91
+- * SUPPORT TERROR  [121] ;JON 5/5/95
+- * AGGRESSION      [121] ;JON 5/8/95
+- * PRISONER        [---]
+ACKNOWLEDGE [023]
+ACT [---]
+- SAID SHOULD * NOW  [102]
+ADD [---]
+- * WANTED  [102] ;tony  4/19/91
+- * VOICE   [023]
+ADMIT [013]
+- WERE * TO  [064] ;tony  3/9/91
+ADOPT [081:081] ;PAS   9/24/91
+- ON VERGE OF * NEW STANCE  [025]
+- * RESOLUTION              [102]
+- * PROGRAM                 [084]
+- HIS_*                     [---]
+ADVANCE [---] ;shan   8/8/93
+- TROOPS AND ALLIES *  [182]
+ADVOCATE [---]
+- HAVE * MILITARY ACTION  [173] ;tony  4/22/91
+AFFIRM [042]
+AGREE [080] ;jw   11/13/91
+- IF * CANNOT BE IMPLEMENTED MAY HAVE TO REDEPLOY  [173]
+- SIGNALLED READ TO REVISE *                       [082:082] ;shan 1/7/94
+- SCRAP TROOP WITHDRAWAL *                         [198]
+- SAID WOULD HAVE TO *                             [102]
+- % HAVE * TO DIALOGUE                             [082:082]
+- * ALLOW RETURN HOME                              [066] ;shan 1/6/94
+- * IMPROVE RELATIONS                              [082:082]
+- * TO SEND MILITARY                               [072]
+- * WILL BE REACHED                                [024] ;shan 1/5/94
+- LAST CHANCE TO *                                 [174] ;shan 8/24/95
+- SAID WOULD NOT *                                 [111]
+- * NO COMPROMISE                                  [023] ;J 6/2/98
+- * TO_LET_ESCAPE                                  [066] ;jw   11/13/91
+- HOURS BEFORE *                                   [---] ;shan 1/6/94
+- * TO CEASEFIRE                                   [081:081]
+- NOT REACHED *                                    [---] ;shan 1/6/94
+- SAID WOULD *                                     [082:082]
+- * TO DISCUSS                                     [082:082]
+- * CEASE-FIRE                                     [014]
+- * TO PROPOSE                                     [082:082]
+- * BETWEEN %                                      [081:081] ;JON 5/4/95
+- % REACHED *                                      [081:081] ;JON 5/4/95
+- SAID * NEAR                                      [024]
+- ABROGATED *                                      [198]
+- FAILED_TO_*                                      [111]
+- * CEASEFIRE                                      [081:081]
+- CLOSER TO *                                      [024] ;shan   11/29/93
+- * NEGOTIATE                                      [082:082] ;shan 3/25/94
+- SCRAPPED *                                       [198]
+- CLOSE TO *                                       [024] ;shan 1/6/94
+- WITHOUT *                                        [111] ;JON 3/7/95
+- % * MEET                                         [031:031] ;shan 8/26/95
+- % HAVE *                                         [081:081]
+- UNABLE *                                         [111]
+- BEFORE *                                         [094]
+- * LOAN                                           [071] ;jw   11/13/91
+- UNTIL *                                          [160]
+- NEVER *                                          [112]
+- * MEET                                           [031:031] ;JON 3/10/95
+- MUST *                                           [102]
+- * AID                                            [071] ;jw   11/13/91
+- NOT *                                            [111]
+- % *                                              [080] ;shan 8/25/95
+AIDE [---] ;shan   7/24/93
+AID [073] ;shan   7/19/93
+- * AND INVEST WILL BE CLOSE TO HOME  [112] ;shan 1/5/94
+- + SAID BELIEVED $ WOULD MAINTAIN *  [024]
+- * EFFORTS ALMOST STOPPED            [193]
+- THREE-BILLION-DOLLAR *              [071]
+- TRANSFERRING * ECONOMY              [071]
+- DOWNTURN IN $ * TO +                [193]
+- * MIGHT BE SUSPENDED                [172]
+- AGENCY * REFUGEES                   [---]
+- + WON * FROM $                      [071] ;JON 5/5/95
+- $ MILITARY * +                      [072] ;JON 5/8/95
+- DELET * FOR +                       [193] ;JON 5/8/95
+- * COMMITTEE                         [---]
+- DOLLAR *                            [071]
+- * WORKER                            [---]
+- * VIRUS                             [---]
+AIM [---] ;shan   7/31/93
+- BARRAGE OF ROCKETS * +  [223]
+AIRLIFT [070] ;shan   7/1/93
+- * MISSILE  [072]
+ALLAY [054] ;jw   11/20/91
+ALLEGEDLY [---] ;pas 2/5/96
+ALLEGE [022]
+- * TO BELONG  [---]
+- * INCIDENTS  [121]
+ALLEGING [120] ;shan   6/25/93
+ALLOW [060?] ;jw   11/14/91
+- SAID WORLD COULD NOT * DESTROYED  [121]
+- WORLD COULD NOT * DESTROYED       [121]
+- SAID PRESENCE * RELIEF            [042]
+- NOT * WEAK COMMIT                 [024] ;JON 5/7/95
+- INDICATED MAY *                   [055]
+- SAID MUST *                       [150]
+- + * HOME BY                       [066] ;shan 1/6/94
+- * TO ENTER                        [063]
+- * TRAFFIC                         [065]
+- * REOPEN                          [065]
+- POLICY *                          [060]
+- NO ONE *                          [112]
+- * PLANE                           [063]
+- * LEAVE                           [066]
+- * INTO                            [064]
+- NOT *                             [112]
+ALTER [---] ;shan   8/12/93
+- * CONSTITUTION  [027]
+AMBUSH [223]
+AND_AT_LEAST [---] ;pas 2/5/96
+ANNOUNCE [023?] ;JW   10/22/91
+- * READY_TO_RENEW_DIPLOMATIC  [064]
+- * EMERGENCY ASSISTANCE       [071] ;tony  4/26/91
+- * PLANNED_TO_SELL            [073]
+- * CONCIL MEASURES            [012] ;tony  4/22/91
+- * POSSIBLE ATTACK            [022]
+- * WOULD REQUIRE              [025]
+- * RESTRICTIONS               [192]
+- * SEALING OFF                [211]
+- * GIVE CASH                  [071] ;tony  4/26/91
+- * PROJECT                    [080] ;JON 5/7/95
+- * TOUGH                      [151]
+APOLOGISE [061] ;shan   8/5/93
+APOLOGIZE [061] ;shan   8/5/93
+APPEAL [095] ;jw   11/14/91
+- * FOR HELP  [102] ;J 5/15/95
+- * FOR AID   [093]
+- * COURT     [---]
+- * FOR       [102]
+APPEAR [---] ;shan   7/21/93
+- * ON COLLISION COURSE  [022]
+- *_COOL_TO_IDEA         [111]
+APPLAUD [041] ;shan   8/5/93
+APPLY [084] ;shan   7/15/93
+- REFUGEES *  [114]
+- * SANCTION  [193] ;JON 5/8/95
+- * REJOIN    [084]
+- * JOIN      [084]
+APPOINT [---] ;jw   11/20/91
+- * ATTORNEY-GENERAL  [026]
+- * AMBASSADOR        [064]
+APPRECIATE POSITION [042]
+APPROVE [040] ;jw   11/14/91
+- * BILL BARRING MILITARY AND ECONOMIC AID  [193]
+- WOULD * SALE                              [082] ;shan   11/29/93
+- COULD NOT *                               [111] ;shan 1/4/94
+- * TRANSFER                                [073]
+- * DOLLARS                                 [071]
+- * FORCE                                   [023] ;J 6/2/98
+- * SALES                                   [073]
+- * GRANT                                   [071]
+- FAIL *                                    [111]
+- NOT *                                     [132] ;J 5/15/95
+- * AID                                     [073]
+ARMED [---] ;J 1/11/98
+- *_FORCES  [---] ;J 1/11/98
+ARMOURED [---] ;jon 2/18/98
+ARM [182] ;shan   7/1/93
+- WILL NOT RESPOND WITH NUCLEAR *  [025]
+- * WITH ADMINISTRATION REPORT     [---]
+- LARGEST RECIPIENT OF * AID       [---]
+- * EMBARGO BEING BROKEN           [121] ;shan 1/6/94
+- * SERVICES COMMITTEE             [---]
+- SAID WOULD * AGAINST             [173] ;shan 1/7/94
+- * RAISED IN VICTORY              [181] ;shan 1/7/94
+- VIOLATING * EMBARGO              [121]
+- * WITH SPRAY PAINT               [222]
+- PLEDGE TO * OTHER                [052] ;shan 1/7/94
+- * CONTROL EXPERT                 [---] ;shan 1/5/94
+- U.N. * INSPECTOR                 [---]
+- SHOPPING FOR *                   [093] ;shan 1/7/94
+- U.N. * EXPERTS                   [---]
+- * INSPECTION                     [123]
+- * CONFERENCE                     [031:031]
+- * PURCHASES                      [---]
+- CHEMICAL_*                       [---] ;jon 2/18/98
+- * INDUSTRY                       [---]
+- * FACTION                        [---] ;shan 1/5/94
+- * FACTORY                        [---] ;shan 1/4/94
+- * COMPANY                        [---]
+- SALE OF *                        [072]
+- * CONTROL                        [---] ;shan 1/7/94
+- * EMBARGO                        [190] ;shan 1/7/94
+- SENT *                           [072]
+- * MEN                            [---] ;shan 1/4/94
+ARREST [212]
+ARRIVE [032:033] ;PAS   9/27/91
+- TROOPS AND MISSILES *  [182]
+- AIRCRAFT * TO ASSIST   [072]
+- + REFUGEES * $         [063]
+- CARRIER *              [182]
+ASIAN_CUP [###] ;jw   10/24/91
+ASK [090] ;shan   6/21/93
+- + WILL * INDEPENDENT COUNCIL INVESTIGATE  [123]
+- + WILL * INVESTIGATOR                     [092]
+- + * TO LEAVE BY $                         [201]
+- $ * FOR WITHDRAW                          [090] ;JON 5/29/95
+- * TECHNICAL HELP                          [093]
+- * TO RECONSIDER                           [102] ;tony  3/9/91
+- + * $ CLARIFIY                            [091]
+- * INVESTIGATE                             [093]
+- * INFORMATION                             [091]
+- * COMPENSAT                               [093] ;shan 1/6/94
+- HAS NOT *                                 [025] ;shan 1/7/94
+- * ASYLUM                                  [095] ;JON 3/10/95
+- * REFUGE                                  [095]
+ASSAIL [122] ;jw   11/14/91
+ASSASSINATE [220] ;JON 5/31/95
+- + * BY $  [220] ;JON 5/31/95
+ASSEMBL [---] ;shan 1/7/94
+- * MILITARY PRESENCE  [182] ;shan 1/7/94
+ASSERT [025] ;tony  3/12/91
+ASSESS [025]
+ASSIST [073] ;shan   8/4/93
+- * SECRETARY OF STATE  [---]
+ASSURE [054] ;JW   11/22/91
+- $ * +  [054]
+ATHLET [###] ;JW   10/22/91
+ATTACKED [122] ;jw   11/13/91
+- $ SAID WOULD RECONSIDER RESTRAINT IF *  [173]
+- * POSTS MANNED BY MILITIAMEN            [223]
+- PLANES FIRING MISSILES *                [223]
+- HAS BEEN * BY MISSILES                  [---]
+- WOULD USE DEFENSE IF *                  [173]
+- REVOLUTIONARY GROUP *                   [223]
+- HELICOPTER GUNSHIPS *                   [223]
+- $ * + IN_AUGUST_1990                    [---] ;jon 6/14/95
+- * + FOR QUESTIONING                     [121] ;pas 1/31/96
+- ROCKETS * MILITIA                       [223]
+- CROWDS * SHOPS                          [222]
+- * WITH ROCKETS                          [223]
+- HELECOPTERS *                           [223]
+- * RESOLUTION                            [121]
+- GUERRILLAS *                            [223]
+- * GUERRILLAS                            [223]
+- * CRITICISM                             [121]
+- WARPLANES *                             [223]
+- MILITANTS *                             [223]
+- $ PLANES *                              [223] ;shan 1/7/94
+- * BARRACKS                              [223]
+- * MEASURES                              [121]
+- MILITIAS *                              [223]
+- $ SAID + *                              [121]
+- * TARGETS                               [223]
+- GUNBOAT *                               [223]
+- TROOPS *                                [223]
+- FORCES *                                [223]
+- PLANES_*                                [223]
+- * PATROL                                [223]
+- * TOWNS                                 [223]
+- * WOUND                                 [223]
+- JETS *                                  [223]
+- * ARMY                                  [223]
+- * KILL                                  [223]
+- * SHOP                                  [223]
+- * BASE                                  [223]
+- * VETO                                  [122] ;shan   11/17/93
+ATTACK [122] ;shan   7/1/93
+- PREPAR TO COUNTER * WITH AIR STRIKES  [173]
+- HAVE BEEN AUTHORIZED TO * +           [173]
+- HAVE BEEN AUTHORISED TO *             [173]
+- NO ONE HURT IN EITHER *               [---]
+- $ MADE OUTSPOKEN * ON +               [121]
+- HAS HAD NO REASON TO *                [024]
+- TONED DOWN SCATHING *                 [121]
+- SAID * CARRIED OUT BY                 [121] ;shan   11/18/93
+- ATTEMPTED SEABORNE *                  [223]
+- + FORCES SUFFERED *                   [223] ;shan 1/7/94
+- POSSIBLE CHEMICAL *                   [---]
+- $ GUERRILLA * IN +                    [223]
+- ANY * CONSIDERED *                    [171]
+- POSSIBLE WEAPONS *                    [---]
+- OFFER TO STOP * IF                    [101] ;shan 1/6/94
+- IN THE EVENT OF *                     [---]
+- IF WASHINGTON * +                     [---]
+- LAST DECEMBER'S *                     [---]
+- USED MISSILE TO *                     [223]
+- HAS COME UNDER *                      [---]
+- IRAQ'S MISSILE *                      [---]
+- TRAINED HANDLE *                      [---]
+- + MISSILE * ON $                      [223]
+- * CARRIED OUT BY                      [121] ;shan   11/18/93
+- FACING POSSIB *                       [022] ;J 6/2/98
+- SAID EXPECTED *                       [022] ;jon 2/18/98
+- WORRIED ABOUT *                       [022]
+- MOCK CHEMICAL *                       [182]
+- * ON STRONGHOLD                       [223]
+- IRAQI MISSILE *                       [---]
+- MILITIAS * ARMY                       [223]
+- * AGAINST PLANS                       [121] ;tony  3/9/91
+- SOLDIERS WERE *                       [223]
+- SAID CAR-BOMB *                       [222]
+- * BY WARPLANES                        [223]
+- ARMY * AGAINST                        [223]
+- GUNBOAT * SHIP                        [223]
+- GUNBOAT * ON +                        [223]
+- * CRITICISM OF                        [042] ;jw 9/25/91
+- PREPARED FOR *                        [182]
+- CARRIED_OUT *                         [223] ;JON 4/24/95
+- * FOR FAILING                         [121]
+- UNLIKELY TO *                         [024]
+- *_HELICOPTERS                         [---]
+- BLOODY * ON +                         [223]
+- CAN CONTAIN *                         [---]
+- * CONFERENCE                          [121]
+- * RESOLUTION                          [111]
+- OFFICIALLY *                          [132]
+- NEWSPAPERS *                          [121] ;tony  3/12/91
+- * ISR FORCES                          [223]
+- ARSON * ON +                          [222]
+- BOASTED OF *                          [024] ;shan 1/7/94
+- ARTILLERY *                           [223] ;JON 5/24/95
+- * ON FORCES                           [223]
+- $ PLANES *                            [223] ;shan 1/7/94
+- POSSIBLE *                            [---]
+- BITTERLY *                            [122] ;tony  4/26/91
+- * COMMENTS                            [131] ;tony  3/9/91
+- WARPLANE *                            [223] ;tony  4/22/91
+- GUNBOATS_*                            [223] ;tony  4/22/91
+- * TOUR BUS                            [223]
+- * PLANE TO                            [072] ;JON 5/7/95
+- * CRITICS                             [121]
+- SHARPLY *                             [122]
+- MISSILE *                             [223]
+- ABANDON *                             [---] ;shan   11/17/93
+- $ * KILL                              [223] ;JON 5/4/95
+- PLANES_*                              [223]
+- ROCKET *                              [223]
+- $ * ON +                              [223] ;JON 5/30/95
+- HEART *                               [---] ;JON 4/12/95
+- 1986 *                                [---] ;JON 5/5/95
+- * ARMY                                [223]
+- * MEET                                [121] ;JON 5/31/95
+- VOW *                                 [173] ;J 6/2/98
+- AIR *                                 [223]
+- NO *                                  [---]
+ATTEMPT [101?] ;jw   11/13/91
+- * BREAK DEADLOCK  [102] ;JON 5/7/95
+- ASSASSINATION *   [---]
+- * HALT BLOOD      [030] ;JON 5/31/95
+- SAID COUP *       [022]
+ATTEND [032:033]
+- HAS NOT MADE DECISION TO *  [---]
+- RESERVATIONS ABOUT *        [025] ;shan 1/7/94
+- SAID NOT * SUMMIT           [111]
+- NOT * CONFERENCE            [111]
+- * DEMONSTRATION             [133]
+- SAID AGREE TO *             [082:082]
+- UNLIKELY TO *               [112] ;shan 1/4/94
+- SAID * SUMMIT               [082:082]
+- * CONFERENCE                [032] ;JON 5/31/95
+- CONFERENCE *                [032] ;JON 5/31/95
+- % HAVE *                    [032]
+- NOT *                       [112]
+AUSTRALIAN OPEN [###] ;shan   9/23/93
+AUTHORIS [---] ;jw   11/25/91
+- ATTACK CARRIED OUT * BY  [121] ;shan   11/18/93
+- * CONFISCATION           [211]
+- * MEETING                [082:082]
+- * AID                    [071]
+AUTHORIZ [---] ;jw   11/25/91
+- * CONFISCATION  [211] ;tony  3/12/91
+- * MEETING       [082:082] ;tony  4/29/91
+- * AID           [071]
+AVOID [---] ;shan   8/17/93
+- QUOTE WAR DIFFICULT TO *  [022]
+- SAID WAR COULD NOT BE *   [022]
+AWARD [---] ;pas 2/2/96
+AXED [222] ;shan   8/12/93
+- * DEATH  [222]
+A_LEADING [---] ;DJG 7/28/96
+BACKED [042] ;jw   11/14/91
+- * AWAY FROM  [014]
+- * DOWN       [012]
+- * OUT        [012] ;shan 1/6/94
+BACK [042] ;shan   6/29/93
+- HIT * AT BATTERIES SHELLING POSITIONS  [223]
+- * AGGRESSION WOULD *FIRE               [171]
+- HIT * FIRING MISSILES                  [223]
+- WILL_NOT * DOWN FROM                   [112] ;JON 5/7/95
+- HIT * AT CRITICISM                     [122]
+- ARTILLERY FIRED *                      [223]
+- HOPES WILL GO *                        [---]
+- SENT * WEAPONS                         [111]
+- HIT * IN WAR                           [223]
+- SAID MOVE *                            [---]
+- * DOWN FROM                            [013]
+- * AWAY_FROM                            [014]
+- DEPORTEES *                            [---]
+- NOT * DOWN                             [112]
+- WILL NOT *                             [112]
+- BROUGHT *                              [032:033] ;JON 5/9/95
+- ALLOWED *                              [064]
+- % HAVE *                               [042]
+- $ HIT *                                [173] ;J 6/2/98
+- * RIGHT                                [042]
+- * HOME                                 [---]
+- MOVE *                                 [---]
+- *_FROM                                 [---] ;jw 10/1/91
+- SAID *                                 [051]
+- * OUT                                  [012] ;shan 1/6/94
+- * IN                                   [---]
+- * UP                                   [073]
+- * TO                                   [---]
+BANISH [201] ;jw 9/30/91
+BANNED [191] ;jw 9/24/91
+- SECRETS OF * WEAPONS  [---] ;shan 1/5/94
+- * BE LEGALIZED        [082]
+- * ARMS SALES          [193]
+- PREVIOUS *            [---] ;JON 3/10/95
+- * REPORT              [197]
+- SAID *                [191]
+BAN_ [191] ;tony  4/23/91
+- * EXPORTS TO +  [191] ;JON 5/24/95
+- LIFTING OF + *  [064] ;shan 1/6/94
+- * REPORT        [197]
+- SAID *          [172]
+- * USE           [150]
+BARGAIN [094] ;jw   11/13/91
+- REFUSAL TO *  [112] ;jw 9/24/91
+- RESUMED *     [031:031]
+BARRED [191] ;JW   11/1/91
+- * FROM LEAVING HOMES  [197]
+- * FROM TRAVELLING     [212]
+- ROUGH SEAS *          [---]
+- * TELEVISION          [197]
+- * OBSERVERS           [191] ;tony  3/9/91
+- * TRAVEL              [212]
+BAR_ [191]
+- * LEV  [---]
+BASEBALL [###] ;JON 3/7/95
+BASE [---] ;shan   9/27/93
+- * DIPLOMAT  [064]
+BASKETBALL [###] ;shan   7/25/93
+BATTLEFIELD [---] ;pas 2/3/96
+BATTLES [---] ;pas 2/11/96
+BATTLE [223]
+- SAID WINNING * FOR HEARTS  [024] ;shan 1/6/94
+- UPCOMING DIPLOMATIC *      [---]
+- * WEARY ATTACKED           [121]
+- * GROUP ARRIVED            [182]
+- * DEMONSTRATORS            [220]
+- STAGE MOCK *               [182]
+- POLITICAL *                [121]
+- PUBLICITY *                [---]
+- * CONGRESS                 [---] ;JON 5/29/95
+- *_OF_WORDS                 [121]
+- $ * WITH +                 [223] ;JON 5/8/95
+- *_IN_1982                  [###] ;JON 3/7/95
+- UPHILL *                   [---] ;j 6/4/98
+- * GROUP                    [---]
+- * TANK                     [---]
+- GUN *                      [223] ;shan   11/17/93
+BEAT [220] ;shan   8/6/93
+- SOLDIERS SYSTEMATICALLY * $  [220]
+- ECONOMY TAKING *             [---]
+- TROOPS *                     [220]
+BEEF_UP [---] ;shan   8/12/93
+- * TROOPS  [182]
+BEGAN [---]
+- * BLOCKING SUPPLIES  [211] ;tony  4/29/91
+- * HUNGER STRIKE      [133]
+- * EASING CURFEW      [065]
+- * QUESTIONING        [212]
+- * TALKS WITH         [031:031] ;pas 2/5/96
+- % * TALKS            [031:031] ;pas 2/5/96
+- * AIRLIFT            [073]
+- * SEARCH             [123] ;shan 1/7/94
+- * TOUR               [032:033] ;tony  3/13/91
+BEGIN [---] ;PAS   9/25/91
+- % SAID *_TALKS   [082:082]
+- SAID *_TALKS     [082:082]
+- * DELIVERY JETS  [072]
+- * MISSION_TO     [032:033] ;tony  3/9/91
+- * TRIP TO        [032:033]
+- * VISIT          [032:033]
+- * TALKS          [031:031]
+BEGUN [---] ;JON 5/8/95
+- * DIALOGUE  [031:031] ;JON 5/8/95
+BELIEVE [023?] ;jw   11/13/91
+- + SAID * $ WOULD MAINTAIN AID  [024]
+- SAID * RELATIONS STRENGTHENED  [024]
+- * PREPARING TO INVADE          [022]
+- * SHOULD USE FORCE             [102] ;j 6/3/98
+- SAID * WOULD AGREE             [024]
+- * WAR IS UNLIKELY              [024]
+- + * KIDNAP BY $                [121]
+- SAID DID NOT *                 [022]
+- FEW * TRIUMPH                  [022]
+- * DANGEROUS                    [022] ;shan   11/17/93
+- * NO POINT                     [022]
+- * KIDNAP                       [121]
+BESIEG [---] ;shan   8/12/93
+- FORCES *  [223]
+- * POST    [223] ;JON 5/9/95
+BETRAY [198] ;jw   11/13/91
+- SAID WOULD *  [172]
+BLAM [121] ;J 6/5/98
+- * FOR ATTACK  [121] ;JON 5/30/95
+BLAST [223] ;tony  3/12/91
+- GUNSHIPS AND ARTILLERY *  [223] ;shan 9/22/95
+- * FOR IMPOSING SANCTIONS  [122]
+- ARTILLERY *               [223] ;shan 9/22/95
+- WARPLANES *               [223] ;shan 8/26/95
+- * STATEMENT               [122] ;jw 10/3/91
+- READY TO *                [173]
+- * YEAR AGO                [---] ;shan 1/7/94
+- PLANES *                  [223] ;shan 9/22/95
+BLOCKADE [223] ;shan   7/25/93
+BOAST [024] ;shan 1/7/94
+BOMBARD [223] ;shan   2/18/93
+BOMBED [223] ;shan   2/20/93
+- * LAST MONTH  [---] ;JON 5/30/95
+BOMB_ [223] ;shan   2/18/93
+- GUERRILLAS DETONATED *  [223]
+- * MARKET                [---] ;JON 2/18/98
+- * ATTACK                [223] ;JON 5/5/95
+- * THREAT                [173]
+- STORE *                 [072]
+BOOSTED [---] ;shan   7/15/93
+- * PROSPECTS FOR DEVELOPMENT  [025]
+- % * + AIR DEFENCES           [072]
+BOWED [011] ;jw   11/14/91
+BOW_ [011] ;jw   11/14/91
+- * PRESSURE  [012]
+- WILL NOT *  [112]
+- NOT_*       [112]
+BOYCOTT [196] ;jw   11/13/91
+- DOES NOT BELIEVE * IS GOOD  [121] ;shan 1/5/94
+- SAID * ERODED               [024] ;JON 3/10/95
+- SAID WOULD *                [172]
+- WILL * TALKS                [172] ;shan 1/7/94
+- SAID WILL *                 [172]
+- SUGGEST *                   [172] ;JON 5/9/95
+- ENDING *                    [065]
+- * WORK                      [196]
+- LIFT *                      [070] ;JON 5/7/95
+- $ * +                       [172] ;JON 3/10/95
+BRAND [122] ;JON 3/1/95
+BREAKTHROUGH [---] ;PAS 2/5/96
+BREAK [---]
+- * DEADLOCK  [102]
+- * UNLIKELY  [022] ;shan 1/4/94
+- NOT * WITH  [024] ;JON 5/26/95
+- * WITH      [198]
+- * OFF       [195] ;tony  3/13/91
+BRIEF [025?] ;jw   11/14/91
+- *_ENCOUNTER  [---]
+- *_EXCHANGE   [---]
+- EXPERTS *    [025] ;JON 3/10/95
+- *_MEETING    [031:031]
+- *_PERIOD     [---]
+- *_TIME       [---]
+- *_TALK       [031:031]
+- $ * +        [025]
+BROADCAST [023] ;jw   11/13/91
+BROKE [---] ;SHAN   2/18/93
+- * DIPLOMATIC RELATIONS  [195] ;shan   11/18/93
+- GUNFIRE * OUT           [223]
+- * ALL TIES              [195]
+- *_RALLY                 [197]
+- * TRUCE                 [198]
+BROUGHT [---] ;jw   11/15/91
+- * GIFTS  [043]
+BRUSH [---] ;shan   8/12/93
+- * ASIDE REPORTS  [142]
+BUILD [---] ;shan   8/17/93
+- SAID CONTINUING TO * FORTIFICATIONS  [121]
+- SAID CONTINUING TO * FORTIFICATIONS  [121]
+- NO LONGER HAD MEANS TO * BOMB        [054] ;shan   11/29/93
+- SAID * RELATIONSHIP                  [082:082]
+- * UP FORCES                          [182]
+BURIED [---] ;shan   8/12/93
+- $ SAID + * ALIVE  [121]
+- * ALIVE           [223]
+BURN [222] ;shan   8/6/93
+- * HOMES  [222]
+- * FLAGS  [133]
+- * FLAG   [133]
+- * HOME   [222]
+- * DOWN   [222]
+BURY [---] ;shan   8/12/93
+- * ALIVE  [223]
+BUY [---] ;shan   8/3/93
+- * FIGHTER-BOMBERS  [082]
+- CONTRACTED TO *    [081:081]
+- * FOOD             [081] ;<Enter 6/2/98
+CALLED [---] ;shan   2/18/93
+- *_ON + FORCES FOR PROTECTION  [095] ;JON 5/15/95
+- * FOR END TO FIGHTING         [094]
+- *_ON + FOR PROTECTION         [095] ;JON 5/15/95
+- * OFF ADDING CARRIER          [065]
+- $ *_ON + WITHDRAW             [094] ;JON 5/9/95
+- *_ON + INVESTIGAT             [094] ;JON 5/15/95
+- * FOR CEASE-FIRE              [094] ;JON 5/24/95
+- * MISSILE ATTACK              [121]
+- * TOTALLY UNTRUE              [141]
+- * FOR AGAINST +               [094] ;shan 1/5/94
+- * FOR MEETING                 [102] ;shan   11/22/93
+- * FOR SUMMIT                  [102]
+- * THREAT                      [121] ;shan 9/20/95
+- * MADMAN                      [121]
+- % * FOR                       [094] ;shan 8/25/95
+- * FOR                         [094]
+- *_ON                          [094]
+CALLING_FOR [094] ;shan   2/20/93
+- * WITHDRAW  [093] ;JON 5/15/95
+- $ * +       [094] ;JON 5/4/95
+CALL_ [---] ;jw   11/13/91
+- * FOR PROTECT OF  [054]
+- * FOR_SANCTIONS   [172]
+- * STEP TOWARDS    [025?]
+- * AMBASSADORS     [082:082] ;tony  4/19/91
+- * UNJUSTIFIED     [121] ;tony  3/13/91
+- * END FIGHT       [102] ;JON 5/24/95
+- * FOR CEASE       [012] ;JON 5/24/95
+- * DICTATOR        [122] ;tony  3/12/91
+- * MEETING         [101]
+- * FOR_WAR         [173] ;tony  4/26/91
+- * UPON            [102]
+- * END             [102]
+- * FOR             [094]
+- * OFF             [191]
+- *_ON              [094]
+CANCEL [191]
+- * WITHDRAWAL ACCORD  [198]
+- AIR RAID ALERT *     [191]
+- DECIDE AGAINST *     [065] ;JON 5/17/95
+- $ * TRIP +           [191] ;JON 5/5/95
+- * FLIGHTS            [192]
+- * DEBT               [071]
+CANDIDATE [034] ;jw   1/14/92
+CANNES [###] ;shan   10/28/93
+CAPTURE [210] ;jw   11/13/91
+- + * BY $  [210] ;j 5/28/98
+- $ SAID *  [210] ;JON 5/7/95
+CARRIED_OUT [---]
+- AIRCRAFT CARRIERS * JOINT MANEUVERS  [182] ;shan 9/18/95
+- * MILITARY OPERATION                 [182]
+- * JOINT MANEUVERS                    [182] ;shan 9/18/95
+- PLANES * RAIDS                       [223]
+- SAID ATTACK *                        [121] ;shan   11/18/93
+- SAID * RAIDS                         [223]
+- * EXERCISES                          [182]
+- ATTACK * BY                          [121] ;shan   11/18/93
+- * RAID                               [211]
+CARRY_OUT [---]
+- * EXERCISES  [182] ;tony  3/9/91 
+- * RAID       [211]
+CARTOON [###] ;<Enter 6/2/98
+CAST [---] ;SHAN   8/12/93
+- * DOUBT  [142]
+CAUGHT [212] ;pas   9/22/91
+- FEARFUL * MIDDLE IF WAR BREAKS OUT  [025]
+- * CROSSFIRE                         [223] ;tony  3/9/91
+- * SURPRISE                          [023] ;JON 3/7/95
+- * UP                                [---]
+CAUSE [---] ;shan   8/3/93
+- SAID * MASSIVE LOSSES  [022]
+- BOMBERS * CASUALTIES   [223]
+- SAID * BLOODSHED       [121]
+CAUTION [160] ;shan   8/25/93
+CEASE [---] ;shan   8/12/93
+CELEBRATE [043] ;jw   11/13/91
+- * DECISION  [042] ;tony  3/9/91
+CENSOR [197] ;jw   11/13/91
+CENSURE [121] ;JON 5/17/95
+CHALLENGE [094] ;jw   11/14/91
+- AGGRESSIONS AND CALAMITIES REPRESENT *  [022]
+- * CREDENTIALS                           [142]
+CHAMPIONSHIP [###] ;JON 5/8/95
+CHANGE [---] ;pas   9/24/91
+- SAID * SPELLED DANGER  [022]
+- * CONSTITUTION         [027]
+- NOT * POSITION         [111] ;tony  3/9/91
+- UNLIKELY TO *          [020] ;JON 5/31/95
+CHARGE [121] ;pas 1/31/96
+- WILL * WITH INCITING  [172] ;tony  3/9/91
+- TAKING DIRECT *       [---]
+- SAID * WAS LIE        [141]
+- * WITH ENDING         [102]
+- * INTO CROWD          [222]
+- IN_*                  [---]
+CHASTISE [121] ;jw   11/14/91
+CHESS [###] ;shan 1/6/94
+CHIDE [122] ;jw   11/14/91
+CIRCLE [---] ;shan   8/10/93
+- HELICOPTERS *  [182]
+- PLANES *       [182]
+CLAIM [---] ;shan   8/4/93
+- $ * RESPONSIBILITY FOR ATTACK ON +  [223]
+- * RESPONSIBILITY                    [013] ;shan   11/17/93
+- * VICTORY                           [024]
+CLAMBER [---] ;JW   1/22/92
+- * OVER BORDER  [114]
+CLAMP [---] ;shan   8/12/93
+- * CURFEW  [197]
+CLASH [223]
+- * OVER IMPRISONMENT  [131]
+- * WITH PROTESTERS    [224]
+- * OVER EFFORTS       [121] ;jw 9/25/91
+- PARLIAMENT *         [112]
+- * BETWEEN %          [223] ;pas 1/31/96
+- * AT SUMMIT          [022] ;shan   11/29/93
+- POLITELY *           [121] ;shan 1/5/94
+- LEADER *             [122] ;JON 2/18/98
+- * DEBATE             [121] ;tony  4/22/91
+- TROOPS *             [223]
+- $ * +                [223] ;JON 5/4/95
+- % *                  [223] ;JON 5/4/95
+CLIMB [---] ;jw   1/21/92
+- * BORDER FENCE  [114]
+CLOSE [---]
+- * TO BREAKING DEADLOCK  [024] ;shan 8/26/95
+- * OPENING EMBASSY       [064]
+- * TO RESOLVING          [024] ;JON 3/1/95
+- * UNIVERSITIES          [192]
+- FORCES * ROAD           [192]
+- * IN RESPONSE           [133] ;shan   11/17/93
+- * UNIVERSITY            [192]
+- * MAIN LINK             [192]
+- * DOWN NEWS             [197]
+- CAR BOMB *              [223]
+- * AIRSPACE              [192]
+- EMBASSY *               [192]
+- * THEATER               [192]
+- * EMBASSY               [195] ;tony  4/26/91
+- * OFFICE                [201]
+- * BORDER                [192] ;tony  4/26/91
+- * ROUTE                 [192]
+- MOVED *                 [---]
+- * BASES                 [193]
+- * SHOP                  [192] ;shan 1/7/94
+- * DOWN                  [197]
+CLOSING [---] ;shan 1/7/94
+- * ROADS  [192] ;shan 1/7/94
+COCAINE [---] ;jw   11/14/91
+COLLECT [---] ;shan   8/12/93
+- * DOCUMENTS  [123]
+COLLIDE [---] ;jw   1/21/92
+- JETS *  [---]
+COMMEND [042] ;jw   11/14/91
+COMMENT [023] ;shan   9/6/93
+- SAID HAD NO *  [021]
+COMMITTED [054] ;shan 1/7/94
+COMMITT_ [---] ;shan 8/26/95
+- * TO HELPING  [054] ;shan 1/6/94
+COMMIT_ [053] ;shan   8/18/93
+- * HELPING  [053]
+- * CRIME    [221]
+COMMUNICATE [023?] ;jw   11/14/91
+COMPENSAT [073] ;jw   11/15/91
+- CLAIM *  [152]
+COMPLAIN [131] ;jw   11/14/91
+COMPLETE [---]
+- * BILL FORGIVING DEBT  [073] ;tony  4/21/91
+- * WITHDRAWAL           [012]
+- * WORK                 [073?]
+COMPLI [081] ;shan   8/25/93
+- NO CHANGE UNTIL *  [025]
+- NO INDICATION + *  [111]
+COMPLY [081] ;shan   8/18/93
+- UNCLEAR WHETHER *  [023]
+- SAID WILL NOT *    [112]
+- MUST * OR FACE     [173]
+- SAID MUST *        [150]
+- FORCE *            [150]
+COMPROMISE [081:081] ;tony  3/12/91
+- STRUGGLE TO FIND *  [---]
+- NOT * SOVEREIGNTY   [024] ;JON 5/31/95
+- PREPARED FOR *      [024]
+- NOT *               [112] ;shan 1/6/94
+CONCEAL [142] ;jw   11/14/91
+CONCED [010] ;shan 9/5/95
+- * HAD OVERREACHED  [010] ;shan 9/5/95
+CONDEMN [122] ;pas 1/31/96
+- * SHOOTING BY +  [132] ;pas 1/31/96
+- * BOMBING IN +   [061] ;JON 2/18/98
+- * ATTACK ON +    [061] ;JON 2/18/98
+- * RAID BY +      [132] ;pas 1/31/96
+- * SHOOTING       [122] ;JON 5/3/95
+- * MASSACRE       [022] ;JON 5/3/95
+- JOIN IN_*        [132] ;pas 1/31/96
+- ISSUE *          [132] ;pas  3/2/91
+CONFERENCE [---] ;JW   10/29/91
+CONFER [031:031]
+CONFINE [212]
+CONFIRM [---] ;jw   11/13/91
+- * WOULD VISIT  [082] ;tony  4/29/91
+- * ALLEGATION   [042]
+- * COMMITMENT   [054]
+- * SUPPORT      [042]
+CONFISCATE [211]
+CONGRATULATE [041] ;tony  4/28/91
+CONSIDER [025?] ;shan   8/10/93
+- * NO AUTHORIZATION NEEDED  [025]
+- * COMPROMISE PROPOSAL      [082:082] ;JON 5/7/95
+- SAID WOULD * IF ASKED      [025]
+- * PROPOSAL TO LEAVE        [082:082]
+- * SENDING MISSILES         [025]
+- WOULD * RELEASING          [025] ;shan 1/7/94
+- WILL * SITUATION           [025]
+- * GIVE MISSILES            [025]
+- * NO WITHDRAW              [112] ;JON 5/8/95
+- SAID WOULD *               [025]
+- * UNRELIABLE               [022]
+- * RESOLUTION               [025]
+- * WAR GAMES                [025] ;shan 1/5/94
+- * SANCTIONS                [025]
+- * CRITICAL                 [022] ;J 6/2/98
+- * PROPOSAL                 [082:082]
+- NO * UNTIL                 [111]
+- * BUILDING                 [082]
+- * LENDING                  [025]
+- * DEPLORE                  [022]
+- * CUTTING                  [172]
+- * CLOSING                  [022]
+- * HOSTILE                  [171]
+- * APPEAL                   [182]
+- * STRIKE                   [072]
+- * PLAN                     [025]
+- * EASE                     [024] ;JON 5/4/95
+- MAY *                      [025]
+- * BAN                      [072]
+- NOT *                      [111]
+CONSULT [031:031]
+CONTACT [031:031]
+- * SHOULD BE BLOCKED  [102]
+- * COMPLICATE         [022]
+- ENDED *              [195] ;shan 1/4/94
+CONTINUE [---]
+- SAID WOULD * MILITARY OPERATIONS  [173]
+- PROBLEMS * NEGOTIATIONS           [022]
+- SAID WOULD * STRIKE               [172]
+- % * MARATHON TALKS                [030] ;shan 8/25/95
+- * WITH TANKS                      [223]
+- * UPRISING                        [224]
+- * TALKING                         [031:031]
+- * SUPPLY                          [073]
+- * TALKS                           [031:031]
+CONTRIBUT [073] ;jw   11/13/91
+- SAID RECOGNITION WOULD NOT *  [121]
+- SAID TALKS WOULD NOT *        [022]
+- * DOLLAR                      [071]
+CONVERGE [181] ;jw 9/24/91
+CONVEY [---]
+- * CONCERN  [022]
+COOPERAT [073]
+- ORDERED RESTRICTION *  [190]
+- TALKS TO PROMOTE *     [031:031]
+- TOLD HAD TO *          [102] ;JON 3/7/95
+- ABANDON *              [111] ;JON 3/7/95
+- LEAST *                [121]
+COORDINAT [081:081] ;shan   8/17/93
+- SAID WOULD *  [082:082]
+COST [---] ;SHAN   9/6/93
+- SAID * CREDIBILITY  [022]
+COUNTER [---] ;shan   8/17/93
+- SAID TAKE MEASURES TO * ATTACK AGAINST ALLY  [173]
+- SAID COULD * +                               [173]
+COURT [---]
+- * SENTENCED TO PRISON  [212]
+- TO *                   [095] ;tony  3/14/91
+CRASH [---] ;shan   8/5/93
+- SHELLS *  [223]
+- CAR *     [---]
+CREATE [---] ;shan   8/12/93
+- * NEW CONSTITUTION  [027]
+CRITICI [121] ;jw   11/14/91
+- + DESPITE * FROM $  [121]
+- BROKE PATTERN OF *  [024] ;shan 1/4/94
+- STOPPED *           [054]
+- * OTHERS            [---]
+- FORCE *             [121]
+- * OTHER             [---]
+- NOT *               [054]
+CROSS [---] ;JW   11/26/91
+- * BORDER FORTIFICATION  [114]
+- + * BORDER INTO $       [063]
+- RESTRICTING *           [192]
+- STOP FROM *             [112]
+- * INTO                  [031:031]
+CRUSH [---] ;j 6/3/98
+- PREPAR * REVOLT  [173] ;j 6/3/98
+- * REVOLT         [223] ;j 6/3/98
+CURB [---] ;shan   7/19/93
+CURSE [122] ;jw   11/14/91
+CUT [190] ;shan   7/1/93
+- + WILL * AID IF IT DOES NOT  [172]
+- * DIPLOMATIC STAFF           [192]
+- * DEFENSE SPENDING           [016]
+- OFFER TO * OUTPUT            [101] ;shan 1/6/94
+- * OIL PRODUCTION             [---] ;JON 5/24/95
+- * EMBASSY STAFF              [192]
+- WILL NOT * AID               [054]
+- NOT ANY *                    [---]
+- NOT * AID                    [054]
+- $ * DEAL                     [082] ;JON 3/7/95
+- * LOAN                       [193] ;JON 5/9/95
+- * AID                        [193]
+DAMAGE [222] ;jw   10/24/91
+- SAID * RELATIONS  [122]
+- * INFLICT BY $    [223] ;JON 5/24/95
+- * RELATIONS       [192]
+- GRENADE *         [223]
+DANGLE [---] ;shan   8/12/93
+- * DIPLOMATIC CARROT  [101]
+DAVIS_CUP [###] ;JW   10/17/91
+DEAL_ [080] ;<Enter 6/2/98
+- STEPPING UP CAMPAIGN TO FOIL *  [131] ;shan 1/6/94
+- SAID OCCUPATION * SEVERE BLOW   [121]
+- * BLOWS TO PEACEMAKING          [022]
+- CAMPAIGN TO SCUTTLE *           [131] ;shan 1/6/94
+- DOUBTS READY FOR *              [022] ;shan 1/5/94
+- SAID EXPECT *                   [024] ;jon 2/18/98
+- STOP FINANC *                   [194] ;JON 5/8/95
+- COULD * BLOW                    [173]
+- * ONLY IF                       [150] ;JON 5/9/95
+- OPPOSE *                        [121] ;JON 3/10/95
+- STOP *                          [194] ;JON 5/8/95
+DEBATE [031:031] ;jw   11/20/91
+DEBRIEFING [066] ;JW   1/16/92
+DECIDE [---]
+- * TO MAINTAIN PEACE-KEEPING FORCES  [182]
+- * TO CLOSE MISSION                  [191]
+- * SEND DELEGATION                   [032]
+- * NOT COOPERATE                     [112]
+- * TO TAKE TIME                      [192] ;pas 2/5/96
+- SAID HAD NOT *                      [025]
+- NOT FORMALLY *                      [025]
+- * SEND LETTER                       [031]
+- * TO EXPEL +                        [200] ;JON 5/9/95
+- SAID WOULD *                        [025]
+- * ESTABLISH                         [082:082]
+- * NOT SEND                          [112]
+- * REJECT                            [111]
+- * LIMIT                             [197] ;JON 5/9/95
+- * BAR_                              [191] ;JON 5/15/95
+- * LIFT                              [012]
+DECLARE [---]
+- * WOULD FIGHT +  [173] ;shan 9/20/95
+- * OPPOSITION +   [132] ;J 6/2/98
+- * CEASEFIRE      [014]
+DECLINE [111] ;shan   7/24/93
+- * COMMENT  [021]
+- * CONDEMN  [021] ;JON 5/4/95
+- * PREDICT  [021] ;JON 5/7/95
+- * TO SAY   [021]
+DECRIED [121] ;jw   11/14/91
+DECRY [121] ;jw   11/14/91
+DEFEAT [223] ;jw   11/13/91
+- * PRIME MINISTER SHAMIR  [---]
+- ALLIANCE THAT *          [---]
+- SAID WOULD *             [160] ;j 6/3/98
+- * GOVERNMENT             [---]
+- * CANDIDATE              [---]
+- * CHALLENGE              [111]
+- * PROPOSAL               [111]
+DEFEND [042] ;jw   11/14/91
+- SAID WOULD * AGAINST ATTACK ON TERRITORY  [173]
+- GUERRILLAS WOULD * THEMSELVES             [173]
+- * STRUGGLE AGAINST                        [112]
+- SAID READY TO *                           [171]
+- PLEDGED WOULD *                           [173]
+- * DESTRUCTION                             [122] ;tony  4/26/91
+- VOWED TO *                                [171]
+- * DECISION                                [142?]
+- * OF CAMP                                 [---]
+- * ITSELF                                  [160] ;j 6/3/98
+- * PLAN                                    [042]
+- * BAN                                     [196]
+DEFER [111] ;jw   11/14/91
+DEFIE [132] ;jw   11/13/91
+- * CRITICISM  [141] ;tony  4/26/91
+- HAVE * BAN   [112] ;tony  3/12/91
+- * ORDER      [113]
+- * RULE       [113]
+- * BAN        [112]
+- * LAW        [113]
+DEFUSE [---] ;shan   8/11/93
+- CONFRONTATION *  [065]
+DEFY [132] ;JW   10/28/91
+- * CRITICISM  [141] ;tony  4/26/91
+- * ORDER      [113]
+- * RULE       [113]
+- * LAW        [113]
+DELAY [---]
+- * OPENING POINT  [025] ;shan 1/7/94
+- * FINANCIAL AID  [193]
+- * DECISION       [191] ;pas 2/5/96
+- * RESPONSE       [021]
+- * CONSIDER       [111]
+- * ACTION         [112]
+- ASKED *          [094] ;j 6/1/98
+- SAID *           [022] ;j 6/1/98
+DELIVER [031] ;JON 5/31/95
+- * FOOD AND MEDICAL  [073]
+- $ TOOK * OF JET     [072]
+- * PROTEST           [132]
+- * ATTACK            [122]
+- * REBUFF            [111]
+- $ * FOOD            [073]
+DEMAND [150] ;jw   11/14/91
+- $ * WITHDRAW +  [150] ;JON 5/29/95
+- $ * TO SEARCH   [150]
+- * RELEASE       [151] ;JON 4/24/95
+- REJECT *        [111] ;JON 4/24/95
+DEMJANJUK [###] ;shan   7/23/93
+DEMOLISH [223] ;pas 1/31/96
+- PROTESTERS *  [222]
+- EXPLOSION *   [222]
+- * EXPERT      [---] ;shan 1/7/94
+- * WALL        [084]
+DEMONSTRATE [181] ;pas 2/2/96
+DEMONSTRATION [181?] ;pas 2/2/96
+- CLAMP_DOWN *  [112]
+- * ERUPTED     [132]
+- * SUPPORT     [042]
+- HOLD *        [181]
+DENIED [140] ;jw   11/14/91
+- * DEMAN PRICE CUT  [140] ;JON 5/29/95
+- * PLAN VISIT +     [141] ;JON 5/15/95
+- * ACCUSATION       [140] ;JON 5/9/95
+- + * ACCESS $       [201]
+- RELIEF TO *        [---] ;shan 1/7/94
+- * SIGN             [140] ;JON 2/9/95
+DENIES [141] ;shan   8/18/93
+DENIGRATE [122] ;shan   8/5/93
+DENOUNC [121] ;shan   9/6/93
+- * KILL  [122]
+DENY [140] ;jw   11/14/91
+- * ACCUSATION  [140] ;JON 5/9/95
+- * CHARGES     [141] ;shan   11/29/93
+- + *           [141]
+DEPARTMENT [---] ;<Enter 2/5/96
+DEPART [032:033] ;shan   8/12/93
+- TRANSPORTATION *  [---] ;shan 1/7/94
+- CENTRAL *         [---] ;shan 1/7/94
+DEPLOR [122] ;shan   6/29/93
+- SAID *  [122]
+DEPLOY [182]
+- * MILITIA  [182]
+- * TROOPS   [182]
+- * FORCES   [182]
+- FORCE *    [182]
+- * ARMS     [182]
+- PAY *      [071] ;j 6/3/98
+DEPORT [201] ;jw 9/30/91
+- + FAC * $  [201] ; "FACING" pas 2/5/96
+DESCRIBE [025] ;jw   11/14/91
+- * DETRIMENT  [022] ;JON 5/8/95
+DESPAIR [121] ;jw   11/14/91
+- SAID *  [024] ;JON 5/5/95
+DESTROY [220] ;jw   11/13/91
+- COULD NOT STAND BY AND ALLOW TO BE *  [121]
+- SAID + MOTIVE WAS TO *                [121]
+- * GUERRILLA TARGETS                   [223]
+- * MILITARY VEHICLE                    [223]
+- SAID FIGHTING *                       [022]
+- SAID FIGHTING *                       [022]
+- CASUALTY TOLL *                       [022]
+- THREATS TO *                          [173]
+- SAID WOULD *                          [173]
+- SAID COULD *                          [160] ;JON 5/30/95
+- JETS * BASE                           [223]
+- SAID WILL *                           [173]
+- WARPLANES *                           [223]
+- * + HOUSES                            [222]
+- * WEAPONS                             [211]
+DETAIN [212]
+- $ TROOPS * +  [212] ;shan 1/6/94
+- CONFIRMED *   [212]
+- BRIEFLY *     [212] ;shan 1/6/94
+- FREED *       [066]
+DETONATE [223] ;shan   8/4/93
+- GUERRILLAS * BOMB  [223]
+DEVALUE [###] ;jw   11/14/91
+DIED [---] ;jw   11/13/91
+- * HEART ATTACK  [---] ;JON 4/12/95
+- + * $           [220]
+DIE_ [220] ;jw   11/13/91
+- RATHER *  [022] ;JON 3/10/95
+- * WELT    [---]
+DISAGREE [111] ;jw   11/14/91
+DISAPPOINT [142?] ;jw   11/14/91
+- SAID *  [121]
+DISAPPROVE [121] ;jw   11/14/91
+DISARM [221] ;JON 3/6/95
+- SAID MUST START *  [150] ;JON 5/4/95
+- AGREE TO *         [085]
+DISBAND [016] ;jw   12/3/91
+- AGREE TO *  [085]
+DISCLOS_ [020] ;shan 9/18/95
+- EXPECTED TO * MEASURES  [025] ;shan 9/20/95
+DISCUSS [031:031] ;pas 2/3/96
+- READY TO *  [082:082]
+- AGREE TO *  [082:082]
+- MET TO *    [031:031]
+- AIDES *     [031:031]
+- NOT *       [111]
+- % *         [031:031] ;pas 2/3/96
+DISMANT [---] ;jw   11/25/91
+- * FRONTIER  [064]
+DISMISS [111] ;jw   11/14/91
+- * ACCUSATION  [141]
+- * ASSERTION   [141]
+- * CHARGES     [141] ;shan   11/29/93
+- * REPORT      [141]
+- * CLAIM       [141]
+- NOT *         [---]
+DISPERSE [220] ;jw   11/13/91
+DISPUTE [132] ;JON 5/5/95
+- % SETTLE *  [081:081] ;JON 5/8/95
+- % *         [132] ;JON 5/5/95
+DISSOLVE [203] ;jw   1/21/92
+DISTANCE [---] ;shan   8/12/93
+- * THEMSELVES  [142]
+DISTRESSED [022] ;shan   8/12/93
+- * BY  [022]
+DISTRIBUT [---] ;shan   8/12/93
+- SAID * SUPPLIES  [073]
+- SAID * FOOD      [073]
+- * SUPPLIES       [073]
+- * FOOD           [073]
+DISTURB [---] ;shan   8/17/93
+- SAID * BY SUGGESTIONS  [141]
+- SAID *                 [022]
+DIVERSIFY [---] ;shan   7/19/93
+- * SUPPLIERS  [025]
+DOCK [---] ;shan   6/28/93
+- CARRIER EXPECTED TO *  [182]
+DONATE [073] ;jw   10/18/91
+- * DOLLARS  [071]
+DOUBLED [---] ;shan   6/28/93
+- * TROOPS  [182]
+DRAFT [---] ;shan   8/5/93
+- * CONSTITUTION  [027]
+- * PLAN PATROL   [101] ;JON 5/29/95
+- * STANCE        [102]
+- * PLAN          [101]
+DRAG [---] ;J 1/11/98
+- * FEET  [131] ;J 1/11/98
+DRAW [223] ;shan   8/12/93
+- SAID WOULD NOT * COUNTRY IN  [025]
+- % ARE AT DAGGERS *           [122]
+- * GROUND-FIRE                [223]
+- * STATEMENT                  [025]
+- * PICTURE                    [---] ;jon 6/14/95
+DREAM TEAM [###] ;shan   8/11/93
+DRIVE [---] ;<Enter 6/2/98
+- * + OUT  [173] ;<Enter 6/2/98
+DROP [---] ;<Enter 6/2/98
+- AIRCRAFT AND HELICOPTERS *  [223]
+- * ARREST WARRANT            [066] ;jw 9/30/91
+- * INVESTIGATION             [012]
+- JETS * FLARES               [223]
+- * LEAFLETS                  [182]
+- * SUPPORT                   [111]
+DRUG [---] ;shan   8/12/93
+- *_OFFENSES  [---]
+DUMP [---] ;SHAN   8/12/93
+- * PALESTINIANS AND FOREIGNERS AT BORDER  [202]
+EARMARK [---] ;shan   8/12/93
+- * EMERGENCY AID  [071]
+EASED [012?] ;jw   11/14/91
+- * CURFEWS  [065]
+EASING [---] ;shan   11/17/93
+- TENSIONS *  [065] ;shan   11/17/93
+ELECTED_PRESIDENT [034] ;jw   11/13/91
+ELECTION [---] ;PAS 2/5/96
+ELECTRI [---] ;JW   1/16/92
+ELECTRO [---] ;shan   2/20/93
+ELECT [034] ;JW   12/2/91
+- LET HOLD *  [064]
+- UNLIKELY *  [112]
+- * UNLIKELY  [112]
+- APPLAUD *   [041]
+- HOLD *      [034]
+ELIGIBLE [---] ;jw   11/15/91
+- + BEC * LOAN $  [071] ; become/became
+EMBARGO [193] ;shan   8/17/93
+- SAID IN DEFIANCE OF *  [121]
+- * DOES NOT             [174] ;shan 1/6/94
+- AGAINST *              [065] ;JON 5/8/95
+EMBARK [032:033]
+EMIGRATE [198] ;jw   11/13/91
+EMMY [###] ;shan 1/6/94
+ENCOUNTER [---] ;shan   8/9/93
+- * RELUCTANCE  [022]
+ENCOURAG [042] ;shan   9/6/93
+- SAID WERE *  [024]
+- SAID NOT *   [022]
+- * ATTACK     [173] ;J 6/2/98
+ENDANGER [171] ;jw 9/29/91
+- * INTERESTS  [171]
+ENDED [---] ;jw   11/13/91
+- * HOSTILITIES  [012]
+- * FIGHTING     [011]
+- * MEETING      [191] ;shan 10/2/95
+- GUNFIRE *      [011] ;jw 9/29/91
+- * GUNFIRE      [011]
+- FIGHT *        [011] ;jw 9/29/91
+ENDORSE [042] ;jw   11/14/91
+- * DEAL  [042] ;JON 5/5/95
+ENFORC [180] ;shan   11/8/93
+- WARPLANES *  [182]
+- * SANCTIONS  [197]
+- * AGENC      [---] ;shan 1/7/94
+ENGAGE [---] ;shan   8/12/93
+- % AGREE TO * IN DIALOGUE  [082:082]
+- * IN DIPLOMACY            [031:031]
+- TROOPS *                  [223] ;JON 5/24/95
+- * FIRE                    [223]
+- NOT *                     [112] ;J 6/2/98
+ENHANCE TRADE_EXCHANGES [064]
+ENSURE [054] ;shan   8/17/93
+- SAID WOULD TAKE NECESSARY STEPS TO * SECURITY  [171]
+- SAID COULD NOT * SAFETY OF                     [171]
+ENTER [---]
+- SAID * INTO  [082:082]
+- ALLOW TO *   [063]
+ENTREAT [095] ;shan   8/5/93
+EQUIP [070?] ;shan   6/29/93
+- * WITH MISSILES  [072]
+- BLEW UP *        [223] ;JON 5/8/95
+ERUPT [---] ;shan   9/6/93
+- ROCKET DUELS *  [223] ;shan 1/4/94
+- ARTILLARY *     [223] ;shan 1/4/94
+- FIGHT *         [223]
+ESTABLISH [064?] ;jw   11/13/91
+- SAID FAVOURED * OF STATE  [064]
+- SAID FAVORED * OF STATE   [064]
+- * MILITARY OUTPOSTS       [182]
+- * OFFICIAL TIES           [064]
+- LONG WAY FROM *           [111]
+- * RELATIONS               [064]
+- *_WHETHER                 [---] ;jw 10/1/91
+EVACUATE [198] ;jw   11/13/91
+- GIVEN DAYS TO *  [174] ;shan 1/6/94
+- ORDERED TO *     [150] ;shan 1/5/94
+- SAID * STAFF     [198]
+- TOLD TO *        [150] ;shan 1/5/94
+- WOUNDED *        [012]
+- * STAFF          [198]
+EVICT [198] ;shan   8/4/93
+EXCHANG [---]
+- * ARTILLERY AND ROCKET FIRE  [223]
+- % HAVE_*_INFORMAL            [082:082]
+- * BITTER WORDS               [122]
+- * AMBASSADORS                [064]
+- ARTILLERY *                  [223] ;J 5/15/95
+- * PRISONERS                  [066]
+- * FEELERS                    [031:031]
+- ROCKET *                     [223]
+- * FIRE                       [223]
+EXCLUD [121] ;shan   8/12/93
+- UNREALISTIC TO THINK COULD BE *  [023]
+- SAID * ITSELF                    [022]
+- $ * +                            [121] ;JON 3/10/95
+EXECUT [220] ;shan   8/12/93
+EXERCIS [---] ;shan   8/12/93
+- % TAKE PART MILITARY *   [073] ;JON 5/8/95
+- * RIGHT OF SELF-DEFENSE  [173] ;shan   11/22/93
+- MILITARY *               [182]
+EXERCIZ [---] ;shan   8/12/93
+- * RIGHT OF SELF-DEFENSE  [173] ;shan   11/22/93
+- MILITARY *               [182]
+EXPAND [211] ;shan   8/12/93
+- SAID * TIES WERE IN INTERESTS  [024]
+- * INVESTIGATION                [123]
+- * CONTROL                      [211]
+EXPECT [---] ;jw   11/13/91
+- * INCREASE IN AIR STRIKES  [022]
+- * NEW ROUND OF DIPLOMACY   [031:031]
+- * TO DISCLOSE MEASURES     [025] ;shan 9/20/95
+- SAID DID NOT *             [023]
+- SAID * ATTACKS             [022]
+- SAID * ATTACK              [022]
+- * AGREEMENT                [024?]
+- TEMPERED *                 [022] ;JON 4/12/95
+- * CONDEMN                  [022]
+- * REBUFF                   [022]
+- * EXTEN                    [094]
+EXPEL [200] ;jw   11/13/91
+- * ALLOWED RETURN  [065]
+- + * FROM $        [200]
+- PLAN_TO_*         [201]
+EXPLAIN [025] ;shan   8/5/93
+- * DIFFERENCES  [025]
+- * POSITION     [025]
+EXPLO [---] ;SHAN   2/20/93
+- * SHOOK BUILDING  [023]
+- * ROCKED VILLAGE  [223]
+- * WENT OFF        [223]
+- TIMEBOMB *        [222]
+- * MARKET          [---] ;JON 2/18/98
+- BOMBS *           [220]
+EXPORT [073] ;shan   8/8/93
+- SANCTION *  [192]
+- * GUNS      [072]
+EXPRESSWAY [###] ;shan   8/18/93
+EXPRESS [020?] ;jw   11/13/91
+- * HOPE WOULD REACH COMPROMISE  [024]
+- * DISAPPOINTMENT               [022]
+- * SHOCK AT SHOOT               [020] ;JON 5/31/95
+- * UNDERSTANDING                [042]
+- JOIN * CONCERN                 [022]
+- * SATISFACTION                 [042]
+- * CONDOLENCES                  [061] ;shan 9/18/95
+- * DISPLEASURE                  [022]
+- * RESERVATION                  [022]
+- * INDIGNATION                  [131]
+- * CONFIDENCE                   [024]
+- $ * ANGER +                    [121] ;JON 5/31/95
+- * OPTIMISM                     [024]
+- * SUPPORT                      [042]
+- * CONCERN                      [131]
+- * OUTRAGE                      [122]
+- * DISMAY                       [121]
+- * REGRET                       [061]
+- * FEARS                        [022]
+- * WISH                         [094]
+- * HOPE                         [024] ;JON 5/7/95
+EXTEND [---]
+- * MILITARY ASSISTANCE  [072]
+- * MILITARY PRESENCE    [182]
+- * MANDATE OF FORCE     [072]
+- PREPARED * CREDITS     [071]
+- * LIFE OF FORCES       [072]
+- * ECONOMIC AID         [071]
+- * MILITARY AID         [072]
+- * CONDOLENCES          [041] ;tony  3/14/91
+- * HAND                 [073]
+- * LIFE                 [065]
+EXTRADITE [212] ;JW   10/28/91
+- + * TO $  [212]
+- NOT *     [---]
+FACE [---] ;shan   8/17/93
+- SAID WAS LIKELY TO * ATTACKS  [022]
+- SAID WOULD * SERIOUS PROBLEM  [022]
+FAIL [---]
+- * TO REACH COMMON POSITION  [111]
+- + * GAIN MEMBERSHIP $       [142]
+- * TO REACH AGREEMENT        [111]
+- % * BREAK DEADLOCK          [022] ;shan 8/26/95
+- + * TO PERSUADE $           [111] ;pas 2/3/96
+- % HAVE * AGREE              [111]
+- * TO RETALIATE              [121] ;shan 1/7/94
+- SAID WOULD *                [022]
+- * RESPOND                   [111] ;tony  3/14/91
+- * AGREE                     [111]
+- SAID *                      [022?] ;<Enter 6/2/98
+FAVOR [042] ;shan   7/24/93
+- SAID * ESTABLISHMENT OF STATE  [064]
+- * BOMB                         [160] ;j 6/3/98
+- * WAR                          [160] ;j 6/3/98
+FAVOUR [---] ;shan   8/10/93
+- SAID * ESTABLISHMENT OF STATE  [064]
+- SAID * PALESTINIAN STATE       [042]
+- QUOTE * PEACE TALKS            [024]
+- * CLOSER RELATIONS             [064]
+- * EVACUATION OF                [042] ;shan   11/22/93
+FEAR [022] ;shan   8/18/93
+- * IRAQI MISSILE ATTACK  [---]
+- SAID * MASSACRES        [022]
+- DID NOT *               [024]
+- CALM *                  [054]
+FIGHTER [---] ;pas 2/2/96
+FIGHT [223]
+- STEP FORWARD * AGAINST TERRORISM  [024]
+- CONCILIATORY TONE OVER *          [023]
+- SAID WILL STAY OUT OF *           [025]
+- MILITARY RESHAPED TO *            [102] ;shan 1/7/94
+- WISHED SUCCESS IN *               [042]
+- + BUY * AIRCRAFT $                [072]
+- SAID WOULD STOP *                 [082:082]
+- INVITED FREEDOM *                 [062]
+- * AGAINST FORCES                  [223]
+- CONCERN ABOUT *                   [022] ;JON 5/29/95
+- * FOR STATEHOOD                   [---]
+- TOLD * IMMINENT                   [022]
+- * ANTI-SEMITISM                   [---]
+- WISHED COULD *                    [025]
+- PROSPECT OF *                     [---]
+- TRYING END *                      [---]
+- SAID WOULD *                      [173]
+- RESISTANCE *                      [---]
+- * BETWEEN %                       [223] ;J 5/15/95
+- * TERRORISM                       [170] ;JON 4/24/95
+- DECLARING *                       [173]
+- * EVACUATED                       [012]
+- REMEMBER *                        [---] ;JON 2/18/98
+- * CONGRESS                        [---] ;JON 5/29/95
+- QUIT OR *                         [173]
+- * PLANES                          [---]
+- ARAFAT *                          [---]
+- * RACISM                          [---]
+- * PLANE                           [---]
+- * LOYAL                           [---]
+- FLED *                            [012]
+- JET *                             [---]
+- BUY *                             [072] ;JON 4/12/95
+FILMS [###] ;shan 1/7/94
+FILM_FESTIVAL [###] ;JW   11/21/91
+FINALIZE [025] ;shan   8/12/93
+- * AGREEMENT  [031:031] ;shan 1/6/94
+- * REPORT     [025]
+FINANC [071] ;jw 9/17/91
+- PROVIDE * SUPPORT  [071]
+- UNDER * SEIGE      [---]
+- * AID FROM $       [071] ;pas 2/11/96
+- * SUBMARINES       [072]
+- * OFFICIAL         [---]
+- HELP *             [071] ;jw 9/24/91
+FIND [---] ;shan   8/11/93
+- MAY * EVIDENCE OF WEAPONS  [123]
+FIRE [---] ;shan   8/12/93
+- $ CAME UNDER MORTAR AND ROCKET *  [223] ;shan 1/7/94
+- ANTI-AIRCRAFT BATTERIES *         [223] ;shan 9/22/95
+- SAID WOULD * BACK IF              [173]
+- * AT FIGHTER-BOMBERS              [223]
+- * TEAR GAS CANISTERS              [221] ;tony  3/12/91
+- SAID WILL TAKE UP *               [173]
+- * VERBAL BROADSIDE                [122] ;tony  4/21/91
+- TROOPS * TEAR GAS                 [220]
+- POLICE PROBING *                  [123]
+- $ * MISSILE AT +                  [223]
+- + UNDER * FROM $                  [122]
+- * ROCKET INTO +                   [223] ;JON 4/24/95
+- SAID * MISSILE                    [223]
+- * MACHINE GUN                     [223] ;JON 3/6/95
+- MACHINE GUN *                     [223]
+- * WEAPON AT +                     [223] ;JON 5/7/95
+- SAID SHOTS *                      [223]
+- $ * MISSILE                       [223] ;JON 5/11/98
+- * AT CONVOY                       [223] ;shan 1/6/94
+- * MARBLES                         [220]
+- * ROCKET                          [223] ;JON 4/24/95
+- MORTAR *                          [223]
+- ROCKET *                          [223]
+- * BOMBS                           [223] ;shan 1/5/94
+FIRING [---] ;shan   8/8/93
+- * MARBLES  [220]
+FLARED [---] ;shan   2/18/93
+- ARTILLERY DUELS *  [223]
+FLATTENED [---] ;shan   7/20/93
+- SUSPECTED CAR BOMB *  [223]
+FLED [012] ;shan   7/21/93
+- * ACROSS BORDER  [012]
+- * TO + FROM $    [012] ;shan 1/5/94
+- * BORDER TO      [114]
+- * TO             [012]
+FLEW [032:033] ;pas 2/5/96
+- * ACROSS BORDER  [114]
+- WARPLANES *      [182]
+- * STRAFED        [223] ;tony  4/19/91
+- FIGHTER *        [182] ;JON 5/8/95
+FLIES [032?] ;jw   11/14/91
+FLOWN [032?] ;jw   11/14/91
+- * SPY MISSIONS  [211]
+- BOMBER *        [182] ;j 6/3/98
+FLY [---] ;jw   11/14/91
+- * TO  [032:033]
+FOILED [---] ;shan   8/12/93
+- * GUERRILLA  [223]
+FOOTBALL [###] ;jw   10/18/91
+FORCED [220] ;shan   2/20/93
+- SAID COULD BE * TO TAKE ACTION  [171]
+- WOULD BE * TO HIT BACK          [170] ;shan 9/18/95
+- * TO DEFEND POLICY              [---]
+- INITIATIVE * ON                 [---]
+- * BACK TRUCK                    [191] ;J 1/11/98
+- SNOWSTORM *                     [---]
+- * GO PUBLIC                     [142] ;JON 5/5/95
+- * CHANGES                       [---] ;shan 8/26/95
+- DROUGHT *                       [---]
+FORCE [220] ;shan   8/4/93
+- * OF ISRAELI-BACKED SOUTH LEBANON ARMY MILITIA  [---]
+- UNITED NATIONS PEACEKEEPING *                   [---]
+- * STARTED DEPLOYING                             [182]
+- MILITARY * TO HELP                              [072]
+- CAUTIOUS USE OF *                               [025] ;shan 1/5/94
+- REDUCED SIZE OF *                               [182]
+- $ * TO ASK + AID                                [093] ;shan 1/7/94
+- UNITED NATIONS *                                [---]
+- MULTINATIONAL *                                 [---] ;JON 5/29/95
+- INTERNATIONAL_*                                 [---] ;JON 5/4/95
+- PEACE-KEEPING *                                 [---]
+- WAR THAT * ARMY                                 [---] ;shan 1/7/94
+- PEACEKEEPING *                                  [---]
+- * BEGAN TALKS                                   [031:031]
+- * TO EAT CATS                                   [---]
+- GALE * WINDS                                    [---]
+- * TO RETREAT                                    [---] ;shan   11/17/93
+- TRYING TO *                                     [---]
+- * DECISION                                      [---] ;shan 1/6/94
+- * ANNOUNCE                                      [151]
+- * THE PACE                                      [151]
+- SECURITY *                                      [---] ;JON 5/3/95
+- * BACK OFF                                      [220] ;JON 5/7/95
+- TOLD NO *                                       [150] ;J 1/11/98
+- DRIVING *                                       [---] ;Misty 8/1/96
+- * CHANGES                                       [---] ;shan 8/26/95
+- ONLY BY *                                       [173] ;shan   11/17/93
+- MILITIA *                                       [---] ;shan   11/17/93
+- SPECIAL *                                       [---] ;shan   11/29/93
+- * STORMED                                       [223] ;shan 1/4/94
+- * COMPLY                                        [150]
+- POLICE *                                        [---]
+- PEACE_*                                         [---]
+- * TOLD                                          [150] ;JON 5/7/95
+- U.N. *                                          [---]
+- TASK *                                          [---]
+- AIR *                                           [---]
+- UN *                                            [---]
+FORCIBLY_DISPERSED [203] ;jw   11/13/91
+FORECAST [025] ;jw   11/14/91
+FORGIVE [012] ;jw   11/14/91
+- * DEBT  [071] ;tony  4/26/91
+FORMER [---] ;<Enter 2/5/96
+FORM [---]
+- * TRANSITIONAL GOVERNMENT  [027]
+- RIGHT TO * POLITICAL       [055]
+- NOT * DECIDED              [025]
+- * COMMITTEE                [026]
+- * CABINET                  [026]
+FOUGHT [223]
+- * ARTILLERY DUELS  [223]
+- * EIGHT-YEAR WAR   [---] ;shan 1/6/94
+- * ROCKET DUELS     [223]
+- * WITH FISTS       [222]
+- * 1948             [---] ;JON 5/5/95
+- $ * +              [223] ;JON 5/4/95
+FOUND [---] ;shan   8/12/93
+- SAID SOLUTION WOULD BE *  [024]
+- * DEAD                    [220]
+FREEDOM [---] ;jw   11/14/91
+FREED [066] ;JW   1/22/92
+- + * BY $  [066] ;j 5/31/98
+FREEZE [192] ;shan   8/11/93
+- * DEMANDED  [150]
+- *_ASSET     [211]
+FREE [066] ;jw   11/14/91
+- * ON NEW SETTLEMENT BUILDING  [065]
+- SAID * HOSTAGES               [053]
+- + * FROM $                    [066]
+- * ELECTION                    [034]
+- ELECTION *                    [034]
+- SHOULD *                      [102]
+- * JAILED                      [066]
+- SAID *                        [053]
+- * OF                          [---]
+FRUSTRATE [022?] ;jw   11/14/91
+FUEL TERROR [162] ;jw   11/13/91
+FURIOUS [131]
+GAIN [---] ;shan   9/6/93
+- SAID TRYING TO *  [025]
+GATHER [031:031]
+- CLOUDS *  [---]
+GAVE_UP [194] ;pas 2/11/96
+GAVE [073] ;JON 2/18/98
+- * PERMISSION TO LEAVE  [066] ;tony  4/28/91
+- $ * + HOURS TO REMOVE  [174]
+- * RECEPTION            [033:032]
+- * BLESSING             [042]
+- * GLIMPSE              [025]
+- * BACKING              [042]
+- * MILLION              [071]
+- * REBUFF               [111] ;J 6/2/98
+GET [073] ;JON 2/18/98
+- + FAILED TO * $ COOPERATION  [111]
+- * PERMISSION TO LEAVE        [066] ;tony  4/28/91
+- HAS TO * ASSURANCES          [094] ;tony  4/29/91
+- * POSITIVE RESPONSE          [042]
+- + * NO AID FROM $            [191]
+- * ASS KICK                   [160] ;j 6/2/98
+- * BLESSING                   [042]
+- * SUPPORT                    [042]
+- TRY TO *                     [102] ;jw 9/23/91
+- * ACCESS                     [---]
+- * TALK                       [031] ;<Enter 6/2/98
+- *_UP                         [---]
+GIVE [073?] ;jw   11/14/91
+- SAID WOULD NOT * WAY TO REQUESTS  [111]
+- SAID WOULD * MILITARY ASSISTANCE  [052]
+- * AIR AND NAVAL SUPPORT           [072]
+- WOULD LIKE TO SEE * UP            [094]
+- $ * + HOURS TO REMOVE             [174]
+- * OFFICIAL_BLESSING               [042] ;Misty 7/29/96
+- * POLITICAL ASYLUM                [114]
+- * SECOND TERM                     [---]
+- * JAIL TERM                       [212]
+- * BLESSING                        [042]
+- * DOLLARS                         [071]
+- * GREATER                         [073]
+- * ACCOUNT                         [025] ;shan   11/29/93
+- * ACCESS                          [---]
+- * RIGHT                           [073]
+- * LIST                            [093]
+- * FOOD                            [071]
+- * AID                             [071]
+- *_UP                              [012] ;jw 9/26/91
+GIVING [---] ;shan   8/6/93
+- * DOLLARS  [071]
+- * ECUS     [071]
+GOLD_MEDAL [###] ;JW   1/16/92
+GO_ [---] ;PAS 2/5/96
+- * ON TRIAL  [212] ;PAS 2/5/96
+GRANT [060] ;jw   11/14/91
+- $ * FORM RECOGNITION +  [064] ;JON 5/15/95
+- * RECOGNITION           [064]
+- * PERMISSION            [055]
+- * PRIVILEGE             [064]
+- * CLEMENCY              [066]
+- WILL_NOT *              [111] ;JON 5/5/95
+- * DOLLARS               [071]
+- * ASYLUM                [063]
+- STOP *                  [193]
+- * LOAN                  [071]
+GRASS COURT [###] ;shan   11/22/93
+HACKED [223] ;shan   7/29/93
+- * INFORMANT  [222]
+- * DEATH      [223]
+HAIL [041] ;jw   11/14/91
+- * PEACE ACCORD  [041] ;shan 1/6/94
+- * HIJACKING     [041]
+HALT [191] ;jw   11/14/91
+- NOT * PROGRESS  [024] ;JON 5/3/95
+- * PUBLICATION   [197]
+- * TRANSPORT     [211] ;PAS  4/14/91
+- * VIOLENCE      [011] ;JON 5/8/95
+- FAIL TO *       [012]
+- * ATTACKS       [065]
+- * CARGO         [211] ;tony  4/28/91
+HAMPER [112] ;jw   11/14/91
+- SAID * PEACE  [022]
+HANDED_OVER [066] ;j 5/31/98
+HANDLING [---] ;pas 2/11/96
+HAND_OVER [---] ;shan   8/4/93
+- * PRISONERS OF WAR  [066]
+- * OVER AMBASSADOR   [064]
+- SAID * OVER         [065] ;JON 5/4/95
+- * OVER BODY         [066] ;shan   11/22/93
+- $ * OVER +          [065] ;JON 5/4/95
+- * POWER             [012] ;JON 5/4/95
+HANGED [222] ;jw 9/30/91
+HARM [222] ;jw   11/13/91
+- SAID LOAN GUARANTEES WOULD * PEACE  [022]
+- CONCERN * TALK                      [022] ;JON 5/5/95
+HASHISH [---] ;jw   11/14/91
+HAS_NO_WISH [025] ;jw   9/23/91
+HAVE NOTHING TO DO WITH [022] ;jw 9/24/91
+HEADED_BY [---] ;JW   10/17/91
+HEAD [---]
+- *_FOR ATTACK  [223]
+- *_FOR_        [032:033]
+- * OFF_        [111]
+- *_OF_         [---]
+HEAPED SCORN [122] ;shan   7/1/93
+HEAVED SIGH RELIEF [024] ;tony  4/26/91
+HELD [---] ;jw   11/13/91
+- * HOSTAGE IN_LEBANON  [---] ;JON 2/18/98
+- HOSTAGE * IN_LEBANON  [---] ;JON 2/18/98
+- $ * + RESPONSIBLE     [121] ;JON 5/4/95
+- GOODS BEING * UP      [211]
+- * CONSULTATIONS       [031:031] ;JON 5/4/95
+- * DEMONSTRATION       [133] ;shan   11/18/93
+- DEMONSTRATION *       [133] ;shan   11/18/93
+- * UP LICENSING        [112]
+- * CONFERENCE          [031:031]
+- $ * TALKS +           [032] ;JON 5/29/95
+- + BEING * $           [212]
+- * MEMORIAL            [133]
+- * PROSPECT            [101]
+- FUNERAL *             [133] ;shan   11/22/93
+- * RALLIES             [181]
+- * MEETING             [031:031]
+- % * TALKS             [031:031] ;tony  3/9/91
+- MEETING *             [031:031]
+- SUMMIT *              [031:031]
+- + *_IN $              [212] ;JON 5/4/95
+- * TALKS               [031:031] ;JON 5/29/95
+- * MARCH               [181]
+- * VIGIL               [043]
+- * FIRE                [012]
+HELP [070] ;JW   11/22/91
+- * BOLSTER DEFENSE CAPABILITY  [072]
+- * BUILD DEFENCE NETWORK       [072]
+- SENDING WARPLANES TO *        [072]
+- SAID COORDINATING *           [073]
+- * WARPLANES TO *              [072]
+- IS * INVESTIGATE              [073]
+- * IN INQUIRIES                [123]
+- PREPARED TO *                 [053]
+- ANGLING FOR *                 [092]
+- COULD NOT *                   [191] ;pas 2/11/96
+- NO * UNLESS                   [151]
+- *_STAVE_OFF                   [073]
+- NO * UNTIL                    [151]
+- * TO ARM                      [072]
+- * INVEST                      [073]
+- * REPAIR                      [073]
+- STILL *                       [073]
+- WOULD *                       [053]
+- WHICH *                       [---]
+- ONLY *                        [095]
+- MAY *                         [053]
+- $ * +                         [073] ;JON 5/5/95
+- NOT *                         [121] ;JON 5/17/95
+HEROIN [---] ;jw   11/14/91
+HIJACK [213] ;jw   11/13/91
+- SENTENCE FOR *  [---] ;jon 2/18/98
+- + * OF $        [213]
+HINTED [025] ;shan   7/31/93
+- * AT EASING CRISIS  [024] ;shan 1/4/94
+HIT [---] ;SHAN   2/20/93
+- * BACK AT BATTERIES SHELLING POSITIONS  [223]
+- TANKER * BY ROCKET GRENADE              [223]
+- AIR FORCE * MISSILE SITES               [223]
+- THREAT TO * INSTALLATIONS               [173]
+- * BACK FIRING MISSILES                  [223]
+- YEAR AFTER MISSILES *                   [---] ;shan 1/7/94
+- SCORED * WITH ROCKET                    [223]
+- * BY ROCKET GRENADE                     [223]
+- + * BY $ MISSILE                        [223] ;JON 5/11/98
+- * WITH MISSILES                         [223]
+- * SETTLEMENTS                           [223]
+- MISSILE * +                             [223] ;JON 5/11/98
+- WARPLANES *                             [223]
+- * GUNBOATS                              [223]
+- ROCKETS *                               [223]
+- PLANES *                                [223]
+- CAN *                                   [---] ;pas 2/5/96
+HOLD [210?] ;jw   11/13/91
+- * JOINT AIR AND SEA MANOEUVERS  [182]
+- % * JOINT EXERCISES             [182]
+- * JOINT EXERCISES               [182]
+- MAY * TALKS WITH                [082:082]
+- * DEMONSTRATION                 [181]
+- % MAY * TALKS                   [082:082] ;tony  4/29/91
+- * RESPONSIBLE                   [121]
+- * ELECTIONS                     [034]
+- * DOGGEDLY                      [025]
+- * SUMMIT                        [031:031]
+- * TALKS                         [031:031]
+HONOR [041] ;shan 8/26/95
+HOPE [024?] ;jw   11/14/91
+- SAID * SUMMIT WOULD BRING PEACE  [023]
+- * CIVILIAN TRAFFIC NOT TARGETED  [023]
+- SAID * FOR IMPROVEMENT           [024]
+- * TALKS COULD RESUME             [024]
+- * WILL HELP TOPPLE               [022]
+- + HAVE BEEN * $                  [222] ;tony  4/22/91
+- LITTLE-KNOWN *                   [---]
+- * SAID FADING                    [022]
+- * WOULD MEET                     [094] ;shan 8/26/95
+- * WILL AGREE                     [094]
+- * DIPLOMACY                      [024]
+- * APPROVE                        [024] ;JON 5/5/95
+- LOSING *                         [022]
+- LITTLE *                         [022]
+- BLOCK *                          [112]
+- DASH *                           [022]
+- SAID *                           [024] ;JON 5/7/95
+- * AID                            [024]
+HOSTAGE [---] ;JW   10/22/91
+- TAKE *  [213]
+HOSTILE [---] ;pas 2/2/96
+HOST [033] ;jw   11/14/91
+- * COUNTRY  [---]
+HUNG [---] ;jw   12/4/91
+- MILITARY AUTHORITIES *  [220]
+- * BY THUMBS             [225]
+- * FLAGS                 [133] ;shan 1/6/94
+HUNT [---] ;shan   8/12/93
+- * ESCAPED PRISONERS  [212]
+- * FOR                [---]
+HURL [220?] ;jw   11/14/91
+- HAND GRENADE *  [220]
+- * ACCUSATIONS   [122]
+- * FIRE BOMB     [222]
+- * INSULTS       [222]
+IGNORE [111] ;jw   11/14/91
+- CANNOT BE *  [162]
+- NOT *        [151]
+IMMIGRAT [---]
+- + * TO $  [073] ;jw 9/25/91
+IMPAIR [---] ;shan   8/17/93
+- SAID ECONOMIC TROUBLES * ENEMY  [024]
+IMPLEMENT [---] ;shan   8/30/93
+- IF AGREEMENT CANNOT BE * MAY HAVE TO REDEPLOY  [173]
+IMPOS [---]
+- * TO TAKE PART UNTIL  [102]
+- BLACKOUT * BY FORCES  [222]
+- * PRESS_RESTRICTIONS  [197]
+- * ECONOMIC SANCTIONS  [193] ;tony  3/9/91
+- HAS * OIL CONTRACTS   [151]
+- $ * CURFEW            [220] ;j 6/3/98
+- *_FINE                [211] ;jw 9/29/91
+IMPROV [---]
+- EFFORTS TO * COULD BE SET BACK  [022] ;shan   11/22/93
+- WILLING * RELATIONS IF          [101] ;shan 1/4/94
+- HOPES * RELATIONS               [024]
+- * RELATIONS IF                  [102] ;shan 3/25/94
+- * RELATIONS                     [064] ;jw 9/30/91
+- RELATIONS *                     [064] ;jw 9/16/91
+- PLAN TO *                       [101?]
+INCLUD [---] ;shan   8/17/93
+- SAID PLO MUST BE *  [042]
+INCREAS [---] ;SHAN   8/11/93
+- SAID WOULD * PRESSURE TO NAME SUPPLIERS  [094] ;shan 1/4/94
+- SAID GUERRILLAS WOULD * ATTACKS          [173]
+- * MILITARY ACTIVITY IN ATTEMPT           [182]
+- * MILITARY PRESENCE                      [182]
+- * MILITARY PRESSURE                      [223]
+- WOULD * ATTACK                           [173]
+INDICAT [025?] ;shan   8/12/93
+- * $ SHIPPED WEAPONS TO +  [072]
+- * READY TO RESUME SALES   [053] ;shan   11/22/93
+- * WOULD STAY OUT          [025]
+- * READY TO                [025] ;shan   11/22/93
+INFILTRAT [223] ;shan   8/12/93
+- SAID + MADE ATTEMPTS TO *  [121]
+- SAID + MADE ATTEMPT TO *   [121]
+INFLUENC [---] ;shan   8/17/93
+- SAID IS A POSITIVE *  [024]
+INFORMATION [---] ;pas 2/3/96
+INFORM [031] ;shan   7/21/93
+- * WANT TO ESTABLISH RELATIONS  [082] ;shan 1/6/94
+- * + DECIDED TO CLOSE BUREAU    [201]
+- * MINISTER                     [---]
+INJUR [220] ;shan   8/12/93
+- NO ONE *  [---]
+- * BATTLE  [223] ;shan   11/17/93
+INSIST [150] ;jw   11/14/91
+- * TIES MUST BE NORMALIZED  [064]
+- * HAD NOTHING TO HIDE      [142] ;shan 1/4/94
+- * TIES BE NORMALIZED       [064]
+- DROP *                     [082]
+INSPECT [123] ;shan   7/24/93
+- WEAPONS *  [---]
+- * TROOPS   [182]
+- * TEAM     [---]
+- ARMS *     [---]
+INTEGRAT [084] ;shan   8/12/93
+INTEND [025] ;shan   11/22/93
+- * TO HOLD FAST  [025] ;shan   11/22/93
+INTERCEPT [210] ;shan   7/21/93
+- * VESSEL  [211]
+INTERDICT [211?] ;jw   11/14/91
+INTERFERE [171] ;jw   11/25/91
+- TOLD NOT TO *  [094]
+- NOT *          [065]
+INTERROGATE [123] ;jw   11/15/91
+INTERVEN [---] ;shan   8/17/93
+- SAID HAD NO PLANS TO *  [054]
+INVADE [211] ;shan   8/18/93
+- STEP UP THREATS TO *  [173]
+- QUOTE + PLANNED TO *  [121]
+- UNLIKELY TO *         [024]
+- AFTER $ * +           [---] ;JON 5/5/95
+- PREVENT *             [112] ;JON 5/4/95
+- SINCE *               [---] ;<Enter 6/2/98
+INVESTIGAT [123] ;jw   11/20/91
+- $ * REPORTS  [123] ;shan 8/28/95
+INVEST [---] ;JW   12/2/91
+- * WILL BE CLOSE TO HOME  [112] ;shan 1/5/94
+- SUGGEST * IN             [093]
+- * IN                     [071]
+INVITE [062] ;J 6/2/98
+- + HAS BEEN * $  [062]
+- * FIGHTERS      [062]
+- + HAD * $       [062]
+- $ * +           [062] ;shan   11/17/93
+INVOKE [---] ;shan   7/15/93
+- * JOINT DEFENCE PACT  [081:081]
+INVOLVE [---] ;jw   11/18/91
+- COULD_HAVE_BEEN_*  [###] ;<Enter 6/2/98
+IRAN-CONTRA [###] ;JON 3/10/95
+IRON_OUT [081:081]
+- % *_DIFFERENCES  [081:081]
+- EFFORT TO *      [031] ;J 5/15/95
+ISSUE [---]
+- % WILL * FORMAL INVITATIONS TO +  [062] ;shan 1/4/94
+- * STATEMENT CRITICISING           [121] ;tony  4/29/91
+- * DIRECTIVE FORGIVING             [065] ;pas  4/14/91
+- * GUARANTEE                       [054]
+- * WARNING                         [160]
+- * APPEAL                          [095]
+- * ORDERS                          [150]
+- * PLEA                            [095]
+- * ORDER                           [150]
+JAIL [212]
+- ALTERNATIVE TO *  [065]
+- * TO BE FREED     [066] ;JON 2/18/98
+- HAS FREED *       [066]
+JAMMED [197] ;jw   11/13/91
+- *_INTO  [---]
+JAM_ [197] ;jw   11/13/91
+JEER [---] ;SHAN   8/11/93
+- PROTESTERS *  [181]
+JOINT [---] ;JW   11/21/91
+- CONSIDERING * WAR GAMES  [025] ;shan 1/5/94
+- * WAR GAMES              [182] ;shan 1/5/94
+JOIN [084] ;JW   11/21/91
+- SHOULD NOT ONLY *  [102]
+- SAID * SANCTIONS   [196]
+- * IN CRITICIZING   [121]
+- * NEGOTIATIONS     [031] ;DJG 7/28/96
+- * IN DEPLORING     [122]
+- * CONDEMNATION     [122]
+- * CELEBRATION      [043]
+- NO * ALLIANCE      [111]
+- * CRITICISING      [121]
+- * IN DENYING       [141]
+- * CONDEMNING       [122]
+- * IN PRISON        [212]
+- * CRITICISM        [121]
+- APPLY TO *         [097]
+- * ALLIANCE         [051]
+- * CALL FOR         [102]
+- * AGAINST          [150] ;j 5/31/98
+- * BACKING          [042]
+- * DEMAND           [150]
+- * TALKS            [031:031]
+- NOT *              [111]
+KEEP [---] ;shan   8/17/93
+- SAID WOULD * FORCES IN  [025]
+- SAID WOULD * EMBASSY    [054]
+- AGREE * TROOPS          [081:081]
+KEPT [---] ;shan   8/12/93
+- * BORDER SEALED  [192]
+KIDNAP [213] ;jw   11/13/91
+- * OF + BY $  [213] ;JON 5/7/95
+- * RELEASED   [066]
+- + * IN $     [213]
+KILL [223] ;pas 2/5/96
+- + * AND WOUNDED WHEN $ PLANES ATTACKED  [223] ;shan 1/7/94
+- + * AND WOUNDED WHEN BLOW UP            [223] ;shan 1/7/94
+- $ * WHEN + PLANES ATTACKED              [223] ;shan 1/7/94
+- SAID + * PLAN TO END WAR                [121]
+- * WHEN WARPLANE ATTACK                  [223] ;shan 1/7/94
+- MARK ANNIVERSARY OF *                   [133]
+- TROOPS * GUERRILLAS                     [223]
+- ARTILLERY DUEL *                        [220]
+- * IN AIR ATTACKS                        [223]
+- * IN GUNBATTLE                          [223] ;shan 8/28/95
+- * DIED FROM $                           [223] ;J 6/5/98
+- * IN FIGHTING                           [223]
+- * JETS BOMBED                           [223]
+- * IN GUNFIGHT                           [223] ;shan 1/6/94
+- SAID WOULD *                            [173]
+- MARKS THE *                             [---]
+- SOLDIERS *                              [223] ;shan 8/28/95
+- * IN CLASH                              [223]
+- MARKET *                                [---] ;JON 2/18/98
+- * FIELDS                                [---]
+- SHOULD *                                [173]
+KING'S_CUP [###] ;pas 1/31/96
+KNELT [133] ;shan   8/10/93
+- * BEFORE MEMORIAL  [133]
+LAND [---] ;shan   8/4/93
+- * GUERRILLAS  [182]
+- MISSILES *    [223]
+- MISSILE *     [223]
+LASH OUT [122] ;jw   11/14/91
+LAUNCH [---]
+- * RECRUITMENT TO INCREASE PRESENCE  [182] ;shan 1/7/94
+- TANKS AND HELECOPTER * OPERATION    [223]
+- COULD STILL * MILITARY STRIKE       [173]
+- SPECULATION MIGHT * ATTACK          [025]
+- SAID LIKELY TO * ATTACK             [022]
+- NOT * GUERRILLA ATTACKS             [---]
+- PREVENT FROM * ATTACKS              [065]
+- * DIPLOMATIC OFFENSIVE              [097]
+- * ATTACK IN INTERVIEW               [121] ;shan   11/18/93
+- BUILT * FOR MISSILES                [182]
+- * CIVIL DISOBEDIENCE                [196]
+- SAID WOULD * ATTACK                 [173]
+- * PROGRAM TO HOUSE                  [073]
+- * CAMPAIGN AGAINST                  [122]
+- * SCATHING ATTACK                   [122] ;J 6/2/98
+- WILL NOT * ATTACK                   [025]
+- * FREEDOM FLIGHT                    [198] ;<Enter 6/2/98
+- * FUNDED MISSILE                    [---] ;JON 4/14/95
+- HAVE * OFFENSIVE                    [223] ;tony  4/29/91
+- * VERBAL ATTACK                     [122] ;JON 5/9/95
+- * NEW BROADSIDE                     [122]
+- $ SAID TROOPS *                     [121]
+- * SHARP ATTACK                      [122] ;JON 5/9/95
+- NOT * ATTACK                        [---]
+- * DIPLOMATIC                        [064]
+- * INITIATIVE                        [102]
+- * OFFENSIVE                         [223]
+- * CRACKDOWN                         [220]
+- * BLOCKADE                          [223]
+- MISSILES *                          [223]
+- * INQUIRY                           [123] ;shan 1/7/94
+- * MISSILE                           [223]
+- * COUNCIL                           [081:081]
+- * LOOTING                           [181] ;JON 5/4/95
+- * ATTACK                            [223]
+- * HUNT                              [123]
+- * BID                               [102]
+LAWRENCE_WALSH [###] ;JON 3/3/95
+LEAD [---]
+- * TO INSTABILITY  [171] ;jw 9/24/91
+- SAID MUST TAKE *  [102]
+- * DRIVE           [094]
+LEAS [---] ;shan   8/10/93
+- NOT FOR *  [112]
+LEAVE [012] ;jw   11/22/91
+- AIRCRAFT CARRIER IS EXPECTED TO * FOR  [182]
+- SAID WOULD NOT *                       [112]
+- WERE ABLE TO *                         [012] ;tony  4/26/91
+- * WITH DEAL                            [080] ;jon 2/18/98
+- DEADLINE *                             [102] ;j 6/3/98
+- MISSILES *                             [016]
+- ORDER TO *                             [201]
+- TROOPS *                               [012]
+- * VISIT                                [032:033]
+- * FOR_                                 [032:033]
+LED [---] ;shan   11/29/93
+- HAS * OPPOSIT  [112] ;Misty 7/29/96
+- * CALLS FOR    [102] ;shan   11/29/93
+LEFT [032:033] ;JON 5/8/95
+- MEDICINES HA *  [073] ;JON 5/8/95  has/have
+- AMBASSADOR *    [192]
+- POSSESSION *    [---]
+- * DOOR OPEN     [082]
+- * WONDERING     [022] ;JON 5/31/95
+- * IN POWER      [---]
+- * TRUCKS        [---] ;shan 1/5/94
+- * KIDNEY        [---]
+- * DEAD          [---]
+- ON_*            [---]
+- *_BY            [---]
+LEGITIMISE [042] ;jw 9/23/91
+LEND_ [071] ;j 5/28/98
+LENT [071]
+LIFT [065?] ;jw   11/14/91
+- * CLOSURE ORDERS  [065]
+- * RESTRICTIONS    [065]
+- * CURFEW IN +     [065] ;JON 5/4/95
+- + * OF BAN        [064] ;shan 1/6/94
+- * BLOCKADE        [065] ;shan   11/17/93
+- * CURFEW          [065]
+- CURFEW *          [065]
+LIKEN [---] ;shan 8/25/95
+LINK [---] ;shan   8/18/93
+- PLAN TO * ECONOMY  [025]
+- * + TO ATTACK      [121]
+- STRENGTH *         [082:082] ;JON 5/8/95
+LOAN [071] ;tony  4/19/91
+- + BECAME ELIGIBLE * $  [071]
+- + BECOME ELIGIBLE * $  [071]
+- UNLESS *               [093]
+- GRANT *                [071]
+LOBBIED [092] ;shan 1/6/94
+LOBBY [---] ;shan   8/17/93
+- SAID WOULD * AGAINST  [172]
+LODG [---] ;shan   8/12/93
+- * PROTEST  [132]
+LOOK [---] ;shan   8/17/93
+- SAID WOULD * POSITIVELY  [024]
+- SAID * FORWARD           [024]
+- * FOR HELP               [093] ;JON 3/10/95
+- * TO                     [091] ;JON 3/10/95
+LOOSEN [---]
+- * RESTRICTIONS  [065]
+LOSING [---] ;pas 2/11/96
+- * CONFIDENCE  [022] ;pas 2/11/96
+MADE [---]
+- SAID + * ATTEMPTS TO INFILTRATE  [121]
+- SAID * MISTAKES DURING RAID      [013]
+- * BLISTERING ATTACK              [121]
+- * APPEARANCE                     [032]
+- * IT EASIER                      [073]
+- * PROPOSAL                       [101]
+- * EFFORTS                        [094] ;PAS 2/5/96
+- * APPEAL                         [095]
+- * TRIP                           [032:033]
+MADONNA [###] ;shan 1/5/94
+MAINTAIN [---] ;shan   8/17/93
+- * SANCTIONS ON +  [190] ;JON 3/6/95
+- SAID * RESTRAINT  [025]
+- * SANCTIONS       [190] ;JON 3/6/95
+- * SILENCE         [021]
+- * CURFEWS         [190]
+MAK [---] ;jw   11/30/91
+- NOT IN HURRY TO * PEACE  [022] ;shan 1/5/94
+- SAID MUST * FIRST MOVE   [102]
+- * DIFFICULT_TO_COVER     [197]
+- SAID MUST * PEACE        [102]
+- * IT EASIER              [073]
+- * EFFORT                 [073]
+- * VISITS                 [032:033]
+- COULD *                  [101]
+- * TRIP                   [032:033]
+MANNED [---] ;shan   8/9/93
+- TROOPS *  [182]
+MANNING [182] ;shan   7/1/93
+MARCH [181]
+- * THROUGH  [181]
+- MAY BE *   [172]
+- LAST_*     [---] ;JON 5/8/95
+- NEXT_*     [---] ;JON 5/8/95
+- IN *       [---]
+- ON *       [---]
+MARIJUANA [---] ;jw   11/14/91
+MASSACRE [---] ;JON 5/3/95
+- RESPOND *  [020] ;JON 5/3/95
+MASSING [---] ;shan   6/24/93
+- $ SAID + * FORCES  [121]
+- * TROOPS           [182]
+MEDIAT [031:031] ;jw   10/24/91
+MEET [031:031] ;J 5/23/95
+- DO NOT * REQUIREMENTS  [111] ;shan 1/6/94
+- * TO DECIDE SUSPEND    [160] ;JON 5/8/95
+- SAID WOULD NOT *       [191]
+- SAID PREPARED *        [024] ;JON 5/4/95
+- SAID NO PLAN *         [142] ;JON 5/15/95
+- NOT * PAYMENT          [113]
+- * POSTPONED            [191]
+- % WILL_* +             [031:031] ;shan 8/25/95
+- BROKE UP *             [112]
+- % AGREE *              [031:031] ;shan 8/26/95
+- * DEMANDS              [011]
+- NO * UNTIL             [102] ;shan 1/6/94
+- * PAYMENT              [082]
+- * CANCEL               [191]
+- WILL_*                 [031:031] ;J 5/23/95
+- HOLD *                 [031:031] ;jw 9/24/91
+- * NEED                 [073] ;JON 5/31/95
+- NO_ *                  [191] ;JON 2/8/95
+- % *                    [031:031] ;JON 3/1/95
+MEMOIRS [###] ;j 6/1/98
+MEND RELATIONS [065] ;tony  3/11/91
+MERG [084] ;jw   11/20/91
+- % HAVE AGREE *  [084] ;J 5/23/95
+- SAID MUST *     [102] ;J 5/23/95
+MET_ [031:031] ;shan   8/12/93
+- * TO_DISCUSS  [031:031]
+- * TO_PROTEST  [133] ;JON 5/8/95
+- * OBJECTIVE   [024] ;JON 3/10/95
+- % * TODAY     [031:031]
+- % * IN        [031:031]
+- % * TO        [031:031]
+- % * ON        [031:031]
+MICHAEL_JACKSON [###] ;JON 5/15/95
+MOBILIS [182] ;shan   11/22/93
+- * TROOPS  [182] ;shan   11/22/93
+MOBILIZ [182] ;shan   11/22/93
+- COULD * TROOPS  [173] ;J 5/15/95
+- * TROOPS        [182] ;shan   11/22/93
+MONITOR [123] ;shan   8/10/93
+- CLOSELY * WEAPONS  [123]
+MOVES [---] ;pas 2/11/96
+MOVE [---]
+- WOULD * MILITARILY IF THERE WERE NEW ATTACK  [173]
+- * TOWARD UPGRADING RELATIONS                 [082:082] ;tony  3/9/91
+- $ TROOP * TOWARD RETREAT                     [012] ;JON 5/7/95
+- * HEADQUARTERS BACK                          [065]
+- * SWIFTLY TO SQUASH                          [142]
+- $ TROOP * TOWARD +                           [182] ;JON 5/7/95
+- * TROOP TOWARD +                             [182] ;JON 5/7/95
+- * BLOCK FUNDS                                [172]
+- * REPAIR TIE                                 [095] ;JON 5/5/95
+- * MISSILE                                    [182]
+- % HAVE *                                     [---]
+- * CLOSE                                      [---]
+- * BLOCK                                      [112]
+MOVING [---] ;shan   8/25/93
+- * SURFACE-TO-AIR MISSILES  [182]
+- * TROOP TOWARD +           [182] ;JON 5/7/95
+- DIVIS * TOWARD +           [182] ;JON 5/7/95
+- $ TROOP * TO +             [173] ;JON 5/7/95
+- * MISSILES                 [182]
+- * FORCE                    [---]
+MURDER [###] ;jw   1/14/92
+MUSTAFA_HAMSHO [###] ;JON 5/30/95
+MUSTER [---] ;shan   8/18/93
+- $ * SUPPORT  [092]
+NAME [---] ;jw   1/21/92
+- * ATTORNEY-GENERAL  [026]
+- * AMBASSADOR        [026]
+NATIONS_CUP [###] ;jw   10/21/91
+NEED [095?] ;jw   11/14/91
+- SAID WOULD NOT * PERMISSION TO RETALIATE  [173]
+- NO LONGER * VISAS                         [064]
+- SAID * MORE AID                           [093]
+- * NOT FEAR                                [054]
+- SAID *                                    [090]
+- TOLD *                                    [093]
+- NO *                                      [111]
+NEGOTIAT [031:031] ;JON 3/10/95
+- * RUN INTO TROUBLE  [112] ;JON 5/29/95
+- SAID NOT WILLING *  [112]
+- SAID MAKE * HARD    [022] ;JON 5/4/95
+- AGREE TO *          [082:082]
+- * EXPECTED          [082:082]
+- CONTINU *           [031:031] ;JON 3/10/95
+- BLOW TO *           [112]
+- CANNOT *            [112]
+- NO *                [112] ;<Enter 6/2/98
+NEVER [112] ;jw   11/14/91
+- * WITHDRAW FROM  [112] ;JON 5/8/95
+- SAID * GIVE UP   [160] ;<Enter 6/2/98
+- *_ALLOW_ANTI-    [054]
+- *_ABANDON        [054] ;JON 5/17/95
+- * FORCE          [054] ;JON 5/4/95
+NOBEL PRIZE [###] ;jw   11/27/91
+OBEY [081] ;shan   8/26/93
+OBJECT_ [112] ;JON 3/10/95
+- SAID *  [112]
+OBSERVE [---]
+- * GENERAL STRIKE  [196]
+- * CEASEFIRE       [014]
+OBTAIN [070] ;DJG 7/28/96
+- * FROM $  [070] ;DJG 7/28/96
+OFFEND [---] ;shan   9/6/93
+- SAID *  [022]
+OFFER [070?] ;jw   11/14/91
+- * DIRECT MILITARY ASSISTANCE  [072]
+- SAID INITIATIVES * HOPE       [024]
+- RENEW * TO HELP DEFEND        [072]
+- SAID ACCORD * CHANCE          [024]
+- * HELP DEVELOP ARMS           [072]
+- * KINDEST WORDS               [041] ;tony  3/11/91
+- * DIRECT TALKS                [102] ;tony  4/19/91
+- * ECONOMIC AID                [071] ;tony  4/28/91
+- JOIN * SUPPORT                [042]
+- * TO TRANSPORT                [073]
+- * TO GUARANTEE                [101]
+- * COMPROMISE                  [101]
+- * TO SELL                     [052] ;tony  4/19/91 
+- * REJOIN                      [102]
+- * PLANES                      [072]
+- * FROM $                      [070] ;JON 5/17/95
+OIL COMPANY [---] ;jw   11/14/91
+OLIVE_OIL [###] ;jw   1/21/92
+OLYMPIC_CHAMP [###] ;JW   1/22/92
+OLYMPI [###] ;JON 5/24/95
+OPEN [---]
+- * DIPLOMATIC MISSION  [064]
+- % * THEIR BORDERS     [065] ;shan 10/2/95
+- % * COMMON BORDER     [065] ;shan 10/2/95
+- * WITH ARTILLERY      [223]
+- $ * OFFICE IN +       [064] ;shan 1/6/94
+- KEEP BORDER *         [083]
+- CONFERENCE *          [031:031]
+- * THEIR GUNS          [223] ;tony  4/29/91
+- SAID WOULD *          [053]
+- * ARTILLERY           [223] ;shan 1/5/94
+- * ASSEMBLY            [034]
+- * EMBASSY             [064] ;pas 2/11/96
+- EMBASSY *             [064] ;pas 2/11/96
+- * BRIDGE              [065]
+- * SUMMIT              [031:031] ;shan 1/6/94
+- * TALKS               [031:031] ;tony  3/13/91
+- * FIRE                [223]
+- * RIFT                [121] ;jw 9/25/91
+OPIUM [---] ;jw   11/14/91
+OPPOS [112] ;jw   11/14/91
+- SAID WOULD USE ALL MEANS TO *  [173]
+- REBELS * TALKS                 [121]
+- $ BACK + IN *                  [042]
+- *_POLITICIAN                   [---] ;pas 2/3/96
+- WOULD NOT *                    [025] ;shan 1/7/94
+- * EXPEL                        [042] ;JON 5/8/95
+- DROP *                         [080] ;jon 2/18/98
+ORDER [---]
+- WOULD NOT IN * TO PREVENT ATTACKS  [112]
+- * POLICE AND SOLDIERS ON ALERT     [182] ;shan   11/17/93
+- $ SAID HAD BEEN * OUT OF +         [201]
+- * UNIVERSITIES TO CLOSE            [192]
+- * PERSONNEL_TO_LEAVE               [201] ;tony  4/19/91
+- * CLOSURE OF OFFICES               [201]
+- * RELEASE HOSTAGES                 [150]
+- * OFFICERS TO LEAVE                [150]
+- * TO STOP SHOOTING                 [150] ;shan 1/6/94
+- * OUT OF COUNTRY                   [201]
+- * OFFICE CLOSED                    [201]
+- WOULD * ATTACK                     [173]
+- COULD * ATTACK                     [173]
+- MIGHT * ATTACK                     [173]
+- * OFFICE CLOSE                     [201]
+- * HELP PROTECT                     [072] ;jw 9/24/91
+- WILL * ATTACK                      [173]
+- MAY * ATTACK                       [173]
+- * SEND HOME                        [202] ;j 6/3/98
+- * EXPULSION                        [201]
+- * DEPORT                           [201] ;jon 2/18/98
+- * + HELD                           [212]
+- * ATTACK                           [223]
+- * CLOSED                           [197]
+- * SEARCH                           [123]
+- * TROOPS                           [182]
+OUST [201] ;jw 9/16/91
+- * RULER  [---]
+OUT_OF_SERVICE [###] ;JW   11/19/91
+OVERCOM [---]
+- * ANIMOSITY  [024]
+PAID [073]
+- AGENTS * BY + STORMED $  [223]
+- FIRM STAND * OFF         [041]
+- * RESPECTS               [041]
+- * FAREWELL               [041] ;JON 5/8/95
+- * TRIBUTE                [041] ;tony  4/21/91
+- * VISIT                  [032:033] ;tony  3/13/91
+PARADE [181]
+PASS [---] ;shan   8/12/93
+- * BILL SUPPORT  [073]
+PATROL [182] ;shan   11/8/93
+- * KILLED DURING CLASH  [223] ;shan 1/7/94
+- BORDER *               [---] ;j 5/31/98
+PAY [---]
+- SAID WOULD MAKE *  [171]
+- * COMPENSATION     [073] ;tony  4/22/91
+- MAKING * DUES      [151]
+- * THE UPKEEP       [071]
+- * SALARIES         [071] ;pas 1/31/96
+- * RESPECTS         [041]
+- * VISIT            [032:033]
+PELT [222] ;shan   8/12/93
+- * WITH STONES  [222]
+- * STONES       [222]
+- * CARS         [222]
+PERMIT [060?] ;jw   11/14/91
+PERSUADE [031]
+- FAIL * CEASE  [110] ;JON 5/29/95
+- SAID MUST *   [092]
+- * TO QUIT     [198]
+PESSIMISTIC [022] ;JW   10/29/91
+- LESS *  [024]
+PLACE [---] ;PAS   9/27/91
+- * + IN DETENTION  [212] ;tony  4/22/91
+PLANS_ [---] ;J 5/27/98
+- * BLOW UP  [221] ;J 5/27/98
+PLAN_ [---] ;J 1/11/98
+- * SPEARHEAD INITIATIVE  [102] ;tony  4/28/91
+- NO * MILITARY ACTION    [064]
+- * ENFORCE SANCTIONS     [196]
+- * TO CALL FOR MEET      [094]
+- SAID * MORE ATTACK      [173]
+- NOT * REDEPLOYMENT      [025]
+- SAID * NO ACTION        [025]
+- PLANES * PATROLS        [182]
+- NO * TO ATTACK          [064]
+- * TO TRANSFER           [025]
+- CONSIDERING *           [024]
+- * TO RESTORE            [053] ;PAS 2/5/96
+- SAID HA NO *            [025] ;PAS 2/5/96
+- DROP * SEND             [191]
+- DRAWN UP *              [101]
+- * DEMOLISH              [173] ;tony  4/23/91
+- * TO SLASH              [193]
+- OUTLINED *              [025]
+- * REOPEN                [065] ;tony  3/9/91
+- THWART *                [112]
+- * VISIT                 [053]
+- * TALKS                 [082:082]
+- * GIVE                  [052] ;tony  4/29/91
+- * SELL                  [073]
+- * SEND                  [053]
+- * DEAL                  [082:082]
+PLAYOFF [---] ;JON 5/5/95
+PLEAD [095] ;jw   11/14/91
+- * WENT OFF  [223]
+PLEDG [050?] ;jw   11/14/91
+- * NOT LET ATTACKS GO UNPUNISHED  [171]
+- * WOULD NEVER SPY ON +           [054]
+- * MILITARY OPERATIONS            [173]
+- * TO MAINTAIN BACKING            [052]
+- IF WOULD * TO REVOKE             [102] ;shan 1/7/94
+- * RIGHT SELF-DEFENSE             [173] ;shan   11/22/93
+- * WORK FOR CEASEFIRE             [053]
+- * MILITARY SUPPORT               [072] ;tony  4/21/91
+- * SAFEGUARD RIGHTS               [052]
+- * TO WIN RELEASE                 [053]
+- * TOUGHER STAND                  [171]
+- * TO END FIGHT                   [053] ;jon 2/18/98
+- + * RECOVER $                    [173]
+- * TO PROTEST                     [172]
+- * $ SECURITY                     [054]
+- * NEGOTIATE                      [082:082]
+- * TO FIGHT                       [173]
+- * TO DUMP                        [111]
+- * SUPPORT                        [053]
+- * RESIST                         [173] ;tony  4/28/91 
+- * MARCH                          [172]
+- * HELP                           [052]
+- * FOR                            [052] ;JON 5/4/95
+POLICIES [---] ;JON 5/8/95
+POLICY [---] ;JON 5/8/95
+POSE [---]
+- SAID * THREAT  [022]
+- * REAL THREAT  [113]
+- * DILEMMA      [025]
+POSTPON [191] ;shan   11/23/93
+- * DEBT PAYMENT  [071]
+- % HAVE * MEET   [191]
+- * DEPARTURE     [191] ;shan   11/23/93
+- * PLAN SELL     [191] ;JON 5/8/95
+- * DEBATE        [191] ;JON 5/8/95
+POUND [223] ;tony  4/29/91
+- LEBANESE_*  [---]
+- BRITISH_*   [---]
+- * DESK      [---] ;JON 5/15/95
+- * +         [223] ;JON 4/14/95
+POUR [---] ;JW   11/25/91
+- TROOPS WITH TANKS AND ARMOURED CARS *  [182] ;shan 9/18/95
+- TROOPS WITH TANKS *                    [182] ;shan 9/18/95
+- OIL * INTO GULF                        [222]
+- TROOPS *                               [182] ;shan 9/18/95
+- * TANKS                                [223]
+- * INTO                                 [032:033]
+PRAISE [041] ;jw   11/14/91
+PREDICT [025] ;jw   11/14/91
+- * TALK RESUME  [024] ;J 5/23/95
+- * NOT FREE     [170] ;JON 5/26/95
+PREPAR [---]
+- FORCES * FOR ARMY MOVE  [182]
+- * TO KEEP TROOPS IN     [054]
+- * TO SEND REFUGEES      [025]
+- * TO KEEP ARMY IN       [025]
+- * TO FORM FORCE         [072]
+- * FOR HOSTILIT          [182] ;j 6/3/98
+- * TO PULL OUT           [012]
+- * ARMS DEAL             [081:081]
+- * TO TOPPLE             [173] ;tony  4/26/91
+- * TO EXPEL              [200]
+- * TO SEND               [031?]
+PRESENT [---]
+- * CREDENTIALS  [097]
+- * WITH MODEL   [101] ;shan 1/7/94
+- * PROPOSAL     [101]
+- * COURSE       [---]
+- * GIFT         [073]
+- * PLAN         [101]
+- * BILL         [151]
+PRESIDENTIAL_CANDIDATE [---] ;jw   11/14/91
+PRESIDENTIAL_ELECTION [---] ;jw   11/14/91
+PRESIDENTIAL_PRIMARY [---] ;jw   11/14/91
+PRESSURE [---]
+- + UNDER * FROM $  [102]
+- + UNABLE TO * $   [112]
+- PUT * ON          [102]
+PRESS [095]
+- * TO DEMONSTRATE SUPPORT  [102] ;shan 1/5/94
+- GOVERNMENT-CONTROLLED_*   [---] ;pas 2/3/96
+- * + REFRAIN ATTACK        [094] ;JON 5/5/95
+- INTERNATIONAL_*           [---]
+- *_SECRETARY               [---] ;pas 2/3/96
+- OFFICIAL *                [---]
+- *_OFFICER                 [---] ;pas 2/3/96
+- *_ON_WITH                 [---]
+- *_SERVICE                 [---]
+- FOREIGN_*                 [---]
+- THE_*                     [---] ;pas 2/3/96
+- NOT *                     [053] ;pas 2/3/96
+PREVENT [112] ;jw   11/14/91
+- SAID WILL NOT * FROM DISTRIBUTING FOOD  [054]
+- * TRAFFIC FROM ENTERING                 [192]
+- EFFORTS TO * ATTACK                     [102]
+- * FROM ENTERING                         [142]
+- * PROTESTS                              [197]
+- TRY TO *                                [173]
+- * VISIT                                 [142] ;JON 5/24/95
+- NOT_*                                   [040] ;JON 5/17/95
+PROGRESS [---] ;shan   8/17/93
+- SAID SIGNIFICANT *  [024]
+- SAID NO_*           [022] ;JON 5/3/95
+PROHIBIT [---]
+- * TRAVEL  [197]
+- HAVE *    [112]
+- HAS *     [112]
+PROMISE [050] ;jw   11/14/91
+- * TO HELP DEFEND AGAINST ATTACK  [052]
+- $ * CONSIDER CANCEL AGREE        [130] ;JON 5/29/95
+- * WOULD BACK OPPONENTS           [172]
+- * TO RAISE SUPPORTERS            [052]
+- * WOULD SOON DECIDE              [023]
+- * WILL RETALIATE                 [173]
+- * ACTION AGAINST                 [171]
+- * FUTURE SUPPORT                 [053]
+- * WITHDRAW TROOP                 [050] ;JON 5/24/95
+- * MILITARY AID                   [072]
+- $ DELAY *                        [112] ;JON 3/6/95
+- * DOLLARS                        [052]
+- * SUPPORT                        [051]
+- * RAIDS                          [173] ;tony  4/19/91
+PROMPT [---] ;shan   8/17/93
+- SAID + ATTACK WOULD * RESPONSE  [173]
+- SAID PRESENCE WOULD * ATTACKS   [121]
+PROPOSALS [---] ;pas 2/11/96
+PROPOS [100] ;SHAN   6/28/93
+- * WOULD COMPLICATE MATTERS  [111] ;shan 1/4/94
+- * DID NOT GO FAR ENOUGH     [121]
+- * CEASE-FIRE                [014]
+- + * TALKS $                 [102]
+- * EXPULSION                 [172] ;JON 5/8/95
+- AGREE TO *                  [082:082]
+- * SUSPEND                   [172] ;JON 5/8/95
+PROTECT [073]
+- CALLED ON FOR *  [095]
+- SAID NOT SEND *  [112]
+- GOD *            [---]
+PROTEST_MARCH [---] ;pas 2/5/96
+PROTEST [133] ;jw   11/14/91
+- SYMPATHIZE WITH *  [041]
+- VIGOROUS *         [133] ;JON 5/11/98
+- REFUGEES *         [131]
+- ENCOURAG *         [042]
+- * SHOT             [220]
+PROVID [070] ;shan   7/21/93
+- * MORAL AND FINANCIAL SUPPORT  [071]
+- AGREE TO * INFORMATION         [082]
+- WILL * EMERGENCY HELP          [073]
+- * NIGHTMARE VISION             [022]
+- * CASH AND FOOD                [071]
+- * WITH MISSILES                [072]
+- * TO MORE THAN                 [---]
+- * LITTLE                       [022]
+- * AID                          [071]
+PROVOKE [170] ;shan   7/29/93
+- SAID WOULD NOT BE *  [112]
+- WOULD * RETALIATION  [173]
+- * CELEBRATION        [041] ;shan 1/6/94
+PUBLISH [---] ;jw   12/4/91
+- * EVIDENCE  [121]
+- * DENIAL    [141]
+PULL [---]
+- PLAN TO * SOLDIERS  [012]
+- TROOPS BEGAN * OUT  [012] ;shan 1/6/94
+- * EMBASSY OUT       [192]
+- * TROOPS OUT        [012]
+- SAID * STAFF        [172]
+- $ * BACK            [012] ;JON 5/7/95
+PUNISH [---] ;shan   8/17/93
+- SAID HAD RIGHT TO *  [171]
+PUSH [102] ;jw   11/14/91
+- * TO EDGE  [022] ;J 1/10/98
+- TROOPS *   [182] ;shan 9/18/95
+- ARMY *     [182] ;shan 9/18/95
+PUT [---] ;JW   11/21/91
+- AIRCRAFT CARRIER * ON ALERT  [182]
+- ATTACK HAVE * PRESSURE       [---]
+- * OFF DECISION               [191]
+- * OFF LIMITS                 [192] ;shan   11/17/93
+- * RESOURCES                  [052]
+- * ON TRIAL                   [212]
+- * BRAKE                      [191]
+QUARTER-FINALS [###] ;shan   8/4/93
+QUASH [---] ;shan   8/12/93
+- * FIGHTING  [223]
+QUELL [---] ;shan   11/17/93
+QUESTION [123?] ;jw   11/15/91
+- * ASSERTION  [111]
+- BEGUN *      [123]
+- PUT *        [123]
+QUOTE [023?] ;pas 1/31/96
+- * WISHED NORMALISED RELATIONS     [094]
+- * BEHAVING IN AN INTOLERABLE WAY  [121]
+- * WOULD ESTABLISH RELATION        [024] ;shan 1/7/94
+- * WOULD SUPPLYING MILITARY        [053]
+- * BLUNDER HAD BEEN MADE           [013]
+- * NORMAL TIES POSSIBLE            [024] ;shan 1/5/94
+- * WANTED STRONGER TIES            [094]
+- * WOULD PAY IF ATTACK             [171]
+- * TEAM WOULD DISCUSS              [031:031]
+- * ACCORD WAS USELESS              [022]
+- * SHELLING THREAT                 [022]
+- * COULD COUNTER +                 [173]
+- * PEACE POSSIBLE                  [024]
+- * WOULD NOT DARE                  [171]
+- * AS SAYING +                     [023] ;pas 1/31/96
+- * BETTER TIES                     [024]
+- * WOULD VISIT                     [024]
+- * PROPOSING                       [101]
+- * DENYING                         [142]
+- * WARNING                         [160]
+RAGE [122] ;jw   9/23/91
+RAID [223] ;jw   11/14/91
+- SAID * WOULD NOT END UPRISING  [173]
+- SELF-DEFENSE FOLLOWING *       [173] ;shan   11/22/93
+- SAID TARGET OF AIR * WAS       [025] ;shan   11/22/93
+- AIR * ALERT CANCELED           [191]
+- * SIRENS                       [160]
+RAIL [121] ;shan 1/7/94
+- * AT ENEMIES  [121] ;shan 1/7/94
+- * LINK        [---] ;J 1/11/98
+RAIN [---] ;shan   7/31/93
+- MISSILE *  [223]
+- ROCKET *   [223]
+RAISE [---]
+- *_THE_STAKES  [022]
+- * DOLLARS     [093]
+- * MONEY       [093]
+- * DOUBT       [022] ;JON 2/9/95
+- *_HOPE        [024] ;jw 9/29/91
+- * COST        [---]
+RAKED [---] ;shan   11/17/93
+- * WITH MACHINE GUN FIRE  [223] ;shan   11/17/93
+- * WITH GUNFIRE           [223] ;shan   11/17/93
+RAMMED [---] ;shan   6/26/93
+- EXPLOSIVES * MILITARY CONVOY  [223]
+- * EXPLOSIVE TRUCK             [223]
+RAMPAG [221] ;shan   9/20/93
+- WIELDING KNIFE *  [222] ;shan 1/4/94
+RANSACK [222] ;shan   8/12/93
+RATIF [042]
+RE-ADMIT [065] ;JW   10/31/91
+REACH [---] ;JW   10/22/91
+- EFFORTS HAVE * DEAD END  [194]
+- * OUT TO FORMER ALLIES   [092]
+- RELIEF SUPPLIES *        [073]
+- REFUGEES *               [114]
+- * DEADLOCK               [111]
+REACT [023] ;PAS   9/24/91
+- * WITH OUTRAGE  [122]
+- * POSITIVELY    [041]
+- * WITH ANGER    [122]
+- * BITTERLY      [122]
+- NUCLEAR *       [---]
+- * ANGRILY       [122]
+READMIT [065] ;jon 2/18/98
+READY [---] ;shan   8/11/93
+- * TO TAKE FURTHER STEPS  [025] ;shan 1/7/94
+- SAID * MEET              [053] ;pas 2/11/96
+- ARE * IF                 [173]
+REAFFIRM [054] ;jw   11/14/91
+- * POLICY REFUSING  [022]
+- * OPPOSITION       [112]
+- * OBJECTION        [111]
+- * REJECTION        [111] ;JON 5/8/95
+- * SUPPORT          [051]
+REASSERT [---]
+- * FRIENDSHIP  [042] ;jw 10/1/91
+REASSURE [054]
+REBUFF [111] ;jw   11/14/91
+- SAID *  [111]
+REBUIL [065] ;jw 9/17/91
+REBUKE [121] ;jw   11/14/91
+RECALL [195] ;shan   8/12/93
+- * FOR CONSULT  [195] ;JON 5/17/95
+- * AMBASSADOR   [195]
+RECEIVE [033] ;shan   8/4/93
+- HAD * NO FORMAL REQUEST  [025] ;shan 1/7/94
+- * REQUEST FOR OBSERVERS  [073]
+- $ * MILITARY EQUIPMENT   [072]
+- $ * ASSURANCE FROM +     [054] ;shan 1/4/94
+- + HAS * MESSAGE $        [031]
+- WOULD LIKE TO *          [093]
+- * WELCOME                [032:033]
+- * COMMITMENT             [082] ;JON 5/8/95
+- + * MONEY $              [071]
+- + * FIGHTERS             [072]
+- + * TANKS $              [072]
+- * MISSILES               [072]
+- % BOTH *                 [033] ;JON 2/8/95
+- * CARD                   [---] ;tony  4/22/91
+RECOGNISE [064?] ;jw   11/14/91
+- IMPLICITLY *  [064]
+- SAID NOT *    [142]
+- HAS * PLAN    [082]
+- SAID *        [064]
+RECOGNIZE [064?] ;JW   11/26/91
+- IMPLICITLY *     [064]
+- $ SAID + MUST *  [150] ;JON 5/15/95
+- SAID NOT *       [142]
+- HAS * PLAN       [082]
+- NEVER_*          [112] ;J 5/23/95
+RECOMMEND [102] ;jw   11/14/91
+- WILL DECIDE WHETHER TO *  [025]
+- RESOLUTION TO * RIGHTS    [190]
+RECONNECT [---] ;pas 2/2/96
+- * TELEPHONE  [065] ;pas 2/2/96
+RECONSIDER [025] ;shan   8/17/93
+- $ SAID WOULD * RESTRAINT IF + ATTACKED  [173]
+RECOVER [---] ;shan   8/17/93
+- SAID WORKING TO * CREDIBILITY  [025]
+REDEPLOY [182] ;shan   9/6/93
+- SAID MAY HAVE TO *  [173]
+REDUC [---]
+- SAID HAD DECIDED TO * TIES  [190]
+- * CIVILIAN STAFF            [012]
+- * DETENTION                 [064]
+- * TROOPS                    [198] ;JON 3/6/95
+- * FORCES                    [012]
+- * NUMBER                    [193]
+- * FORCE                     [012]
+- * TERMS                     [012]
+- TROOP *                     [016]
+REESTABLISH [064] ;shan   8/12/93
+- * DIPLOMATIC  [064]
+REFUGE_ [063] ;shan   2/18/93
+- GRATEFUL FOR *  [114]
+- * REACHED       [114]
+- * ARRIVED       [114]
+- * CRISIS        [---]
+- * APPLY         [114]
+- * INTO          [114]
+- * TO            [114]
+REFUSED_TO_PREDICT [---] ;DJG 7/28/96
+REFUS [112] ;jw   11/14/91
+- * RULE OUT MILITARY ACTION  [173]
+- * TO ATTEND CONFERENC       [198] ;shan 9/18/95
+- * TO RULE_OUT               [012] ;j 5/28/98
+- * ASSURENCES                [142]
+- * TO CONFIRM                [021] ;shan 1/7/94
+- * TO ACCEPT                 [112] ;JON 5/31/95
+- * DISCUSS                   [112] ;JON 5/17/95
+- * COMMENT                   [021]
+- * TO SAY                    [021]
+REFUTE [141] ;JW   11/14/91
+REGARD [---] ;pas   2/5/93
+- * AS VIOLATION  [131]
+REGRET [111?] ;JW   11/14/91
+- SAID *  [111?]
+REGULATIONS [---] ;JW   1/15/92
+- MORE LIBERAL *  [065]
+REINFORCE [---] ;shan   7/21/93
+- HAS NOT * TROOPS  [025]
+- * TROOPS          [182]
+REITERATE [102] ;JW   11/14/91
+- * WILLINGNESS TO CONSIDER  [025] ;shan 1/7/94
+- * HOSTILITY TO AGREEMENT   [112]
+- * PLAN UNACCEPTABLE        [111]
+- * BACKING FOR              [042]
+- * REFUSAL                  [112]
+- * SUPPORT                  [042]
+REJECT [111] ;JW   11/14/91
+- * REDUCTION IN ASSISSTANCE  [111]
+- NOT EXPLICTLY *             [082]
+- * CONDEMNATION              [111]
+- * ACCUSATIONS               [141]
+- * CEASE-FIRE                [111] ;JON 5/24/95
+- * OPPONENTS                 [112]
+- * OFFER BY                  [112]
+- * PROPOSAL                  [111]
+- * SOLUTION                  [111]
+- * CHARGES                   [141] ;shan 1/7/94
+- * REQUEST                   [111]
+- * THREAT                    [111]
+- * APPEAL                    [111] ;JON 5/5/95
+- SAID *                      [111]
+- * PLAN                      [111]
+RELEASE [066]
+- THROWN COLD WATER ON HOPES FOR *  [022]
+- SHOCKED AND ANGERED BY *          [121] ;shan 1/4/94
+- PROSPECTS FOR * DIM               [022]
+- SAID DELIGHTED *                  [024]
+- TERM FOR_THE_*                    [---] ;JON 5/15/95
+- SECURE THE *                      [066] ;jw 9/24/91
+- * IMPOSSIBLE                      [112]
+- * OF + PRIS                       [066] ;jon 6/14/95
+- * COLLAPSE                        [142]
+- ORDERED *                         [150]
+- MAY BE *                          [025] ;tony  4/29/91
+- REFUSE *                          [112]
+- STUDY *                           [---]
+- * PRIS                            [066] ;JON 3/6/95
+- * FURY                            [122]
+- POLL *                            [---]
+- * AID                             [071] ;shan 1/6/94
+RELINQUISH [055] ;JW   11/14/91
+REMAIN [---]
+- SAID WOULD NOT * NEUTRAL IF  [171]
+- SAID WOULD * NEUTRAL         [023]
+- SAID WOULD * CLOSED          [022]
+- SAID TIES * STRONG           [054]
+- SAID WOULD * CLOSE           [022]
+- * IN CAPATIVITY              [212] ;jw 9/25/91
+- * CONCERNED                  [022] ;tony  3/11/91
+REMOVE [---] ;JW   1/17/92
+- * WARPLANES  [182]
+- * MISSILES   [065]
+- * WEAPONS    [016]
+- * FLAG       [133] ;shan 1/6/94
+RENEG [111] ;shan   8/18/93
+RENEW [---]
+- * POLICY DEPORTING  [201] ;tony  4/19/91
+- * EFFORT RESOLVE    [101]
+- * DIPLOMATIC        [064]
+- * COMMITMENT        [051]
+- * RELATIONS         [064]
+- * CRITICISM         [121] ;tony  3/9/91
+- * CALL FOR          [094]
+- * DIALOGUE          [031] ;jw 9/30/91
+- * REQUEST           [094] ;tony  3/13/91
+- * CALL ON           [094] ;shan 1/7/94
+- * SEARCH            [102]
+- * FIGHT             [223] ;JON 5/17/95
+- * TIES              [064]
+REOPEN [065] ;tony  4/19/91
+- SAID WOULD *  [053]
+- * EMBASSY     [064]
+REPEAT [---]
+- * APPEAL  [095]
+- * OFFER   [094]
+- * CALL    [094]
+REPELLED [223?] ;JW   11/14/91
+- * ATTEMPT TO STORM  [223]
+- * THRUST            [223] ;pas 2/2/96
+REPLAC [---] ;SHAN   8/17/93
+- SAID FORCE MIGHT BE *  [025]
+- SAID FORCE MIGHT *     [025]
+REPORT [025?]
+- * SAYING OPEN NEW PAGE IN STRAINED RELATIONS  [024]
+- * TRACES RESPONSIBILITY                       [121]
+- CONFIRMED * OF BOMBINGS                       [223]
+- GUERRILLA ATTACK *                            [223]
+- ARTILLERY DUELS *                             [223]
+- * CRITICAL                                    [121]
+- * CENSORED                                    [197]
+- SECRET *                                      [---]
+REPULSE [---] ;shan   9/6/93
+REPULS [---] ;shan   9/6/93
+- SAID DID NOT * TO ATTACK  [141]
+- * POSSIBLE ATTACK         [---]
+- DOES NOT * ATTACK         [064]
+REQUEST [090?] ;JW   11/14/91
+- SAID WOULD NOT GIVE WAY TO *  [111]
+- + RECEIVED * FOR OBSERVERS    [073]
+- * FORCE REMAIN                [094]
+- * EXTRADITION                 [094]
+- * MEETING                     [094]
+- $ * LOAN                      [093] ;shan 1/7/94
+- * AID                         [093]
+RESCHEDUL [082:082] ;JW   11/14/91
+- NOT_*  [112]
+RESCIND [192] ;shan   8/11/93
+- * BENEFITS  [192]
+RESERV [---] ;shan   8/11/93
+- SAID * RIGHT TO ACT IN SELF-DEFENSE  [173]
+- * RIGHT TO USE MILITARY              [173]
+RESIGNED_ [181] ;j 6/3/98
+RESIGN_ [181] ;j 6/2/98
+RESIST [---] ;<Enter 6/2/98
+- * SUGGESTIONS  [142] ;<Enter 6/2/98
+RESOLVE [081:081] ;shan   8/12/93
+- SAID MUTINY WOULD BE *  [054]
+- CRISIS WILL BE *        [024] ;shan 1/4/94
+- WORK TO *               [025] ;shan 1/7/94
+- REMAIN *                [022] ;JON 4/24/95
+RESPOND [---]
+- HAS * POSITIVELY  [082]
+- * ACCUSATION      [111]
+- SAID WILL *       [171]
+- * ANGRILY         [122]
+RESPONSIBLE [---] ;JW   11/21/91
+- MIGHT BE *  [121]
+RESTATE [025] ;shan   8/12/93
+- * POSITION  [025]
+- * SUPPORT   [042] ;shan   11/17/93
+- * VIEW      [025]
+RESTOR [---] ;JW   11/14/91
+- NOT * RELATIONS  [112] ;tony  4/26/91
+- % * DIPLOMATIC   [064:064] ;pas 2/2/96
+- ELECTRICITY *    [064]
+- * DIPLOMATIC     [064]
+- * RELATIONS      [064]
+- * UNITY          [081:081]
+- * TIES           [064] ;jw 10/1/91
+RESTRICT [---] ;jw   3/11/92
+- TIGHTEN *  [197]
+- * ENTRY    [192]
+- * SALES    [193]
+RESUM [---] ;JW   11/14/91
+- SAID NEGOTIATIONS COULD * WITH +  [025] ;shan 8/25/95
+- SAID WOULD LIKE TO SEE TALKS *    [102]
+- * EFFORTS TO PERSUADE             [031]
+- * BITTER ATTACK                   [121] ;tony  4/22/91
+- SAID * FLIGHTS                    [065]
+- * DEPORTATION                     [201] ;tony  4/19/91
+- * TALKS WHEN                      [102]
+- * DIPLOMATIC                      [064]
+- * DIALOGUE                        [031]
+- * PROTESTS                        [133]
+- * FLIGHTS                         [065]
+- COULD *                           [025] ;pas 2/3/96
+- * TIES                            [064] ;jw 9/30/91
+- NOT *                             [191] ;pas 2/5/96
+RETALIAT [173] ;shan   8/17/93
+- SAID WOULD NOT NEED PERMISSION TO *  [173]
+- SAID WOULD * FOR MISSILE ATTACK      [173]
+- WILL * AGAINST MISSILE *             [173]
+- SAID HAD NO RIGHT TO *               [121]
+- SAID * WAS POSSIBLE                  [173]
+- * FOR ATTACK                         [---]
+- SAID WOULD *                         [171]
+RETRACT [013] ;shan   8/5/93
+- * STATEMENT  [013]
+RETREAT [012] ;shan   8/5/93
+- AVOID WAR IF *  [102] ;J 6/2/98
+- $ * FROM +      [012] ;JON 5/7/95
+RETURN [032:033]
+- CHANCES SLIM * AMBASSADOR  [111]
+- READY TO * IN EXCHANGE     [101] ;shan 1/6/94
+- + * AFTER CAPTIVITY $      [066]
+- WILL NOT * AIRCRAFT        [112]
+- * FROM RECESS              [---]
+- * COMPLIMENT               [041]
+- * ARTILLERY                [223]
+- * FIRE                     [223]
+- MUST *                     [150]
+REUNIF [084] ;jw   12/3/91
+REVERSE BAN [065] ;tony  4/26/91
+REVIEW [---] ;jw   12/4/91
+- * TROOPS  [182]
+- * EVENTS  [082]
+REVISE [---] ;shan   8/12/93
+- * CONSTITUTION  [027]
+REVIVE [---] ;shan   2/20/93
+- * ATTEMPT  [102]
+- * PACTS    [082:082]
+REVOKE [190] ;shan 1/6/94
+- * EXPORT LICENC  [192] ;shan 1/6/94
+- * BAIL           [121] ;<Enter 6/2/98
+RIOT [224] ;JW   11/14/91
+- *_POLICE  [---]
+RIPPED [---] ;shan   7/11/93
+- MISSILE *  [223]
+RISEN [---] ;shan   2/20/93
+- CASUALTY TOLL *  [022]
+- DEATH TOLL *     [223]
+RISK [---] ;shan   8/17/93
+- SAID VIOLENCE *  [022]
+ROARED [---] ;shan   7/11/93
+- MISSILE *  [223]
+ROCKETED [223] ;jw   10/8/91
+ROCK [---] ;shan   8/5/93
+- ARTILLERY *  [223]
+ROUNDED_UP [212] ;JW   11/14/91
+- + BE * $  [212]
+- SAID *    [212]
+ROW [---] ;J 1/11/98
+- TERRITORIAL *  [132] ;J 1/11/98
+RULE OUT [111] ;JON 5/9/95
+- WOULD NOT * PRE-EMPTIVE STRIKE  [173]
+- * INCREASE IN TROOPS            [025]
+- * HOSTILIT                      [054] ;JON 5/9/95
+- NOT *                           [022] ;JON 5/17/95
+RUSH [---] ;shan   7/31/93
+- * MISSILES TO +  [072]
+SAFEGUARD [054] ;jw 9/16/91
+SAID [023?] ;PAS   9/25/91
+- * SEEKING WEAPONS TO DOMINATE REGION  [121] ;shan 1/4/94
+- * ECONOMIC TROUBLES IMPAIRING ENEMY   [024]
+- * NEGOTIATIONS COULD RESUME WITH +    [025] ;shan 8/25/95
+- * CHANCES FOR SETTLEMENT FAVORABLE    [024]
+- * WOULD RATHER HAVE MEDIA SILENCED    [025]
+- * BELIEVED COULD OVERCOME PROBLEMS    [024] ;shan 1/6/94
+- * MISSILE ATTACKS WOULD NOT DRAG      [025]
+- * EXPANDED TIES WERE OF INTEREST      [024]
+- * MISSILE ATTACKS WERE ALL SMOKE      [121]
+- * RECONCILIATION NOT PRACTICAL        [022]
+- * PLO HAD MAJOR ROLE IN PEACE         [042]
+- * GIVING FOR HUMANITARIAN AID         [073]
+- * AIRSTRIKES ARE POSSIBILITY          [174] ;shan 8/25/95
+- * WAS IMPORTANT STEP FORWARD          [024]
+- * SAW NO REASON FOR OPTIMISM          [022]
+- * NOTHING TO DO WITH ATTACK           [140] ;shan 9/18/95
+- * WOULD NOT MAKE CONCESSION           [111] ;JON 3/10/95
+- * WILL STAY OUT OF FIGHTING           [025]
+- * WOULD SPEED UP PROCEDURES           [051]
+- * WAS NEVER CLOSER TO TALKS           [022]
+- * BELIEVE WILL RESUME TALKS           [024]
+- * WAS VICTIM OF AGGRESSION            [121] ;shan 9/20/95
+- * HAD IRREFUTABLE EVIDENCE            [121] ;shan 1/5/94
+- * MILITARY ACTION POSSIBLE            [173]
+- * PROSPECT OF PEACE REMOTE            [022]
+- * IS A POSITIVE INFLUENCE             [024]
+- * COULD BE NO PEACE UNTIL             [022]
+- * WOULD REDOUBLE EFFORTS              [025] ;shan   11/22/93
+- * WOULD NOT REMAIN IDLE               [171] ;shan 8/26/95
+- * SAW POSITIVE ELEMENTS               [024]
+- * ATTACKS NOT TERRORISM               [042]
+- * FELT CLOSE TO VICTIMS               [041]
+- * RELATIONS WERE AT LOW               [022]
+- * WOULD MAKE CONCESSION               [053] ;shan   11/29/93
+- * SIGNIFICANT PROGRESS                [024]
+- * WAS ESPECIALLY PROUD                [042]
+- * COULD ATTACK TARGETS                [173]
+- * + WAS BEHIND ATTACK                 [121] ;pas 2/2/96
+- * DID NOT VIOLATE LAW                 [141] ;shan 1/7/94
+- * WOULD NOT GUARANTEE                 [112] ;shan   11/22/93
+- * RUN OUT OF PATIENCE                 [022]
+- * HAD NO KNOWLEDGE OF                 [142]
+- * WOULD NOT TURN OVER                 [111] ;shan 1/6/94
+- * NO EVIDENCE SUPPORT                 [141] ;JON 5/7/95
+- * SHOOT OF + WAS PLOT                 [121] ;JON 5/31/95
+- * READY TO NEGOTIATE                  [025] ;shan 8/26/95
+- * NO CHANGE IN GOALS                  [025]
+- * APPALLED BY ATTACK                  [121]
+- * UNDERSTOOD MOTIVES                  [023]
+- * WAS UNSATISFACTORY                  [131] ;tony  4/19/91
+- * NOTHING TO DO WITH                  [142] ;JON 5/8/95
+- * TENSION INCREASED                   [022] ;shan 1/7/94
+- * COULD NOT SURVIVE                   [022]
+- * ASSURANCES UNTRUE                   [142]
+- * COULD NOT COEXIST                   [022]
+- * WAS IRRESPONSIBLE                   [121]
+- * WOULD BE NO PEACE                   [022]
+- * NO WEAPONS HIDDEN                   [141]
+- * + BEHIND ATTACKS                    [121] ;pas 2/2/96
+- * + WOULD SET FREE                    [053] ;shan 1/5/94
+- * MADE NO PROGRESS                    [022] ;shan   11/23/93
+- * HAD GONE TOO FAR                    [121]
+- * MUST BE CAUTIOUS                    [023]
+- * DEEPLY CONCERNED                    [022]
+- * WORKING TOGETHER                    [082:082]
+- * NO JUSTIFICATION                    [121]
+- * COULD GO TO HELL                    [122]
+- * LESS PESSIMISTIC                    [024]
+- * HAD NO KNOWLEDGE                    [025]
+- * CHANCES ARE SLIM                    [022]
+- * READY FOR BATTLE                    [173]
+- * NOT DISAPPOINTED                    [024]
+- * + USING VIOLENCE                    [121] ;JON 4/20/95
+- % * MADE PROGRESS                     [024] ;shan 8/26/95
+- * WOULD NOT ALLOW                     [112]
+- * EXPECTED ATTACK                     [022]
+- * WOULD BE THREAT                     [022]
+- * WOULD NOT TRUST                     [022]
+- * VIOLENCE RISKED                     [022]
+- * REAL MOTIVE WAS                     [121]
+- * STILL FAR APART                     [022]
+- * NOT FOR LEASING                     [112]
+- * AGREEMENT NEAR                      [024]
+- * NOT IN CONTACT                      [025]
+- * WAS DISCONTENT                      [022]
+- * WOULD NOT MOVE                      [054] ;shan   11/17/93
+- * COULD NOT WAIT                      [160] ;JON 5/30/95
+- * WAS DANGEROUS                       [022]
+- * HELP UNLIKELY                       [022]
+- * WERE INNOCENT                       [141]
+- * MADE PROGRESS                       [023] ;JON 4/20/95
+- * + NOT ATTACK                        [042] ;pas 2/2/96
+- * WOULD REFUSE                        [111] ;pas 1/31/96
+- * VERY WORRIED                        [022]
+- * NO HOSTILITY                        [024]
+- * BE MERCILESS                        [173]
+- * HAS WARHEADS                        [121]
+- * ZONES DOOMED                        [022] ;shan   11/29/93
+- * MUST DO MORE                        [094] ;JON 4/12/95
+- * EXPECT AGREE                        [024] ;JON 4/12/95
+- * SHOULD LEAD                         [020] ;DJG 7/28/96
+- $ * NOT GO_TO                         [112] ;JON 5/4/95
+- * DISCOURAGED                         [022]
+- * NO EVIDENCE                         [141]
+- * SAW NO NEED                         [025] ;shan 1/7/94
+- * MIGHT QUIT                          [160] ;pas 1/31/96
+- * SKEPTICISM                          [111]
+- * POLICY WAS                          [023?]
+- * WAS THREAT                          [022]
+- * EASY PREY                           [170] ;j 5/28/98
+- * LOW POINT                           [022] ;J 1/11/98
+- * VIOLATING                           [121] ;pas 2/11/96
+- * DISGUSTED                           [121] ;pas 2/3/96
+- * CONCERNED                           [022]
+- * NO CHANCE                           [022]
+- * DISDAINED                           [122]
+- * BAD NEWS                            [022] ;JON 2/18/98
+- * + SHOULD                            [102] ;pas 1/31/96
+- * NO BASIS                            [140] ;shan 9/22/95
+- * STRIVING                            [024]
+- * PULLBACK                            [012]
+- * ONLY WAY                            [094]
+- * DISMAYED                            [121]
+- * WAS PLOT                            [121]
+- * NOT LAST                            [022] ;JON 5/31/95
+- * BLEW UP                             [121] ;pas 2/5/96
+- * TRUSTED                             [024] ;JON 5/7/95
+- * DIVIDED                             [022] ;JON 3/10/95
+- * PAV WAY                             [024] ;JON 3/6/95
+- * DOUBTED                             [022]
+- * PLEASED                             [041]
+- * NO LINK                             [141]
+- * TRAGIC                              [022]
+- * UNABLE                              [111]
+- * PROOF                               [121]
+- * HAPPY                               [041]
+- * BIAS                                [121]
+- ONCE_*                                [###]
+- * LIED                                [120] ;JON 5/5/95
+- * TRY                                 [023] ;JON 4/20/95
+SANK [223] ;pas  3/1/91
+- HOPE *  [022]
+- * HOPE  [022]
+- BOAT *  [---]
+SATISF [073?] ;JW   11/14/91
+- SAID NOT *  [022] ;JON 4/14/95
+- SAID *      [041]
+SAW [---] ;shan   8/10/93
+- * NO REASON FOR OPTIMISM  [022]
+- * NO OBSTACLE             [024]
+SAY [023?] ;JON 3/10/95
+- * TIME IS RIGHT FOR ARMIES TO ATTACK  [173]
+- * SUPPLIED WITH MILITARY ADVISERS     [072]
+- * HAVE BEEN AUTHORIZED TO ATTACK      [173]
+- * EXPECTS TO SEND MORE SOLDIERS       [182]
+- * WANTED STRONGER TIES                [094] ;tony  3/12/91
+- * WEAPON REMAIN THREAT                [022] ;shan 1/7/94
+- * DELIBERATELY AIMED                  [121]
+- * NOT SWAP PRISONERS                  [112] ;tony  3/11/91
+- * BLOCKING PEACE                      [022]
+- * WOULD CONSIDER                      [025]
+- * WILL CONSIDER                       [025]
+- * HAS UNIFIED                         [024]
+- * WOULD LOSE                          [173] ;<Enter 6/2/98
+- * OPTOMISTIC                          [024] ;JON 3/10/95
+- * WILL FIGHT                          [173]
+SCOFFED [022] ;shan   2/17/93
+SCORED [---] ;shan   8/12/93
+- * VICTORY  [---]
+SCORN [111] ;shan   8/12/93
+- * PROPOSAL  [111]
+SCRAP [---] ;shan   8/30/93
+- * TROOP WITHDRAWAL AGREEMENT  [198]
+SEAL [---]
+- % * PEACE TREATY  [080] ;shan 9/22/95
+- * BORDER          [192]
+- * HOMES           [181]
+- * DEAL            [081] ;j 6/3/98
+- * OFF             [211]
+SEARCH [123] ;shan   8/18/93
+- WRAPPED UP *  [123]
+- * FOR ARMS    [123]
+- IN * FOR      [---]
+- ENDED *       [123]
+- * FOR         [---]
+SECURED [---] ;shan   2/20/93
+- * CEASEFIRE  [081:081]
+SEEK [094]
+- SAID + * WEAPONS TO DOMINATE REGION  [121] ;shan 1/4/94
+- * TO NORMALISE DIPLOMATIC TIES       [064]
+- * TO NORMALISE RELATIONS             [064]
+- * SUPPORT OPPOS TO +                 [130] ;JON 5/24/95
+- * TO SELL EQUIPMENT                  [082]
+- WILL * COMMITMENT                    [102] ;tony  4/28/91
+- * HEAD OFF CLASH                     [094] ;JON 5/29/95
+- JOIN * MEDIATION                     [092]
+- * END DISPUTE                        [094] ;JON 5/29/95
+- WARPLANES *                          [182]
+- SAID * CASH                          [093]
+- * SUPPORT                            [092]
+- * ASYLUM                             [095] ;shan 1/7/94
+- * DONOR                              [093] ;shan 1/5/94
+- NOT *                                [025]
+SEIZE [210] ;JW   11/14/91
+- * INFORMATION  [214]
+- * EVIDENCE +   [122] ;j 1/11/98
+- * FAVORABLE    [102]
+- COULD * IF     [170] ;shan   11/17/93
+- $ * LAND       [211] ;JON 5/8/95
+SELL [073]
+- * JET FIGHTERS  [072] ;shan   11/29/93
+- INDICT FOR *    [212] ;j 6/4/98
+- BEST_*          [---]
+- SAID *          [101]
+SEND [031?] ;JW   11/14/91
+- SAID WOULD * FOOD AND MEDICINE  [073]
+- SAID WOULD NOT * AMBASSADOR     [112]
+- WILL * FINDINGS TO +            [031]
+- SAID WOULD * MISSILES           [072]
+- SAID $ * TEAM TO +              [073]
+- * WARSHIPS TO HELP              [072] ;shan   11/29/93
+- SAID WOULD * FOOD               [073]
+- SAID * AMMUNITION               [052]
+- * SPY PLANES OVER               [182] ;tony  4/26/91
+- * TEAM NEGOTIATE                [032:033] ;JON 5/4/95
+- * REINFORCEMENTS                [182] ;jw 10/1/91
+- * MEDICAL TEAM                  [073]
+- * MINESWEEPERS                  [072]
+- * POLICYMAKER                   [032:033] ;shan 1/5/94
+- * TROOPS TO +                   [182]
+- SAID SHOULD *                   [102]
+- SAID * TROOPS                   [182]
+- * BEST WISHES                   [041]
+- * AMBASSADOR                    [064] ;<Enter 6/2/98
+- * INVESTIGAT                    [123]
+- * VOLUNTEERS                    [071]
+- * DELEGATION                    [032:033]
+- * BATTALION                     [182]
+- NOT * ENVOY                     [112]
+- * FORCES TO                     [072]
+- * OBSERVERS                     [073]
+- * MISSILES                      [072]
+- * AIRCRAFT                      [072]
+- * MILITARY                      [072]
+- * MESSAGE                       [025] ;pas 2/2/96
+- * MARINES                       [182]
+- * LETTER                        [031]
+- * TROOPS                        [182] ;tony  4/21/91
+- * DOLLAR                        [071]
+- * ENVOY                         [032:033]
+- * MASKS                         [073]
+- * UNIT                          [072]
+- *_HOME                          [201]
+- STOP *                          [111]
+SENTENCE [---] ;shan   8/11/93
+- SERVING *  [212]
+SENT_ [031] ;shan   8/11/93
+- SAID * REINFORCEMENTS TO FIGHT  [182]
+- CARRIER * AS NAVAL BUILDUP      [182]
+- * REINFORCEMENTS TO FIGHT       [182]
+- * ANTI-AIRCRAFT BATTERIES       [072] ;shan 1/3/94
+- * PLANE LOADED WITH FOOD        [073] ;shan 1/3/94
+- * AIR FORCE INTO ACTION         [223] ;JON 5/24/95
+- $ * MISSILE BATTERIES           [072] ;shan 1/3/94
+- $ * URGENT MESSAGE +            [031] ;shan 1/3/94
+- * REAFFIRM SUPPORT              [042] ;shan 1/3/94
+- RELIEF SUPPLIES *               [073] ;shan 1/3/94
+- * CONGRATULATIONS               [041] ;shan 1/3/94
+- * RELIEF SUPPLIES               [071] ;shan 1/3/94
+- * TROOPS TO JOIN                [072] ;shan 1/3/94
+- * ON RAID INTO +                [223] ;JON 5/30/95
+- * MIXED SIGNALS                 [023] ;j 6/2/98
+- SAID * SUPPLIES                 [073] ;shan 1/3/94
+- * BACK WEAPONS                  [111] ;shan 1/3/94
+- DOUBT TROOPS *                  [112] ;shan 1/3/94
+- * BEST WISHES                   [041] ;shan 1/3/94
+- SAID * LETTER                   [031] ;shan 1/3/94
+- + * TO PRISON                   [212] ;JON 5/31/95
+- * + MEDICINE                    [073] ;shan 1/3/94
+- * VOLUNTEERS                    [071] ;shan 1/3/94
+- * INVESTIGAT                    [123] ;shan 1/3/94
+- * GUERRILLAS                    [182] ;shan 1/3/94
+- * DELEGATION                    [031] ;shan 1/3/94
+- * OBSERVERS                     [031] ;shan 1/3/94
+- * MEDICINE                      [073] ;shan 1/3/94
+- * MILITARY                      [072] ;shan 1/3/94
+- SUPPLIES *                      [071] ;shan 1/3/94
+- * SHIPMENT                      [073] ;shan 1/3/94
+- * SUPPLIES                      [073] ;shan 1/3/94
+- * DIPLOMAT                      [031] ;shan 1/3/94
+- * MEDICAL                       [073] ;shan 1/3/94
+- * TO BOMB                       [223] ;shan 1/3/94
+- *_TO_JOIN                       [052] ;shan 1/3/94
+- * LETTERS                       [031] ;shan 1/3/94
+- * CARRIER                       [182] ;shan 1/3/94
+- * MESSAGE                       [031] ;shan 1/3/94
+- * LETTER                        [031] ;shan 1/3/94
+- LETTER *                        [031] ;shan 1/3/94
+- * FOOD                          [073] ;shan 1/3/94
+- *_HOME                          [201] ;shan 1/3/94
+- * ARMY                          [182] ;shan 1/3/94
+- * HOME                          [201] ;shan 1/3/94
+- * ARMS                          [072] ;shan 1/3/94
+- SPY *                           [175] ;shan 1/3/94
+- * AID                           [071] ;shan 1/3/94
+- NOT *                           [---] ;shan 1/3/94
+SERVE [---] ;JW   10/28/91
+- + * WITH_EXPULSION $  [201]
+SERV [---] ;shan   8/18/93
+- MEMORIAL *  [133]
+SET_UP [---]
+- * COMMITTEE  [082:082]
+- * MILITARY   [182]
+- % * MET      [031]
+- * TIES       [064]
+- * FUND       [071]
+- * BASE       [182]
+SET_ [---]
+- * COLLISION COURSE  [171]
+- * OUT NEW STRATEGY  [025]
+- * FIRE IN PROTEST   [133]
+- * PRIORIT           [102]
+- * BACK IF           [062]
+- * AFIRE             [222]
+- * FIRE              [222]
+SEVERED [---] ;jw   11/15/91
+- * RELATIONSHIP  [198]
+- * RELATIONS     [195]
+- * BY ATTACK     [---] ;shan 1/4/94
+- * DIALOGUE      [094]
+- * CONTACT       [195] ;shan 1/4/94
+- * TIES          [195]
+SEVER [---] ;jw   11/15/91
+- * DIPLOMATIC AND POLITICAL TIES  [195]
+- * RELATIONSHIP                   [198]
+- * RELATIONS                      [195]
+- * DIALOGUE                       [094]
+- * CONTACT                        [195] ;shan 1/4/94
+- * TIES                           [195]
+SHATTERED [---] ;SHAN   8/4/93
+- * ASPIRATIONS  [022]
+- * HOPES        [022]
+SHELLS [---] ;pas 1/31/96
+SHELL [223]
+- $ * HIT +  [223] ;JON 5/15/95
+- * OIL      [---] ;shan 9/20/95
+SHELVE [191] ;jw 9/29/91
+SHIFT [---] ;pas 2/2/96
+- * BACK TO  [012] ;pas 2/2/96
+SHOCK [---] ;SHAN   9/6/93
+- SAID *  [121]
+SHOOT [223] ;SHAN   9/6/93
+- BLAM + FOR *  [121] ;JON 5/4/95
+- * BY $ OF +   [223] ;JON 5/4/95
+- ORDER TO *    [223]
+- * ATTACK      [223] ;JON 5/7/95
+- PLANS *       [173]
+SHOT_AND_KILL [220] ;JON 3/2/95
+- *_IN $  [220] ;JON 5/4/95
+SHOT_AND_WOUND [223] ;JON 3/10/95
+SHOT [223]
+- WOULD DETECTED_AND_*  [160] ;JON 5/29/95
+- TROOPS * PROTESTER    [220]
+- WITHOUT FIRING *      [---]
+- + * BY TROOPS         [223] ;pas 2/3/96
+- * BY MISTAKE          [222] ;JON 5/4/95
+- WILL BE * IF          [173]
+- TROOPS * BOY          [220]
+- $ SOLDIER *           [222] ;J 1/8/98
+- PROTESTER *           [220]
+- * UNARMED             [220]
+- + * IN $              [223] ;pas 2/3/96
+- CALLED *              [---] ;JON 3/10/95
+- TROOPS *              [223]
+- MOURN *               [133]
+- * BACK                [223] ;J 1/10/98
+- *_UP                  [---]
+SHOULD [101] ;JW   11/21/91
+- SAID * APPLY GENEVA CONVENTIONS  [151]
+- % * BE HELD RESPONSIBLE BY $     [102] ;shan 1/7/94
+- SAID * SUSPEND CONTRIBUT         [102] ;JON 5/24/95
+- WEAPONS * BE PROHIBITED          [102]
+- * TAKE RESPONSIBILITY            [102]
+- * BE HELD RESPONSIBLE            [102]
+- SAID * LAY DOWN ARMS             [094]
+- $ SAY + * NEGOTIATE              [102]
+- * MIND OWN BUSINESS              [111]
+- SAID FORCE * LEAVE               [094]
+- * MAKE CONCESSIONS               [102]
+- * NOT BE HELD                    [112]
+- * INVESTIGATE                    [094]
+- MOVE * EASE                      [---]
+- * AGREE                          [102]
+- SAID *                           [102]
+- * SHUT                           [102]
+SHOW [---] ;SHAN   8/5/93
+- * READY TO USE FORCE  [173] ;shan   11/17/93
+- SAID * WAS DANGER     [022]
+- ATTACK WERE *         [---]
+- *_OF FORCE            [182]
+- * PROGRESS            [024]
+SHRUGGED [---] ;SHAN   8/11/93
+- * OFF THREAT  [111]
+SHUT [---] ;jw   11/15/91
+- * DOWN REACTOR  [---]
+- * DIPLOMATIC    [195]
+- * OFFICES       [201]
+- * BORDER        [192]
+- * DOWN          [197]
+SIGNAL [025?] ;JW   10/24/91
+- * IMMEDIATE THREAT LIFTED  [054]
+- * DESIRE TO SETTLE         [024]
+- * RESOLVE                  [160] ;pas 1/31/96
+- * COOLER                   [022]
+SIGNIFICANT [---] ;jw   10/21/91
+SIGN [081:081]
+- * AGREEMENT MUTUAL RECOGNITION  [064] ;shan 1/6/94
+- VIOLENCE SHOWS NO * OF EASING   [022] ;shan 1/4/94
+- * $ PLANNING ATTACK             [121]
+- % * PROTOCOL                    [081:081]
+- DELAY * AGREEMENT               [191]
+- % * PEACE DEAL                  [081:081] ;JON 3/10/95
+- % * AGREEMENT                   [081:081] ;JON 5/4/95
+- THERE_WERE_*                    [---]
+- * PEACE DEAL                    [081:081] ;JON 5/5/95
+- * OF TENSION                    [022] ;JON 5/24/95
+- $ YET TO *                      [111] ;JON 3/1/95
+- STILL NO *                      [022]
+- CLOSE_TO *                      [082:082] ;JON 5/3/95
+- * OF RIFT                       [022] ;j 6/3/98
+- SHOW_NO_*                       [---] ;tony  4/22/91
+- * URGING                        [102]
+- * LETTER                        [031]
+- NO_ *                           [112]
+- NO *                            [023] ;j 6/3/98
+SILENCED [197] ;SHAN   8/17/93
+- SAID WOULD RATHER HAVE MEDIA *  [025]
+- * GUN                           [014] ;JON 5/7/95
+SLAM [122]
+- * BORDER SHUT  [192] ;tony  4/26/91
+- ARTILLERY *    [223]
+- * MISSILES     [223]
+- MISSILES *     [223]
+- * GRENADES     [223]
+- ROCKETS *      [223] ;jw 9/17/91
+SLAUGHTER [223]
+- STOP *  [---]
+SMASHED [220] ;SHAN   8/4/93
+- MISSILES *  [223]
+- * WINDOWS   [222]
+SNUB [111] ;jw   11/22/91
+SOCCER [###] ;JW   10/15/91
+SOLD_ [081] ;PAS   9/27/91
+SOUGHT [102]
+- * WAYS DELIVER RELIEF  [073]
+- * TO COOL SPECULATION  [054]
+- * FOR QUESTIONING      [123]
+- SAID + HAD NOT *       [121]
+- * WAYS TO AID          [073]
+- * REASSURE             [054] ;JON 3/10/95
+- * SUPPORT              [092]
+- * ASYLUM               [114]
+- * ALLAY                [054]
+- * HELP                 [095]
+SOUNDED [---] ;SHAN   8/3/93
+- * SIRENS  [160]
+SPELL [---] ;SHAN   9/6/93
+- SAID CHANGES * DANGER  [022]
+SPENT [---] ;SHAN   9/6/93
+SPOKE [---] ;SHAN   8/6/93
+- * OUT AGAINST  [121]
+SPURN [111]
+SPY [214] ;jw   12/9/91
+- * SWAP  [066]
+SQUASH [---] ;SHAN   8/12/93
+- * CHAMPIONSHIP  [###] ;shan   11/17/93
+- * TITLE         [###] ;shan   11/17/93
+STABBED [222] ;pas   9/26/91
+STAB_ [222] ;pas   9/26/91
+- * IN BACK  [---] ;JON 5/24/95
+STAGE [180?] ;jw   11/15/91
+- * CANDLELIT VIGIL  [180] ;shan 1/5/94
+- * DEMONSTRATION    [181]
+- * MOCK ATTACKS     [182]
+- * MOCK RAIDS       [182]
+- * PROTEST          [181]
+- * STRIKE           [133]
+- WORLD *            [---] ;shan 1/5/94
+- NEXT *             [---] ;JON 5/5/95
+STAND [---] ;SHAN   9/6/93
+- SAID WOULD * BY  [051]
+- MISSILE * VIGIL  [182] ;shan 1/4/94
+- * AGAINST +      [160] ;J 6/2/98
+- FORCES * BY      [182]
+- WILL * BY        [051] ;shan   11/22/93
+STARK_ [###] ;JON 5/11/98
+START [---]
+- * ARTILLERY DUEL  [223] ;tony  4/21/91
+- * REOPENING       [065] ;tony  3/9/91
+- * DISCUSS         [032:033]
+- * TALKS           [082:082]
+- * TOUR            [032:033] ;tony  3/9/91
+STAY [---] ;SHAN   6/25/93
+- SAID WILL * OUT OF FIGHTING  [025]
+- MARINES WILL *               [182]
+- * HOME                       [131?]
+STEP_UP [---] ;PAS 2/5/96
+- * DIPLOMATIC EFFORTS  [031] ;PAS 2/5/96
+- * PRESSURE FOR PEACE  [102] ;PAS 2/5/96
+- * ATTACK ON FORCES    [223] ;PAS 2/5/96
+- VOWED TO * ATTACK     [173] ;PAS 2/5/96
+- * FRIENDSHIP          [042] ;PAS 2/5/96
+- * STRUGGLE            [223] ;PAS 2/5/96
+- * PATROLS             [182] ;PAS 2/5/96
+- * DEFIANCE            [111] ;PAS 2/5/96
+- * PRESSURE            [171] ;PAS 2/5/96
+- * FIGHTING            [182] ;PAS 2/5/96
+- * AID                 [071] ;PAS 2/5/96
+STONE [222] ;tony  4/26/91
+- THREW FIREBOMBS AND * +  [222] ;shan 8/26/95
+- ERECTED * MONUMENT       [133]
+- STEPPING *               [---]
+- GALL *                   [---]
+- * +                      [222] ;shan 8/26/95
+STOOD [---] ;SHAN   6/24/93
+- AIR FORCE * POISED  [182]
+- * BY DECISION       [042]
+STOP [190?] ;jw   11/15/91
+- PRESSURE MIGHT * ATTACKS  [102]
+- CALLED ON TO * BLOODSHED  [094]
+- SAID WOULD * WARPLANES    [173]
+- SAID WOULD * WARPLANE     [173]
+- SAID WOULD * FIGHTING     [082:082]
+- MADE SURPRISE * +         [032:033] ;shan 1/6/94
+- SAID MUST BE *            [122]
+- AID ALMOST *              [193]
+- IS TRYING *               [131]
+- * FOR TALKS               [031] ;jw 9/25/91
+- GUNBOATS *                [223]
+- * JAMMING                 [065]
+- * ATTACKS                 [065]
+- * GRANTS                  [193]
+- * DEPORT                  [065]
+- BID_TO_*                  [102] ;jw 9/17/91
+- * VESSEL                  [211] ;tony  4/28/91
+- ADD *                     [031] ;JON 5/29/95
+- NOT *                     [112]
+STORM [---] ;SHAN   6/25/93
+- TROOPS * VILLAGE  [223]
+- SAID * BUILDING   [223]
+- * AND SEIZED      [223]
+- SET OFF *         [---]
+- * MOSQUE          [223] ;shan 1/4/94
+- AGENTS *          [223]
+- * CAMP            [223]
+STRAFE [223] ;tony  4/29/91
+STRAIN [171] ;jw   11/15/91
+- * RELATIONS  [022]
+STRAND [---] ;SHAN   7/1/93
+- WORKERS *  [095]
+STRANGLE [220] ;SHAN   8/10/93
+STREAM [---] ;JW   11/26/91
+- + * INTO $  [063]
+- REFUGEES *  [012]
+STRESS [---] ;jw   11/15/91
+- * MAINTAIN CEASEFIRE  [042]
+- * OPPOSITION          [121]
+STRIKE [196?] ;jw   11/15/91
+- READY TO TAKE PART IN MILITARY *  [173]
+- SAID JETS CARRIED OUT SEPARATE *  [223]
+- WOULD * IF ATTACK CONTINUED       [173]
+- NO INTENTION OF LAUNCHING *       [025]
+- SAID AIR * WAS POSSIBILITY        [174] ;shan 8/25/95
+- EXPECT WILL INCREASE AIR *        [022]
+- SAID WOULD NOT * BACK             [054]
+- MILITARY * MIGHT BE               [173]
+- MILITARY * IF DEFY                [173]
+- WERE POISED TO *                  [173] ;tony  4/26/91
+- * DEEPENED RIFT                   [022]
+- BRAC MISSILE *                    [182] ;j 6/3/98
+- AIR * SCRUBBED                    [191]
+- SAID WOULD *                      [173]
+- SNUFF_OUT *                       [151]
+- MILITARY *                        [223]
+- MISSILE *                         [223]
+- WENT ON *                         [196]
+- FEARING *                         [---]
+- HUNGER *                          [133]
+- BOMB_ *                           [223] ;j 6/3/98
+- COULD *                           [160] ;JON 5/7/95
+- $ AIR_*                           [223] ;JON 5/24/95
+- END *                             [014]
+STROVE FOR PEACE [102]
+STRUCK [---] ;SHAN   7/21/93
+- WARPLANES *  [223]
+- MISSILE *    [223] ;JON 5/29/95
+- * BASES      [223]
+SUBMIT [---] ;jw   11/15/91
+- * RESOLUTION CONDEMNING  [121]
+- + * INTERROGATION $      [123]
+- * PROPOSAL               [101]
+- * TORTURE                [225]
+- * ARREST                 [011]
+- * PAPER                  [101] ;tony  3/9/91
+- * FORCE                  [012]
+- NOT *                    [112]
+SUFFER [---] ;SHAN   8/5/93
+- * ARTILLERY BARRAGES  [223]
+SUGGESTION [---] ;pas 1/31/96
+SUGGEST [101] ;shan   9/21/93
+- * SHOULD  [101]
+SUMMON [094] ;jw   11/15/91
+SUPERVISE [---] ;SHAN   7/23/93
+- * ENTRY OF FOOD  [073]
+- * EVACUATION     [073]
+SUPPLI [---] ;SHAN   2/20/93
+- $ * + WITH MISSILES  [072]
+- SAID DISTRIBUTED *   [073]
+- * + WITH ARMS        [072]
+SUPPLY [073] ;JW   10/22/91
+- * COULD LEAD TO FIGHTING  [022]
+- * FIGHTER-BOMBERS         [072]
+- * WEAPONS                 [072]
+- * ROUTE                   [---]
+- * ARMS                    [072]
+- NO_ *                     [110] ;JON 5/8/95
+SUPPORT [073] ;jw   11/15/91
+- * HAVE WON CONTROL IN ELECTION  [034]
+- NO EVIDENCE TO * ALLEGATIONS    [141]
+- * WON CONTROL IN ELECTIONS      [034]
+- + RECEIVED * FROM $             [053]
+- * ACTION AGAINST +              [160] ;<Enter 6/2/98
+- SAID WOULD * PLAN               [082]
+- * PLAN TO MARCH                 [181] ;shan 1/7/94
+- * FALL AMONG $                  [121] ;JON 3/10/95
+- DISPUTE OVER *                  [131]
+- * WIN ELECTION                  [034]
+- EXPRESSWAY *                    [---]
+- + LOSING * $                    [193]
+- COULD LOSE *                    [022] ;JON 5/4/95
+- * WIN SEATS                     [034]
+- * WON SEATS                     [034]
+- $ BLOCK + *                     [094] ;JON 5/31/95
+- $ MUSTER *                      [092]
+- $ *_FOR +                       [042] ;J 6/2/98
+- * FORCE +                       [160] ;<Enter 6/2/98
+- * DEMANDS                       [042] ;shan 1/5/94
+- DRUM_UP_*                       [095]
+- * URGING                        [102]
+- WEAKEN *                        [022]
+- * STAFF                         [---] ;j 6/3/98
+- RENEW *                         [042]
+- NOT *                           [112]
+SURRENDER [011] ;tony  4/22/91
+- SET DEADLINE FOR *  [174] ;shan 1/5/94
+- * TO POLICE         [---] ;pas 1/31/96
+- NOT *               [111] ;JON 5/4/95
+SURVIVE [---] ;SHAN   8/17/93
+- SAID COULD NOT *  [022]
+SUSPECT [121] ;tony  3/12/91
+- * OF COOPERATING  [121] ;JON 5/17/95
+- + * CHARGED $     [212]
+- * ARRESTED        [212]
+- * CAPTURE         [212]
+- KEY_*             [---] ;JON 3/1/95
+SUSPEND [200] ;shan 9/18/95
+- * FLIGHT  [192] ;<Enter 6/2/98
+- POLICY *  [012] ;<Enter 6/2/98
+SUSPEN [190] ;JON 5/15/95
+- * PRIVILEGES  [193]
+- * RIGHTS_IN   [012]
+- * SANCTIONS   [065]
+- * SENTENCE    [065]
+- * NEGOTIAT    [191] ;JON 5/15/95
+- * ATTACKS     [065]
+- REVIVE *      [065]
+SWAP [---]
+SWEEP [---] ;SHAN   7/15/93
+- * THROUGH VILLAGES  [223]
+- * FOR MINES         [182]
+SWEPT [---] ;SHAN   8/10/93
+- WARPLANES * LOW  [182]
+- SAID TROOPS *    [182]
+- FIGHTER_JETS *   [223]
+SWORE [022] ;pas 2/11/96
+- * NEVER ALLOW  [171] ;pas 2/11/96
+- * REVENGE      [171] ;pas 2/11/96
+TAKE [---] ;jw   11/20/91
+- SAID WOULD * NECESSARY STEPS TO ENSURE SECURITY  [171]
+- SAID * MEASURES TO COUNTER ATTACK AGAINST ALLY   [173]
+- SAID COULD BE SAID TO * MILITARY ACTION          [173]
+- HAS MILITARY CAPABILITY TO * ACTION              [173]
+- WOULD NOT * PART IN CONFERENCE                   [112]
+- * PART IN CONFERENCE                             [031]
+- * MISSILES OUT                                   [065]
+- * UP POSITIONS                                   [182] ;shan   11/17/93
+- TROOPS HAVE *                                    [223]
+- NOT * PART                                       [112]
+- * UP POST                                        [064]
+- MUST *                                           [102]
+TALK [031:031] ;JON 3/6/95
+- SAID WOULD WAIT BEFORE RESUMING *  [025] ;shan 8/25/95
+- CONSIDER BREAKING PEACE *          [022]
+- WILL WALK OUT OF *                 [172] ;shan 1/7/94
+- * UNLIKELY TO RESUME               [022]
+- HOPE * DESPITE SHOOT               [024] ;JON 5/4/95
+- THAT HAS DELAYED *                 [---] ;JON 3/6/95
+- CONFIDENT * RESUME                 [024] ;shan 1/4/94
+- % MADE PROGRESS *                  [024] ;JON 5/3/95
+- SAID RESUME * IF                   [102]
+- * BETWEEN % SNAG                   [110] ;JON 5/7/95
+- SAID CONTINUE *                    [054]
+- MADE PROGRESS *                    [024] ;shan 1/6/94
+- * WILL RESUME                      [024] ;shan 1/4/94
+- SAID * OF WAR                      [022]
+- LAST-DITCH *                       [022] ;J 6/2/98
+- STORM OUT *                        [132] ;JON 5/4/95
+- * SUSPENDED                        [194] ;JON 5/4/95
+- * POSTPONED                        [191]
+- * BETWEEN %                        [031:031] ;JON 4/12/95
+- * HELD_IN +                        [032:032] ;JON 5/8/95
+- WALK OUT *                         [132] ;JON 5/4/95
+- % RESUME *                         [031:031] ;JON 3/10/95
+- RESUMED *                          [031] ;DJG 7/28/96
+- % * DELAY                          [111] ;JON 5/8/95
+- SUSPEND *                          [194]
+- * ONLY IF                          [102]
+- PUT OFF *                          [191] ;JON 5/8/95
+- DELAY *                            [111]
+- % *                                [031:031] ;JON 3/10/95
+TEAM_EVENT [###] ;JW   11/19/91
+TEARGAS [221] ;jw 10/1/91
+TELEPHONE [031:031] ;JON 3/10/95
+- * ENGINEERS  [---] ;shan 1/5/94
+- * COMPANY    [---] ;JON 3/10/95
+- * CALLER     [---] ;shan   11/22/93
+TELL [---] ;SHAN   8/4/93
+- WILL * HAND OVER  [150] ;JON 5/8/95
+- WILL *            [025]
+TENNIS [###] ;pas   9/26/91
+TERRORIZE [173] ;jw 9/17/91
+THANK [041] ;tony  4/26/91
+THREAT [170] ;SHAN   8/17/93
+- * TO CANCEL CELEBRATION  [172] ;shan 1/6/94
+- * OF CHEMICAL ATTACK     [173]
+- + * WITH EXPULSION       [172] ;shan 1/7/94
+- * CHEMICAL WEAPONS       [173]
+- WEAPONS REMAIN *         [022] ;shan 1/7/94
+- * ATTACK RECED           [024] ;JON 5/5/95
+- SAID SUPPORT *           [022]
+- $ * TO CANCEL            [170] ;shan 8/28/95
+- * TO WALK OUT            [172]
+- * RETALIATION            [173]
+- * PEACE TALKS            [172]
+- SAID POSED *             [022]
+- $ MISSILE *              [170] ;jon 2/18/98
+- * RETALIATE              [171]
+- * TO RESIGN              [---] ;JON 5/26/95
+- POSED NO *               [---]
+- SAID WAS *               [022]
+- * TO KILL                [173]
+- * BOYCOTT                [172]
+- * ATTACK                 [173] ;shan   11/22/93
+- * ACCORD                 [172]
+- CRISIS_*                 [---]
+- DEATH *                  [---] ;JON 5/15/95
+- FELT *                   [022]
+- NOT *                    [054]
+THREW [---] ;SHAN   7/15/93
+- * FIREBOMBS AND STONES +  [222] ;shan 8/26/95
+- * HAND GRENADE            [223]
+- * BOMB                    [223]
+THRUST BACK INTO [151] ;jw 9/30/91
+THWART [---] ;SHAN   8/12/93
+- * ROCKET  [223]
+TIED POLICY [025] ;SHAN   7/20/93
+TIGHTEN [---] ;SHAN   8/12/93
+- * ECONOMIC BOYCOTT  [196]
+- SAID * CONTROLS     [025] ;shan 1/4/94
+- * SECURITY          [182]
+TOLD [023?] ;<Enter 6/2/98
+- * WAS NOT DOING ENOUGH TO PROTECT  [121]
+- * NOT TO FEAR PEACE NEGOTIATIONS   [054]
+- * LEADERS REGARDED + TERRORIST     [131] ;shan 1/4/94
+- * SUPPORTERS WOULD SUCCEED         [024]
+- * MUST SHOW FLEXIBILITY            [102]
+- * DEPORTEES MAY GO HOME            [066] ;shan 1/6/94
+- * COULD AVOID DAMAGE               [173]
+- * HAD TO COOPERATE                 [150] ;shan 1/7/94
+- * HAD NOT HARMED                   [054]
+- * LOOKED FORWARD                   [024]
+- * TO SEEK PEACE                    [102] ;tony  4/28/91
+- * CANNOT REACH                     [022]
+- * TO KEEP OUT                      [112]
+- * COOPERATE                        [151]
+- * STAY HOME                        [192]
+- * + WORRIED                        [022] ;J 5/23/95
+- $_*_+ THAT                         [023] ;pas 1/31/96
+- * HOPED                            [024] ;pas 1/31/96
+TOOK [---] ;SHAN   6/25/93
+- TROOPS *_OVER VILLAGES  [223]
+- SOLDIERS * POSITIONS    [182]
+- * NEW INITIATIVE TO     [101]
+- TROOPS * VILLAGES       [223]
+- * COMMON STANCE         [025]
+- *_TO_STREETS            [224]
+- *_OVER                  [211]
+TORTURE [222] ;<Enter 6/2/98
+- SAID USED *  [132]
+TOUGHEN [---] ;SHAN   8/12/93
+- * ENTRY CONDITIONS  [192]
+TOURIST [###] ;jw   11/15/91
+TOURNAMENT [###] ;JW   10/31/91
+TOUR [032:033]
+- MIDDLE EAST *  [---]
+- * POSTPONED    [191]
+TRADE [---]
+- * ACCUSATIONS  [121] ;tony  3/11/91
+- * CONCESSION   [073]
+- * ARTILLERY    [223] ;tony  3/13/91
+TRAIN [---] ;shan 1/4/94
+- * GUNS AT +  [173] ;shan 1/4/94
+TRANSPORT [---] ;SHAN   8/17/93
+- SAID OFFER TO *  [073]
+- * GUNPOWDER      [182]
+TRAVEL [032:033] ;PAS   9/24/91
+- RESTRICTED *  [197]
+- CURBED *      [197]
+TRIED [---]
+- * TO SEDUCE  [102] ;tony  4/23/91 ???
+- * TO CALM    [095]
+- * HIJACK     [222] ;tony  3/12/91
+- * SEIZE      [210]
+TROUBLED [---]
+- SAID *  [131]
+TRUST [---] ;SHAN   8/17/93
+- SAID WOULD NOT *  [022]
+TRY [---]
+- * END CONFLICT  [094] ;tony  3/9/91
+- NOT * TO BLOCK  [082]
+- * REPAIR TIES   [082]
+- * TO ENSURE     [051] ;pas 1/31/96
+- * PERSUADE      [095]
+- * TO BLOCK      [151]
+- GIVE_UP_*       [191] ;jw 9/17/91
+- * ACCUSED       [212] ;tony  4/26/91
+- * TO CALM       [095]
+- * BROKER        [101] ;tony  4/19/91
+TURN [---]
+- MISSION HAS * INTO SUCCESS  [024]
+- * BACK CONVOY               [211] ;tony  4/28/91
+- * BLIND EYE                 [065]
+- * AWAY                      [112]
+- * DOWN                      [111]
+- * BACK                      [112]
+- HAS *                       [111?]
+UNACCEPTABLE [111] ;JW   11/21/91
+UNDER CURFEW [197] ;jw   11/15/91
+UNDERMIN [---] ;SHAN   8/17/93
+- SAID RELATIONSHIP WAS *  [022]
+UNDERSTOOD [---] ;SHAN   8/17/93
+- SAID * MOTIVES  [023]
+UNLEASH [---] ;SHAN   7/31/93
+- * MISSILE ATTACK  [223]
+- * SCUD            [223]
+UNVEIL [---] ;shan 1/7/94
+- * MEMORIAL  [133] ;shan 1/7/94
+- * PROJECT   [025] ;shan   11/17/93
+- * CANNON    [182]
+- * PLAN      [101]
+UPGRADE [---] ;pas 2/2/96
+- * REPRESENTAT  [064] ;pas 2/2/96
+URGE [102]
+- * SUPPORT FOR CEASEFIRE  [094]
+- $ SENT * MESSAGE +       [031]
+- * STOP FIGHT             [102] ;JON 5/24/95
+- * WITHDRAWL              [102]
+- * FLEW                   [032:033]
+- SAID *                   [102]
+URGING [102] ;jw 9/18/91
+- SAID *  [102]
+USE [---] ;SHAN   8/17/93
+- SAID WOULD * CHEMICAL WEAPONS IF ATTACKED  [173]
+- SAID * EXCESSIVE FORCE                     [121]
+- * TEAR_GAS                                 [222]
+VERNON_JORDAN [###] ;JON 5/15/95
+VETO [111]
+- * BY +  [111]
+VIOLAT [---] ;SHAN   8/17/93
+- SAID * GENEVA CONVENTION  [121]
+- * ARMS EMBARGO            [121]
+- SAID + IN *               [121]
+VISITOR [---] ;jon 2/18/98
+VISIT [032:033] ;-PAS 2/5/96
+- * WAS CALLED OFF  [191]
+- DISCOURAG *       [131] ;j 5/28/98
+- NO PLANS *        [112]
+- PRAISE *          [041] ;shan 1/6/94
+- HAIL *            [041] ;shan 1/6/94
+VOICE [023?] ;jw   11/15/91
+- * OPTIMISM  [024] ;pas 2/3/96
+- * CONCERN   [022]
+- * DISMAY    [121] ;tony  3/9/91
+- * OUTRAGE   [122] ;tony  4/22/91
+- * SUPPORT   [042]
+- * HORROR    [122]
+VOTE [034] ;jw   11/15/91
+- * OVERWHELMINGLY OPPOSE SALE  [112]
+- * TO CUT OF FUNDS             [193]
+- * TO INCREASE AID             [071]
+- * TO CUT OFF AID              [193]
+- ABSTAIN FROM *                [112]
+- * TO CONDEMN                  [121]
+- NEGATIVE *                    [111]
+- * SUSPEND                     [191] ;<Enter 6/2/98
+- * AGAINST                     [111]
+- DELAY *                       [191] ;<Enter 6/2/98
+- * DOWN                        [111]
+VOW [---] ;jw   11/15/91
+- * STEP UP ARMED STRUGGLE  [173]
+- * TO ENFORCE RESOLUTIONS  [173]
+- * TO INTENSIFY STRUGGLE   [171]
+- * TO CONTINUE BLOCKADE    [173]
+- * CROSS-BORDER ATTACKS    [223]
+- $ * TO CRACK DOWN ON +    [173] ;shan 1/6/94
+- * TO STEP UP ATTACKS      [173]
+- * TO LAUNCH ATTACK        [173]
+- * TO ACT AGAINST +        [171] ;shan 1/6/94
+- * TO MOUNT ATTACK         [173]
+- * TO REMAIN LOYAL         [042]
+- + * TO DESTROY $          [173]
+- * TO RETALIATE            [173]
+- * TO INTERCEPT            [173]
+- * STEP UP WAR             [173]
+- * TO DEFEAT               [173]
+- * SUPPORT                 [042]
+- * TO FIGHT                [173]
+- * TO WREST                [173]
+- * TO KILL                 [173]
+- * RESIST                  [112] ;tony  4/29/91
+- * REVENGE                 [171]
+WAIT [---] ;shan 8/25/95
+- SAID WOULD * BEFORE RESUMING TALKS  [025] ;shan 8/25/95
+WALK [---] ;SHAN   9/6/93
+- * OUT OF MEET  [191]
+WANT [090] ;jw   11/22/91
+- * NONE OF PEACE  [111] ;shan 1/6/94
+- * HIGH PRICE     [093] ;tony  3/9/91
+- * CLOSER TIE     [092] ;JON 5/26/95
+- DOES NOT *       [111]
+- DID NOT *        [111]
+- * HELP           [093]
+- * AID            [093]
+WARN [160] ;jw   11/15/91
+- + HAVE BEEN * $  [160]
+- + HAS BEEN * $   [160]
+- $ FIRE * SHOT    [160] ;JON 5/7/95
+WARPLANE [---] ;JON 5/11/98
+WARSHIP [---] ;JON 5/11/98
+WAR [---] ;J 1/10/98
+- * OF WORDS BETWEEN %  [022] ;J 1/10/98
+WAVE [---] ;shan 1/6/94
+- * FLAGS  [133] ;shan 1/6/94
+WELCOME [041]
+- * PROPOSAL  [102]
+- * RELEASE   [066]
+- * ATTACK    [041]
+WILL_NOT [111] ;SHAN   8/12/93
+- * TRY TO THWART PEACE  [054] ;shan 1/5/94
+- JUSTICE * BE SERVED    [022]
+- % * RESUME TALKS       [111] ;shan 8/25/95
+- * CHANGE STAND         [051] ;J 5/15/95
+- * RESUME TALKS         [111] ;JON 2/9/95
+- * RELEASE PRIS         [111] ;JON 5/3/95
+- * RESUME TIE           [111] ;JON 5/26/95
+- * SAY                  [021] ;JON 5/29/95
+- * BOW                  [112]
+WIPE_OUT [---]
+- SAID WOULD *  [173]
+- * MILITARY    [223]
+- * FORCE       [223]
+WISH [---]
+- * SUCCESS  [041] ;pas 2/11/96
+- HAS NO *   [025] ;jw 9/23/91
+WITHDRAW [198] ;jw   11/15/91
+- * FROM DIPLOMATIC EFFORTS  [194]
+- REPORT * TROOPS CENSORED   [197]
+- SAID WOULD NOT * TROOPS    [182]
+- EXPRESSED PESSIMISM *      [022]
+- IF DOES NOT * MISSILES     [173]
+- SAID HAD NOT * THREAT      [171]
+- ATTITUDE DEPEND ON *       [025] ;shan 1/7/94
+- SAID * UNCONDITIONAL       [171]
+- SAID * OF INSPECTORS       [012]
+- RAISED PROSPECT OF *       [025] ;shan 1/4/94
+- SAID * PRECONDITION        [150] ;JON 3/10/95
+- ANGERED BY * TALKS         [022]
+- DO NOT INTEND TO *         [112]
+- * TRAVEL DOCUMENTS         [192] ;shan 1/4/94
+- WILL NOT * TROOPS          [112]
+- * TALKS SUSPENDED          [191]
+- * FROM HIGHWAY             [012]
+- BLOCK * ACCORD             [022]
+- ULTIMATUM TO *             [173]
+- * FROM KUWAIT              [---] ;J 6/2/98
+- * FROM TREATY              [198]
+- * FROM BORDER              [012]
+- * OF $ FROM +              [012] ;JON 4/20/95
+- * DELEGATION               [181]
+- * FROM SINAI               [012]
+- DISCUSS IF *               [150] ;JON 5/5/95
+- SAID MUST *                [150]
+- * DIPLOMAT                 [192] ;<Enter 6/2/98
+- MILITARY *                 [012]
+- CALL FOR *                 [094]
+- * MISSILES                 [016]
+- WOULD * IF                 [025]
+- * TROOPS                   [012]
+- $ * BACK                   [193] ;JON 5/15/95
+- *_TALKS                    [---]
+- $ *                        [198] ;JON 3/1/95
+WITHDREW [012] ;SHAN   8/9/93
+- * FROM DIPLOMATIC EFFORTS  [194]
+- REPORT * TROOPS CENSORED   [197]
+- EXPRESSED PESSIMISM *      [022]
+- DID NOT INTEND TO *        [112]
+- * FROM DELEGATION          [181]
+- * FROM HIGHWAY             [012]
+- * FROM BORDER              [012]
+- * FROM TREATY              [198]
+- * DELEGATION               [194]
+- * FROM MEET                [111] ;JON 5/8/95
+- * MISSILES                 [012]
+- * TROOPS                   [012]
+WITHH [---]
+- IS * BACKING  [112] ;tony  4/23/91
+- * SUPPORT     [193] ;jw 9/30/91
+- * AID         [193]
+WON [---]
+- + * PLEDGE FROM $  [054] ;tony  3/9/91
+- * RECOGNITION      [064]
+- * MORE GROUND      [211]
+- + * FAVOR          [042]
+- * BATTLE           [223]
+WORLD CHAMPION [###] ;shan   11/17/93
+WORLD_CUP [###] ; pas, discard sports event 9/23/91
+WOUND [223]
+- * EVACUATED  [012]
+- *_UP         [---]
+WRIT [---] ;<Enter 2/5/96
+- * NEW CONSTITUTION  [027]
+- TOO EARLY TO * OFF  [023]
+- * OFF DEBT          [071]
+- * OFF $             [071]
+- *_TO                [031] ;<Enter 2/5/96
+WROTE [030] ;SHAN   2/18/93
+- * UNFRIENDLY  [121]
+YIELD [---]
+- * AGREEMENT  [081] ;tony  3/9/91
+- * EFFORTS    [102]
+- NOT *        [111]
+ZHIRINOVSKY [###] ;JON 3/6/95
+~~ FINISH   7:31 AM 6/5/98 J

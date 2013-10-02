@@ -1,0 +1,212 @@
+# International militarized group actor list for TABARI coding
+# 
+# This work was funded by US National Science Foundation grant SES-0719634
+#
+# This work is licensed under a Creative Commons
+# Attribution-NonCommercial 3.0 Unported License.
+#
+# This dictionary is provided by the Computational Event Data System Project:
+# http://eventdata.parusanalytics.com
+#
+# Last update [documentation only]: 2 October 2013
+
+A.A._HUSSAIN_	[IMGSASMOS]; Intl Militarized Groups
+A.H._LALA_	[IMGSASMOS]; Intl Militarized Groups
+A.M._WANI_	[IMGKASMOS]; Intl Militarized Groups
+A._A._HUSSAIN_	[IMGSASMOS]; Intl Militarized Groups
+A._H._LALA_	[IMGSASMOS]; Intl Militarized Groups
+A._M._WANI_	[IMGKASMOS]; Intl Militarized Groups
+AA_HUSSAIN_	[IMGSASMOS]; Intl Militarized Groups
+ABDULLAH_ANSHORI_	[IMGSEAMOSJMA]; senior leader; Intl Militarized Groups
+ABDULLAH_SUNGKAR_	[IMGSEAMOSJMA]; co-founder jma; Intl Militarized Groups
+ABDUL_KARIM_TUNDA_	[IMGSASMOS]; his goals are unclear; Intl Militarized Groups
+ABDUL_TURQ_	[IMGMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+ABU_A._HUSSAIN_	[IMGSASMOS]; Intl Militarized Groups
+ABU_ABDULLAH_	[IMGSASMOS]; Intl Militarized Groups
+ABU_AL-WALID_	[IMGMOSRUSCNY]; Intl Militarized Groups
+ABU_AYYUB_AL_MASRI_	[IMGMOSALQ]; Intl Militarized Groups
+ABU_A_HUSSAIN_	[IMGSASMOS]; Intl Militarized Groups
+ABU_BAKAR_	[IMGSEAMOSJMA]; spiritual leader of jemaah islamiyah; Intl Militarized Groups
+ABU_DJAFAR_	[IMGMOSRUSCNY]; Intl Militarized Groups
+ABU_HAFS_AL_URDUNI_	[IMGMOSRUSCNY]; Intl Militarized Groups
+ABU_HUSSAIN_	[IMGSASMOS]; Intl Militarized Groups
+ABU_H_LALA_	[IMGSASMOS]; Intl Militarized Groups
+ABU_MOHKTAR_	[IMGSEAMOSASF]; Intl Militarized Groups
+ABU_MUSAB_	[IMGSEAMOSASF]; Intl Militarized Groups
+ABU_OMAR_AL_SAIF_	[IMGMOSALQ]; mostly fought in Chechnya; Intl Militarized Groups
+ABU_RUSYDAN_	[IMGSEAMOSJMA]; spritual leader of jemaah islamiyah, alias of thoriqudin; Intl Militarized Groups
+ABU_SALEM_	[IMGMOS] ;MleH 11 Aug 2009; Intl Militarized Groups
+ABU_SARTAJ_	[IMGMOSALQ]; Intl Militarized Groups
+ABU_SAYYAF_	[IMGSEAMOSASF]; Intl Militarized Groups
+ABU_SOLAIMAN_	[IMGSEAMOSASF] ;ELH 07 Jul 2009; Intl Militarized Groups
+ABU_TALHA_	[IMGSASMOS]; Intl Militarized Groups
+AFTAB_AHMED_	[IMGSASMOS]; Intl Militarized Groups
+AH_LALA_	[IMGSASMOS]; Intl Militarized Groups
+AINAL BAHRI_	[IMGSEAMOSJMA]; leader jma; Intl Militarized Groups
+ALTAF_HUSSAIN_	[IMGSASMOS]; Intl Militarized Groups
+AL_HAWSAWI_	[IMGMOSALQ]; Intl Militarized Groups
+AL_QA'IDA_	[IMGMOSALQ]; Intl Militarized Groups
+AL_QAEDA_	[IMGMOSALQ]; Intl Militarized Groups
+AL_QAEDA_IN_IRAQ_	[IMGMOSALQ]; Intl Militarized Groups
+AL_QAEDA_LINKED_ABU_SAYYAF_	[IMGSEAMOSASF] ;ELH 29 Jul 2009; Intl Militarized Groups
+AL_QAIDA_	[IMGMOSALQ]; Intl Militarized Groups
+AMANULLAH_KHAN_	[IMGKASMOS]; Intl Militarized Groups
+AM_WANI_	[IMGKASMOS]; Intl Militarized Groups
+ARIF_HUSSAIN_	[IMGSASMOS]; Intl Militarized Groups
+ASGAR_MUQADAM_	[IMGMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+ASGHAR_MUKADAM_	[IMGMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+ASGHAR_MUQADAM_	[IMGMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+ASHFAQ_M WANI_	[IMGKASMOS]; Intl Militarized Groups
+ASHFAQ_WANI_	[IMGKASMOS]; Intl Militarized Groups
+AZAHARI BIN_HUSIN_	[IMGSEAMOSJMA]; chief bomb maker of jma; Intl Militarized Groups
+A_A_HUSSAIN_	[IMGSASMOS]; Intl Militarized Groups
+A_H_LALA_	[IMGSASMOS]; Intl Militarized Groups
+A_M_WANI_	[IMGKASMOS]; Intl Militarized Groups
+BA'ASYIR_	[IMGSEAMOSJMA]; spiritual leader of jma, full name starts abu bakar; Intl Militarized Groups
+BAKAR_BASHIR_	[IMGSEAMOSJMA]; spiritual leader of jemaah islamiyah; Intl Militarized Groups
+BASHIR_AHMED_	[IMGMOSALQ]; Intl Militarized Groups
+BASHIR_MALWA_	[IMGMOSALQ]; Intl Militarized Groups
+BEGUM_FARIDA_	[IMGKASMOS]; Intl Militarized Groups
+BIN_ISOMODDIN_	[IMGSEAMOSJMA]; member jma; Intl Militarized Groups
+CAUCASIAN_MUJAHIDEEN_	[IMGMOSRUSCNY]; Intl Militarized Groups
+COMMANDER_KASTARI_	[IMGSEAMOSJMA]; commander of jma; Intl Militarized Groups
+COMMANDER_KASTERI_	[IMGSEAMOSJMA]; commander of jma; Intl Militarized Groups
+COMMANDER_KHATTAB_	[IMGMOSRUSCNY]; Intl Militarized Groups
+DULMATIN_	[IMGSEAMOSJMA]; senior leader jma; Intl Militarized Groups
+D_COMPANY_	[IMGMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+EBU_ENES_	[IMGMOSRUSCNY]; Intl Militarized Groups
+EL_QAIDA_	[IMGMOSALQ]; Intl Militarized Groups
+EMIR_KHATTAB_	[IMGMOSRUSCNY]; Intl Militarized Groups
+ENCEP_NURJAMAN_	[IMGSEAMOSJMA]; head of jma's consultative council, alias of hambali; Intl Militarized Groups
+EXTREMIST_ABU_SAYYAF_	[IMGSEAMOSASF] ;ELH 29 Jul 2009; Intl Militarized Groups
+FAROOQ_PAWALE_	[IMGMOS] ;MleH 11 Aug 2009; Intl Militarized Groups
+FUSAKO_SHIGENOBU_	[IMGJPN]; Intl Militarized Groups
+G.N._BUTT_	[IMGKASMOS]; Intl Militarized Groups
+G._N._BUTT_	[IMGKASMOS]; Intl Militarized Groups
+GHAZI_BABA_	[IMGKASMOS]; Intl Militarized Groups
+GHULAM_BUTT_	[IMGKASMOS]; Intl Militarized Groups
+GHULAM_N BUTT_	[IMGKASMOS]; Intl Militarized Groups
+GN_BUTT_	[IMGKASMOS]; Intl Militarized Groups
+G_N_BUTT_	[IMGKASMOS]; Intl Militarized Groups
+HAFIZ_SAEED_	[IMGSASMOS]; Intl Militarized Groups
+HAMBALI_	[IMGSEAMOSJMA]; leader jma; Intl Militarized Groups
+HAMZAH_	[IMGSEAMOSJMA]; spritual leader of jemaah islamiyah, alias of thoriqudin; Intl Militarized Groups
+HARAKUT_UL_JIHAD_E_ISLAMI_	[IMGSEAMOS]; Intl Militarized Groups
+HARAKUT_UL_JIHAD_UL_ISLAMI_	[IMGSEAMOS]; Intl Militarized Groups
+HARKAT_UL_ANSAR_	[IMGKASMOS]; Intl Militarized Groups
+HARKAT_UL_MUJAHIDEEN_	[IMGKASMOS]; Intl Militarized Groups
+HATAFAKA_LALA_	[IMGSASMOS]; Intl Militarized Groups
+IBN_AL-KHATTAB_	[IMGMOSRUSCNY]; Intl Militarized Groups
+INTERNATIONAL_ISLAMIC_BATTALION_	[IMGMOSRUSCNY]; Intl Militarized Groups
+INTERNATIONAL_SIKH_YOUTH_FEDERATION_	[IMGSIK]; Intl Militarized Groups
+ISLAMBOULI_BRIGADE_	[IMGMOSALQ]; its association with ALQ isn't entire certain; Intl Militarized Groups
+ISLAMIC_INTERNATIONAL_BRIGADE_	[IMGMOSRUSCNY]; Intl Militarized Groups
+ISLAMIC_PEACEKEEPING_ARMY_	[IMGMOSRUSCNY]; Intl Militarized Groups
+ISLAMIC_PEACEKEEPING_BRIGADE_	[IMGMOSRUSCNY]; Intl Militarized Groups
+ISNILON_	[IMGSEAMOSASF]; Intl Militarized Groups
+ISNILON_T HAPILON_	[IMGSEAMOSASF]; Intl Militarized Groups
+J.A._MIR_	[IMGKASMOS]; Intl Militarized Groups
+J._A._MIR_	[IMGKASMOS]; Intl Militarized Groups
+JAMAAH_ISLAMI_	[IMGSEAMOSJMA] ;BK 27 Jul 2009; Intl Militarized Groups
+JAMAAH_ISLAMIYA_	[IMGSEAMOSJMA ]; Intl Militarized Groups
+JAMAL_AL_FADL_	[IMGMOSALQ]; Intl Militarized Groups
+JAMMU-KASHMIR_LIBERATION_FRONT_	[IMGKASMOS]; Intl Militarized Groups
+JAMMU_AND_KASHMIR_FREEDOM_FORCE_	[IMGKASMOS]; Intl Militarized Groups
+JAMMU_AND_KASHMIR_FREEDOM_FRONT_	[IMGKASMOS]; KASHMIR is grouped in this section; Intl Militarized Groups
+JAMMU_AND_KASHMIR_ISLAMIC_FRONT_	[IMGKASMOS]; Intl Militarized Groups
+JANJALANI_	[IMGSEAMOSASF]; Intl Militarized Groups
+JAPANESE_RED_ARMY_	[IMGJPN]; Intl Militarized Groups
+JAPAN_RED_ARMY_	[IMGJPN]; Intl Militarized Groups
+JAVED_AHMAD_MIR_	[IMGKASMOS]; Intl Militarized Groups
+JA_MIR_	[IMGKASMOS]; Intl Militarized Groups
+JEMAAH_ISLAMI_	[IMGSEAMOSJMA] ;BK 27 Jul 2009; Intl Militarized Groups
+JEMAAH_ISLAMIAH_	[IMGSEAMOSJMA]; Intl Militarized Groups
+JEMAAH_ISLAMIYA_	[IMGSEAMOSJMA] ;ELH 06 Jul 2009; Intl Militarized Groups
+JEMAAH_ISLAMIYAH_	[IMGSEAMOSJMA] ;CTA 21 Jul 2009; Intl Militarized Groups
+JKLF_	[IMGKASMOS]; Intl Militarized Groups
+J_A_MIR_	[IMGKASMOS]; Intl Militarized Groups
+KAFEEL_AHMED_	[IMGKASMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+KASHMIR_LIBERATION_FRONT_	[IMGKASMOS]; Intl Militarized Groups
+KHALID_SHEIKH_MOHAMMED_	[IMGMOSALQ] ;CTA 28 Jul 2009; Intl Militarized Groups
+KULWINDER_MALI_	[IMGSIK]; Intl Militarized Groups
+KULWINDER_S_MALI_	[IMGSIK]; Intl Militarized Groups
+KUMPULAN_MUJAHIDEN_	[IMGSEAMOSASFMYS]; Intl Militarized Groups
+LASHKAR_E_SAJJAD_	[IMGSASMOS]; Intl Militarized Groups
+LASHKAR_E_TAYYABA_	[IMGSASMOS]; IT'S NOT CLEAR WHETHER  THESE SHOULD  BE PAKISTANI, WHERE THEY'RE BASED, OR KASHMIR, WHERE THEY OPERATE; Intl Militarized Groups
+LASHKAR_E_TAYYIBA_	[IMGSASMOS]; Intl Militarized Groups
+LASHKAR_E_TOIBA_	[IMGSASMOS]; Intl Militarized Groups
+LASHKAR_I_TAIBA_	[IMGSASMOS]; Intl Militarized Groups
+LASHKAR_I_TAYYABA_	[IMGSASMOS]; Intl Militarized Groups
+LASKAR_E_TAIBA_	[IMGSASMOS]; Intl Militarized Groups
+LASKAR_E_TAYYABA_	[IMGSASMOS]; Intl Militarized Groups
+LASKAR_E_TAYYIBA_	[IMGSASMOS]; Intl Militarized Groups
+LASKAR_E_TOIBA_	[IMGSASMOS]; Intl Militarized Groups
+LASKAR_I_TAIBA_	[IMGSASMOS]; Intl Militarized Groups
+LASKAR_I_TAYYABA_	[IMGSASMOS]; Intl Militarized Groups
+LASKAR_I_TOIBA_	[IMGSASMOS]; Intl Militarized Groups
+M.A._LONE_	[IMGKASMOS]; Intl Militarized Groups
+M._A._LONE_	[IMGKASMOS]; Intl Militarized Groups
+MALAYSIAN_MUJAHIDEEN_ORGANISATION_	[IMGSEAMOS]; looking to unite Malaysia, Phillipines, Indonesia under Muslim state; Intl Militarized Groups
+MA_LONE_	[IMGKASMOS]; Intl Militarized Groups
+MILF_	[IMGSEAMOS]; hopefully we don't have any newssources that would use this term in the other sense; Intl Militarized Groups
+MOHAMMAD_IQBAL_MOHAMMED_YUSUF_SHAIKH_	[IMGMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+MOHAMMAD_IQBAL_SHAIKH_	[IMGMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+MOHAMMAD_TOP_	[IMGSEAMOSJMA]; member jma; Intl Militarized Groups
+MOHAMMAD_YASIN_MALIK_	[IMGKASMOS]; Intl Militarized Groups
+MOHAMMED_AFROZ_	[IMGMOSALQ]; Intl Militarized Groups
+MOHAMMED_ATEF_	[IMGMOSALQ]; Intl Militarized Groups
+MOHAMMED_MUSHTAQ_TARANI_	[IMGMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+MOHAMMED_TOP_	[IMGSEAMOSJMA]; member jma; Intl Militarized Groups
+MOHMMAD_ASHRAF_	[IMGKASMOS]; Intl Militarized Groups
+MORO_ISLAMIC_LIBERATION_FRONT_	[IMGSEAMOSASF]; Intl Militarized Groups
+MUHANNAD_	[IMGMOSRUSCNY]; kind of iffy; Intl Militarized Groups
+MUJAHIDEEN_DIVISION_KHANDAQ_	[IMGSEAMOS]; Indonesia and Philippines; Intl Militarized Groups
+MURAD_EBRAHIM_	[IMGSEAMOSASF]; Intl Militarized Groups
+MUSHTAQ_A LONE_	[IMGKASMOS]; Intl Militarized Groups
+M_A_LONE_	[IMGKASMOS]; Intl Militarized Groups
+NURJAMAN RIDUAN BIN ISOMODDIN_	[IMGSEAMOSJMA]; leader; Intl Militarized Groups
+OSAMA_BIN_LADEN_	[IMGMOSALQ]; Intl Militarized Groups
+PERVEZ_SHEIKH_	[IMGMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+PHILIPPINE_SECESSIONIST_GROUP_MORO_ISLAMIC_LIBERATION_FRONT_	[IMGSEAMOSASF] ;ELH 22 Jul 2009; Intl Militarized Groups
+PRO-CHECHEN_WAHHABI_GROUP_	[IMGMOSRUSCNY]; Intl Militarized Groups
+RIDUAN ISAMUDDIN_	[IMGSEAMOSJMA]; head of jma's consultative council, alias of hambali; Intl Militarized Groups
+S.A._HAMID_	[IMGKASMOS]; Intl Militarized Groups
+S._A._HAMID_	[IMGKASMOS]; Intl Militarized Groups
+SABIR_SINGH_	[IMGKASMOS]; Intl Militarized Groups
+SALAMAT_HASHIM_ 	[IMGSEAMOSASF]; Intl Militarized Groups
+SALAUDDIN_	[IMGSASMOS]; Intl Militarized Groups
+SA_HAMID_	[IMGKASMOS]; Intl Militarized Groups
+SELAMAT KASTARI_	[IMGSEAMOSJMA]; commander of jma; Intl Militarized Groups
+SELAMAT KASTERI_	[IMGSEAMOSJMA]; commander of jma; Intl Militarized Groups
+SHABIR_SIDDIQI_	[IMGKASMOS]; Intl Militarized Groups
+SHAHNAWAZ_QURESHI_	[IMGMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+SHEIKH_ABDUL_HAMID_	[IMGKASMOS]; Intl Militarized Groups
+SHEIKH_HAMID_	[IMGKASMOS]; Intl Militarized Groups
+SHOAIB_GHANSAR_	[IMGMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+SUNGKAR_	[IMGSEAMOSJMA]; founder of jemaah islamiyah; Intl Militarized Groups
+S_A_HAMID_	[IMGKASMOS]; Intl Militarized Groups
+TAUFIK_RIFKI_	[IMGSEAMOSJMA]; regional leader jma; Intl Militarized Groups
+THORIQUDIN_	[IMGSEAMOSJMA]; spritual leader of jemaah islamiyah; Intl Militarized Groups
+TIGER_MEMON_	[IMGMOS] ;MleH 10 Aug 2009; Intl Militarized Groups
+TOTONI_HAPILON_	[IMGSEAMOSASF]; Intl Militarized Groups
+UMAR_PATEK_	[IMGSEAMOSJMA]; member jma; Intl Militarized Groups
+UMAR_SHAHEEN_	[IMGKASMOS]; Intl Militarized Groups
+USAMA_BIN_LADEN_	[IMGMOSALQ]; Intl Militarized Groups
+YAZID SUFAAT_	[IMGSEAMOSJMA]; senior leader jma; Intl Militarized Groups
+ZARKASIH_	[IMGSEAMOSJMA]; leader jma; Intl Militarized Groups
+ZAWAHIRI_	[IMGMOSALQ]; Intl Militarized Groups
+ZULKARNAEN_	[IMGSEAMOSJMA]; operational commander jma; Intl Militarized Groups
+ZULKIFLI BIN_HIR_	[IMGSEAMOSJMA]; member jma; Intl Militarized Groups
+AL_QAI'DAH_	[IMGMOSALQ] ;MleH 10 Aug 2009; Intl Militarized Groups
+RIDUAN_ISAMUDDIN_	[IMGSEAMOSJMA]; head of jma's consultative council, alias of hambali; Intl Militarized Groups
+RIDUAN_ISAMUDIN_	[IMGSEAMOSJMA]; Intl Militarized Groups
+RIDUAN_ISOMUDDIN_	[IMGSEAMOSJMA]; Intl Militarized Groups
+RIDUAN_ISOMUDIN_	[IMGSEAMOSJMA]; Intl Militarized Groups
+ALEPH_	[IMGBUD]; Intl Militarized Groups
+AUM_SHINRIKYO_	[IMGBUD]; Intl Militarized Groups
+AUM_SHINSEN_NO_KAI_	[IMGBUD]; Intl Militarized Groups
+AUM_SUPREME_TRUTH_	[IMGBUD]; Intl Militarized Groups
+FUMIHIRO_JOYU_	[IMGBUD]; prominent Aum Shinrikyo member, primary Russian contact; Intl Militarized Groups
+SHOKO_ASHAHARA_	[IMGBUD]; head of Aum Shinrikyo; Intl Militarized Groups
+AFGHANISTAN_LIBERATION_ORGANIZATION_	[AFGREB]; AllOtherCountries.txt
+VIGOROUS_BURMESE_STUDENT_WARRIORS_	[THAREB]; AllOtherCountries.txt

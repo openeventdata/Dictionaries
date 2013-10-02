@@ -1,3 +1,15 @@
+# CAMEO actor file for TABARI automated coding system generated from the CAMEO religion 
+# groups codes
+# File generated 21-May-2012
+#
+# This work is licensed under a Creative Commons
+# Attribution-NonCommercial 3.0 Unported License.
+#
+# This dictionary is provided by the Computational Event Data System Project:
+# http://eventdata.parusanalytics.com
+#
+# Last update [documentation only]: 2 October 2013
+
 AGNOSTIC_ [ATH] ; CAMEO Manual 12.05.22
 +ATHEIST_
 +ATHEISM_

@@ -1,4 +1,13 @@
 # LEVANT file for AFP updates, 19 Dec 2011
+#
+# This work is licensed under a Creative Commons
+# Attribution-NonCommercial 3.0 Unported License.
+#
+# This dictionary is provided by the Computational Event Data System Project:
+# http://eventdata.parusanalytics.com
+#
+# Last update [documentation only]: 2 October 2013
+
 <dochead> AFP Levant update
 <dochead> Text source: leads only. Source: Agence France Press and Reuters 
 <doctail> For further information on the TABARI automated coding program and CAMEO

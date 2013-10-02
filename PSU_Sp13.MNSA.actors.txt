@@ -1,0 +1,3299 @@
+# TOPS Non-state War Actors Named Entity Recongition
+# Michael Kenwick, Hyun Woo Kim, & Emma Leonard
+# Political Science 597, Spring 2013
+# Pennsylvania State University
+#
+# Organization names were derived from the START TOPS database: see
+# http://www.start.umd.edu/start/data_collections/tops/
+#
+# This work is licensed under a Creative Commons
+# Attribution-NonCommercial 3.0 Unported License.
+#
+# This dictionary is provided by the Computational Event Data System Project:
+# http://eventdata.parusanalytics.com
+#
+# Last update [documentation only]: 2 October 2013
+
+
+Abu Nidal Organization (ANO) [INTREB]    ; kkl 21 Mar 13
++ Arab Revolutionary Brigades
++ Arab Revolutionary Council
++ Fatah Revolutionary Council
++ Revolutionary Organization of Socialist Muslims
+
+
+Accolta Nazinuale Corsa [FRAREB]    ; kkl 21 Mar 13
++ Resistenza Corsa
+
+
+Action Committee of Winegrowers [FRAREB]    ; kkl 21 Mar 13
++ Winegrowers Action Committee
+
+
+Aden Abyan Islamic Army (AAIA) [YEMREB]    ; kkl 21 Mar 13
++ Aden Islamic Army
++ Army of Mohammed and the Jaish Adan Al Islami+ Islamic Aden Army
++ Islamic Army of Aden (IAA)
++ Islamic Army of Aden-Abyan (IAAA)
++ Jaysh Adan
++ Muhammeds Army
+
+
+al-Qaeda [INTREB]    ; kkl 21 Mar 13
++ Al Qaida
++ Qa&#8216;idat al-Jihad
++ The Base
+
+
+al-Intiqami al-Pakistani [KKLREB]    ; kkl 21 Mar 13
++ Revenge of Jehadi
++ Revenge of the Pakistanis
++ Revenge of the People of Pakistan
+
+
+Anarchist Faction [GRCREB]    ; kkl 21 Mar 13
+
+
+Anarchist Liberation Brigade [GRCREB]    ; kkl 21 Mar 13
+
+
+Anarchist Street Patrol [GRCREB]    ; kkl 21 Mar 13
+
+
+Anarchist Struggle [GRCREB]    ; kkl 21 Mar 13
+
+
+Anarchists' Attack Group [GRCREB]    ; kkl 21 Mar 13
++ Anarchical Attack Groups
++ Anarchists Attack Group
++ Anarchists Attack Groups
+
+
+Angry Brigade [ITAREB]    ; kkl 21 Mar 13
++ Martyrs of Democracy
+
+
+Animal Liberation Front (ALF) [INTREB]    ; kkl 21 Mar 13
+
+
+Anti-Authority Erotic Cells [GRCREB]    ; kkl 21 Mar 13
+
+
+Anti-Imperialist Territorial Nuclei for the Construction of the Fighting Communist Party [ITAREB]    ; kkl 21 Mar 13
++ Anti-Imperialist Territorial Nuclei - Combatant Communist Party
++ Anti-Imperialist Territorial Units
++ Anti-Imperilist Territorial Nuclei (NTA)
+
+
+Anti-Mainstream Self Determination Faction [KKLREB]    ; kkl 21 Mar 13
+
+
+Anti-Power Struggle [GRCREB]    ; kkl 21 Mar 13
+
+
+Anti-Racist Guerrilla Nuclei [ITAREB]    ; kkl 21 Mar 13
++ Anti-Racist Guerrilla Units
+
+
+Anti-State Action [GRCREB]    ; kkl 21 Mar 13
+
+
+Anti-State Nuclei [GRCREB]    ; kkl 21 Mar 13
+
+
+Anti-Zionist Movement [ITAREB]    ; kkl 21 Mar 13
+
+
+Anticapitalist Attack Nuclei (NAA) [ITAREB]    ; kkl 21 Mar 13
++ Anti-capitalist Attack Nuclei
++ Anticapitalist Attack Nucleus
+
+
+Apo's Revenge Hawks [TURREB]    ; kkl 21 Mar 13
++ Revenge Hawks of Apo
+
+
+Apo's Youth Revenge Brigades [TURREB]    ; kkl 21 Mar 13
+
+
+April 19 Movement [COLREB]    ; kkl 21 Mar 13
+
+
+Armed Islamic Group [DZAREB]    ; kkl 21 Mar 13
++ Al-Jamaah al-Islamiyah al-Musallah
+
+
+Army of God [USAREB]    ; kkl 21 Mar 13
+
+
+Aryan Nations (AN) [USAREB]    ; kkl 21 Mar 13
+
+
+Autonomous Cells of Rebel Action [GRCREB]    ; kkl 21 Mar 13
+
+
+Basque Fatherland and Freedom (ETA) [ESPREB]    ; kkl 21 Mar 13
++ Basque Fatherland and Liberty
++ Basque Homeland and Freedom
++ ETA
+
+
+Black Star [GRCREB]    ; kkl 21 Mar 13
+
+
+Burning Path [GRCREB]    ; kkl 21 Mar 13
+
+
+Chaotic Attack Front [GRCREB]    ; kkl 21 Mar 13
+
+
+Combatant Proletarian Nucleus [ITAREB]    ; kkl 21 Mar 13
++ Combatant Fighting Nucleus
+
+
+Conscientious Arsonists (CA) [GRCREB]    ; kkl 21 Mar 13
++ Arsonists of Conscience
+
+
+Continuity Irish Republican Army (CIRA) [WEU]    ; kkl 21 Mar 13
++ Continuity Army Council
++ Continuity IRA
++ Irish Continuity Army Council (ICAC)
+
+
+DHKP/C [TURREB]    ; kkl 21 Mar 13
++ Dev Sol (Karatas Faction)
++ Devrimci Sol (Karatas Faction)
++ Revolutionary Left
++ Revolutionary Peoples Liberation Party/Front
++ RPLP/F
+
+
+Democratic Front for the Liberation of Palestine (DFLP) [MEAREB]    ; kkl 21 Mar 13
++ al-Jabha al-Dimuqratiyya li-Tahrir Filastin
++ Popular Democratic Front for the Liberation of Palestine (PDFLP)
+
+
+Direct Action (Greece) [GRCREB]    ; kkl 21 Mar 13
+
+
+Earth Liberation Front (ELF) [INTREB]    ; kkl 21 Mar 13
+
+
+Fighters for Freedom [GRCREB]    ; kkl 21 Mar 13
+
+
+Friendship Society [GRCREB]    ; kkl 21 Mar 13
++ Philike Hetairia
+
+
+Group of Carlo Giuliani [GRCREB]    ; kkl 21 Mar 13
+
+
+Guevarista Revolutionary Army (ERG) [COLREB]    ; kkl 21 Mar 13
++ Pro-Guevara Revolutionary Group
+
+
+Hamas [MEAREB]    ; kkl 21 Mar 13
++ Harakat al-Muqawammah al-Islammiyya
++ Islamic Resistance Movement
++ al-Aqsa Foundation ; wikipedia
+
+
+Harakat ul-Mujahidin (HuM) [SASREB]    ; kkl 21 Mar 13
++ Harkat Mujahideen
++ Islamic Freedom Fighters Group
++ Jamiat-ul-Ansar
+
+
+Hawks of Thrace [KKLREB]    ; kkl 21 Mar 13
+
+
+Hizbul Mujahideen (HM) [SASREB]    ; kkl 21 Mar 13
++ Hizb ul-Mujahidin
++ HM of the Jamaat-e-Islami
+
+
+International Solidarity [ITAREB]    ; kkl 21 Mar 13
++ Armed Cells for International Solidarity
+
+
+Irish National Liberation Army (INLA) [WEUREB]    ; kkl 21 Mar 13
++ Catholic Reaction Force (CRF)
++ Peoples Liberation Army (PLA)
++ Peoples Republican Army (PRA)
+
+
+Irish Republican Army (IRA) [WEUREB]    ; kkl 21 Mar 13
++ Provisional Irish Republican Army (PIRA)
++ Provos
+
+
+Islamic Great Eastern Raiders Front [TURREB]    ; kkl 21 Mar 13
++ Front Islamique des Combattants du Grand Orient
++ IBDA-C
+
+
+Jaime Bateman Cayon Group (JBC) [COLREB]    ; kkl 21 Mar 13
+
+
+Jaish-e-Mohammad (JeM) [SASREB]    ; kkl 21 Mar 13
++ Army of Mohammed
++ Army of the Prophet
++ Mohammed
++ Jaish-e-Mohammad (Muhammed)
++ Jaish-e-Mohammad Mujahideen E-Tanzeem
++ Jaish-i-Mohammed (Mohammad
++ Muhammad
++ Muhammed)
++ Jeish-e-Mahammed
++ Mohammeds Army
++ National Movement for the Restoration of Pakistani Sovereignty and Army of the Prophet
++ Tehrik Ul-Furqaan
+
+
+Japanese Red Army (JRA) [INTREB]    ; kkl 21 Mar 13
++ Anti-Imperialist International Brigade
+
+
+July 20th Brigade [ITAREB]    ; kkl 21 Mar 13
++ 39649
+
+
+Kach [MEAREB]    ; kkl 21 Mar 13
++ Kahane Chai
++ Kakh
+
+
+Ku Klux Klan (KKK) [USAREB]    ; kkl 21 Mar 13
++ American Knights of the Ku Klux Klan
++ Imperial Klans of America
++ Knights of the White Kamelia
+
+
+Kurdistan Workers' Party (PKK) [TURREB]    ; kkl 21 Mar 13
++ KADEK
++ KHK
++ Kongra-Gel (KGK)
++ Kongreya Azadi u Demokrasiya Kurdistan
++ Kurdistan Freedom and Democracy Congress
++ Kurdistan Peoples Conference
++ The People&#8217;s Congress of Kurdistan
+
+
+Lashkar-e-Jabbar (LeJ) [SASREB]    ; kkl 21 Mar 13
++ The Army of the Omnipotent Almighty
+
+
+Lashkar-e-Jhangvi (LeJ) [SASREB]    ; kkl 21 Mar 13
++ Army of Jhangvi
++ Lashkar I Jhangvi (LJ)
+
+
+Lashkar-e-Taiba (LeT) [SASREB]    ; kkl 21 Mar 13
++ Army of the Pure
++ Army of the Righteous
++ Lashkar-e-Tayyiba (LT)
++ Lashkar-e-Toiba
+
+
+Leftist Nucleus [GRCREB]    ; kkl 21 Mar 13
+
+
+Loyalist Volunteer Force (LVF) [GBRREB]    ; kkl 21 Mar 13
+
+
+May 15 [GRCREB]    ; kkl 21 Mar 13
+
+
+May 98 [GRCREB]    ; kkl 21 Mar 13
+
+
+Melting Nuclei [GRCREB]    ; kkl 21 Mar 13
+
+
+Movement Against State Arbitrariness [GRCREB]    ; kkl 21 Mar 13
+
+
+Muttahida Qami Movement (MQM) [PAKREB]    ; kkl 21 Mar 13
++ Mohajir Quami Movement
++ United National Front
+
+
+Fronte di Liberazione Naziunale di a Corsica (FLNC) [FRAREB]    ; kkl 21 Mar 13
++ Front de Liberation Nationale de la Corse
++ National Liberation Front of Corsica
+
+
+Nationalist Kurdish Revenge Teams [TURREB]    ; kkl 21 Mar 13
+
+
+New Red Brigades/Communist Combatant Party [ITAREB]    ; kkl 21 Mar 13
++ Armed Communist Combatants
++ New Red Brigades for the Construction of the Fighting Communist Party
++ Red Brigades
+
+
+New Revolutionary Popular Struggle (NELA) [GRCREB]    ; kkl 21 Mar 13
+
+
+Orange Volunteers (OV) [GBRREB]    ; kkl 21 Mar 13
+
+
+Overthrown Anarchist Faction [GRCREB]    ; kkl 21 Mar 13
++ Overthrow Anarchist Faction
+
+
+Padanian Armed Separatist Phalanx [ITAREB]    ; kkl 21 Mar 13
+
+
+Palestinian Islamic Jihad (PIJ) [MEAREB]    ; kkl 21 Mar 13
++ Harakat al-Jihad al-Islami Fi Filastin
+
+
+People's Liberation Army of Kurdistan (ARGK) [TURREB]    ; kkl 21 Mar 13
++ ARGK
++ Kurdistan National Liberty Army
++ Peoples Defense Force
+
+
+People's Revolutionary Army (Colombia) [KKLREB]    ; kkl 21 Mar 13
+
+
+Popular Front for the Liberation of Palestine (PFLP) [MEAREB]    ; kkl 21 Mar 13
++ al-Jabha ash-Shaabiya li-Tahrir Falastin
+
+
+Popular Liberation Army [COLREB]    ; kkl 21 Mar 13
+
+
+Popular Resistance [KKLREB]    ; kkl 21 Mar 13
+
+
+Popular Revolutionary Front (LEM) [GRCREB]    ; kkl 21 Mar 13
+
+
+Proletarian Reprisals [GRCREB]    ; kkl 21 Mar 13
+
+
+Real Irish Republican Army (RIRA) [WEUREB]    ; kkl 21 Mar 13
++ Real IRA
++ True IRA
+
+
+Red Brigades [KKLREB]    ; kkl 21 Mar 13
++ Armed Communist Combatants
++ Italian Red Brigade
++ Red Regiments
+
+
+Red Hand Defenders (RHD) [GBRREB]    ; kkl 21 Mar 13
+
+
+Red Line [GRCREB]    ; kkl 21 Mar 13
+
+
+Republic of Texas (RoT) [USAREB]    ; kkl 21 Mar 13
++ Provisional Government of the Republic of Texas
+
+
+Revolutionary Armed Forces of Colombia (FARC) [COLREB]    ; kkl 21 Mar 13
++ Fuerzas Armadas Revolucionarias de Colombia - Ejercito del Pueblo (FARC-EP)
+
+
+Revolutionary Brigades [GRCREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Front for Communism [ITAREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Leninist Brigades [ITAREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Nuclei [GRCREB]    ; kkl 21 Mar 13
++ Revolutionary Cells
+
+
+Revolutionary Organization 17 November (RO-N17) [GRCREB]    ; kkl 21 Mar 13
++ 17 November (N17)
+
+
+Revolutionary People's Struggle [GRCREB]    ; kkl 21 Mar 13
++ ELA
++ National Front (Greece)
++ Revolutionary Popular Struggle
+
+
+Revolutionary Proletarian Initiative Nuclei [ITAREB]    ; kkl 21 Mar 13
++ Nucleus of the Proletarian Revolutionary Initiaitve
+
+
+Revolutionary Proletarian Nucleus [ITAREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Subversive Faction-Commando Unibomber [GRCREB]    ; kkl 21 Mar 13
++ Revolutionary Faction to Overthrow Commando Unabomber
+
+
+Revolutionary Violence Group (RVG) [GRCREB]    ; kkl 21 Mar 13
+
+
+Rigas Fereos [GRCREB]    ; kkl 21 Mar 13
++ Rigas Ferreos
+
+
+Sardinian Autonomy Movement (MAS) [ITAREB]    ; kkl 21 Mar 13
+
+
+Self-Defense Groups of Cordoba and Uraba (ACCU) [COLREB]    ; kkl 21 Mar 13
++ Peasant Self-Defense Group of C&oacute;rdoba and Urab&aacute;
+
+
+Sheriff's Posse Comitatus [USAREB]    ; kkl 21 Mar 13
+
+
+Shining Path [PERREB]    ; kkl 21 Mar 13
+
+
+Solidarity for Political Prisoners [GRCREB]    ; kkl 21 Mar 13
+
+
+South Londonderry Volunteers (SLV) [GBRREB]    ; kkl 21 Mar 13
++ South Londonderry Protestant Volunteers
+
+TKEP/L [TURREB]    ; kkl 21 Mar 13
++ Turkish Communist Labor Party/Leninist
+
+
+TKP/ML-TIKKO [TURREB]    ; kkl 21 Mar 13
++ Maoist Communist Party
++ Maoist Komunist Partisi
++ Peoples Liberation Army
++ Turkish Communist Party/Marxist Leninist
++ Turkish Workers and Peasants Liberation Army
+
+
+Five C's [ITAREB]    ; kkl 21 Mar 13
++ Cell against Capitals Jail and its Jailers and Cells
++ Cell against the Capital
++ Jails
++ Prisoners
++ and Cells
++ Cellule contro il Capitale
++ il Carcere
++ i Carcerieri
++ le Celle
++ Cinque C
+
+
+Front for the Liberation of the Cabinda Enclave [AGOREB]    ; kkl 21 Mar 13
+
+
+Front for the Liberation of the Cabinda Enclave - Renewed [AGOREB]    ; kkl 21 Mar 13
++ FLEC/Renovada
++ FLEC-Renewed
+
+
+Order, The [USAREB]    ; kkl 21 Mar 13
++ Bruders Schweiden
++ The Silent Brotherhood
++ White American Bastion
+
+
+Tupac Amaru Revolutionary Movement [PERREB]    ; kkl 21 Mar 13
+
+
+Ulster Defence Association/Ulster Freedom Fighters [GBRREB]    ; kkl 21 Mar 13
++ UDA
+
+
+Ulster Volunteer Force (UVF) [GBRREB]    ; kkl 21 Mar 13
+
+
+Uncontrolled Rage [GRCREB]    ; kkl 21 Mar 13
+
+
+United Self-Defense Forces of Colombia (AUC) [COLREB]    ; kkl 21 Mar 13
++ United Self-Defense Group of Colombia
+
+
+White Patriot Party (WPP) [USAREB]    ; kkl 21 Mar 13
+
+
+al-Fatah [MEAREB]    ; kkl 21 Mar 13
++ al-Asifa
++ Fateh
++ Harekat at-Tahrir al-Wataniyyeh al-Filastiniyyeh
+
+
+Popular Front for the Liberation of Palestine -- General Command (PFLP-GC) [MEAREB]    ; kkl 21 Mar 13
+
+
+al-Saiqa [MEAREB]    ; kkl 21 Mar 13
+
+
+Arab Liberation Front (ALF) [MEAREB]    ; kkl 21 Mar 13
++ Jabhat al-Tahrir al-Arabiyya
+
+
+Black September [MEAREB]    ; kkl 21 Mar 13
++ Black September Organization (BSO)
+
+
+May 15 Organization for the Liberation of Palestine [IRQREB]    ; kkl 21 Mar 13
++ Arab Organization of May 15
+
+
+Palestine Liberation Front [INTREB]    ; kkl 21 Mar 13
+
+
+Red Army Faction [WEUREB]    ; kkl 21 Mar 13
++ Baader-Meinhof Gang
++ Baader-Meinhof Group
+
+
+Baader-Meinhof Group [WEUREB]    ; kkl 21 Mar 13
++ Baader-Meinhof Gang
++ Red Army Faction
+
+
+2nd of June Movement [WEUREB]    ; kkl 21 Mar 13
+
+
+Charles Martel Group [FRAREB]    ; kkl 21 Mar 13
++ Charles Martel Club
+
+
+Group Bakunin Gdansk Paris Guatemala Salvador [FRAREB]    ; kkl 21 Mar 13
++ Group Bakounine Gdansk Paris Guatemala Salvador
+
+
+Guadeloupe Liberation Army [GLPREB]    ; kkl 21 Mar 13
+
+
+Jewish Defense League (JDL) [USAREB]    ; kkl 21 Mar 13
+
+
+First of October Antifascist Resistance Group (GRAPO) [ESPREB]    ; kkl 21 Mar 13
+
+
+Spanish Basque Battalion [WEUREB]    ; kkl 21 Mar 13
+
+
+Iparretarrak (IK) [FRAREB]    ; kkl 21 Mar 13
+
+
+al-Zulfikar [INTREB]    ; kkl 21 Mar 13
+
+
+Pattani United Liberation Organization (PULO) [SEAREB]    ; kkl 21 Mar 13
+
+
+Moro National Liberation Front (MNLF) [PHLREB]    ; kkl 21 Mar 13
++ Moro Liberation Front (MLF)
+
+
+New People's Army (NPA) [PHLREB]    ; kkl 21 Mar 13
+
+
+Abu Sayyaf Group (ASG) [PHLREB]    ; kkl 21 Mar 13
++ al-Harakat al-Islamiyah
++ Bearer of the Sword
+
+
+National Liberation Army (Colombia) [COLREB]    ; kkl 21 Mar 13
+
+
+Movement of the Revolutionary Left [CHLREB]    ; kkl 21 Mar 13
+
+
+Manuel Rodriguez Patriotic Front [CHLREB]    ; kkl 21 Mar 13
++ Manuel Rodriguez Patriotic Front - Dissidents (FPMR-D)
+
+
+Guerrilla Army of the Poor [GTMREB]    ; kkl 21 Mar 13
+
+
+Guatemalan Labor Party [GTMREB]    ; kkl 21 Mar 13
+
+
+Rebel Armed Forces [GTMREB]    ; kkl 21 Mar 13
++ November 13th Movement of the Rebel Armed Forces
+
+
+Farabundo Marti National Liberation Front [SLVREB]    ; kkl 21 Mar 13
++ Frente Farabundo Marti de Liberacion Nacional-Frente Democratico Revolucionario (FMLN-FDR)
+
+
+Armed Forces of National Resistance [SLVREB]    ; kkl 21 Mar 13
++ National Resistance
++ Resistencia Nacional (RN)
+
+
+People's Liberation Forces (El Salvador) [KKLREB]    ; kkl 21 Mar 13
++ Farabundo Marti Popular Liberation Forces
++ Popular Forces of Liberation
++ Popular Liberation Forces
+
+
+February 28 Popular Leagues [SLVREB]    ; kkl 21 Mar 13
+
+
+December 20 Movement [PANREB]    ; kkl 21 Mar 13
++ 20 December National Liberation Movement
+
+
+Tupamaros [URYREB]    ; kkl 21 Mar 13
++ National Liberation Movement
+
+
+Montoneros [ARGREB]    ; kkl 21 Mar 13
++ Montonero Peronist Movement
+
+
+National Liberation Army (Bolivia) [BOLREB]    ; kkl 21 Mar 13
++ Ejercito de Liberacion Nacional - Bolivia (ELN-B)
+
+
+People's Revolutionary Army (Argentina) [KKLREB]    ; kkl 21 Mar 13
+
+
+Sandinistas [NICREB]    ; kkl 21 Mar 13
++ Sandinista National Liberation Front
+
+
+Contras [NICREB]    ; kkl 21 Mar 13
++ Counter Revolutionaries
+
+
+Ananda Marga [INTREB]    ; kkl 21 Mar 13
++ The Ananda Marga Yoga Society
++ The Universal Army
+
+
+Armenian Secret Army for the Liberation of Armenia (ASALA) [INTREB]    ; kkl 21 Mar 13
+
+
+Third of October Group [WEUREB]    ; kkl 21 Mar 13
++ 3 October Armenian Nationalism Movement
++ 3rd October Organization
+
+
+Ninth of June Organization [FRAREB]    ; kkl 21 Mar 13
+
+
+Orly Organization [FRAREB]    ; kkl 21 Mar 13
+
+
+New Armenian Resistance (NAR) [WEUREB]    ; kkl 21 Mar 13
+
+
+September-France [KKLREB]    ; kkl 21 Mar 13
+
+
+Armenian Revolutionary Army [USAREB]    ; kkl 21 Mar 13
+
+
+Justice Commandos for the Armenian Genocide [INTREB]    ; kkl 21 Mar 13
+
+
+28 May Armenian Organization [TURREB]    ; kkl 21 Mar 13
+
+
+Lebanese Armed Revolutionary Faction [LBNREB]    ; kkl 21 Mar 13
++ Factions Armees Revolutionnaires Libanaises (FARL)
+
+
+National Revolutionary Command (Omar al-Mukhtar) [LBNREB]    ; kkl 21 Mar 13
+
+
+Movement of Islamic Action of Iraq [MEAREB]    ; kkl 21 Mar 13
+
+
+Islamic Salvation Front [INTREB]    ; kkl 21 Mar 13
++ Armee Islamique du Salut (AIS)
++ Army of Islamic Salvation
++ Front Islamique du Salut
++ Islamic Salvation Army
+
+
+Communist Combatant Cells [BELREB]    ; kkl 21 Mar 13
++ Collectif des Prisonniers des Cellules Communistes Combattantes
+
+
+Popular Forces of April 25 [PRTREB]    ; kkl 21 Mar 13
+
+
+African National Congress (South Africa) [ZAFREB]    ; kkl 21 Mar 13
++ South African Native National Congress (ANCs name from 1912-1923)
+
+
+Eritrean Liberation Front (ELF) [EAFREB]    ; kkl 21 Mar 13
+
+
+Mozambique National Resistance Movement [SAFREB]    ; kkl 21 Mar 13
+
+
+Alex Boncayao Brigade (ABB) [PHLREB]    ; kkl 21 Mar 13
++ Revolutionary Proletarian Army-Alex Boncayao Brigade (RPA-ABB)
+
+
+Armata di Liberazione Naziunale [FRAREB]    ; kkl 21 Mar 13
++ Army of National Liberation
+
+
+Andres Castro United Front (FUAC) [NICREB]    ; kkl 21 Mar 13
+
+
+Hezbollah [LBNREB]    ; kkl 21 Mar 13
++ Islamic Jihad
++ Islamic Jihad for the Liberation of Palestine
++ Organization of the Oppressed on Earth
++ Party of God
++ Revolutionary Justice Organization
++ The Islamic Resistance
+
+
+Arizona Patriots (AP) [USAREB]    ; kkl 21 Mar 13
+
+
+Covenant Sword and Arm of the Lord (CSA) [USAREB]    ; kkl 21 Mar 13
+
+
+Macheteros [PRIREB]    ; kkl 21 Mar 13
++ EPB Movimiento Popular Revolucionario
++ Machete Wielders
++ Popular Army of Boricua
+
+
+Order II [USAREB]    ; kkl 21 Mar 13
+
+
+Armed Forces of National Liberation [NMRREB]    ; kkl 21 Mar 13
++ Fuerzas Armadas de Liberacion Nacional Puertoriquena
+
+
+El Rukn [USAREB]    ; kkl 21 Mar 13
++ Black P Stones
++ Blackstone Rangers
++ The Cornerstone
++ The Foundation
+
+
+United Freedom Front (UFF) [USAREB]    ; kkl 21 Mar 13
++ Armed Resistance Unit
++ Guerrilla Resistance Movement
++ Revolutionary Fighting Group
++ Sam Melville/Jonathan Jackson group
+
+
+May 19 Communist Order [USAREB]    ; kkl 21 Mar 13
++ Armed Resistance Unit
++ May 19 Communist Coalition
++ Red Guerrilla Resistance
++ Resistance Conspiracy
++ Revolutionary Fighting Group
+
+
+Omega-7 [USAREB]    ; kkl 21 Mar 13
++ Omega 7
+
+
+New Afrikan Freedom Fighters [KKLREB]    ; kkl 21 Mar 13
++ New African Freedom Fighters
++ The New York Eight
+
+
+Evan Mecham Eco-Terrorist International Conspiracy (EMETIC) [USAREB]    ; kkl 21 Mar 13
+
+
+Oklahoma Constitutional Militia [USAREB]    ; kkl 21 Mar 13
++ Universal Church of God
+
+
+Phineas Priests [USAREB]    ; kkl 21 Mar 13
++ Phineas Priesthood
+
+
+Washington State Militia [USAREB]    ; kkl 21 Mar 13
+
+
+Freemen (based in WA) [USAREB]    ; kkl 21 Mar 13
+
+
+Montana Freemen [USAREB]    ; kkl 21 Mar 13
+
+
+Mountaineer Militia [USAREB]    ; kkl 21 Mar 13
+
+
+Nestor Paz Zamora Commission [BOLREB]    ; kkl 21 Mar 13
+
+
+Aryan Republican Army (ARA) [USAREB]    ; kkl 21 Mar 13
++ Aryan Resistance Army
+
+
+Patriots Council [USAREB]    ; kkl 21 Mar 13
++ Minnesota Patriot Council
+
+
+Nation of Yahweh [USAREB]    ; kkl 21 Mar 13
++ Yahweh
+
+
+American Front [USAREB]    ; kkl 21 Mar 13
+
+
+Colorado 1st Light Infantry [USAREB]    ; kkl 21 Mar 13
+
+
+1st Mechanical Kansas Militia [USAREB]    ; kkl 21 Mar 13
++ 7th Division Constitutional Militia
++ Kansas Militia
++ Southern Kansas Regional Militia
+
+
+3rd Continental Congress [USAREB]    ; kkl 21 Mar 13
+
+
+Up the IRS, INC. [USAREB]    ; kkl 21 Mar 13
+
+
+Fourth Reich Skinheads [USAREB]    ; kkl 21 Mar 13
+
+
+New Order [USAREB]    ; kkl 21 Mar 13
+
+
+al-Fuqra [INTREB]    ; kkl 21 Mar 13
++ Community of the Impoverished
++ Jamaat al-Fuqra
++ Muslims of the Americas
++ Quranic Open University
+
+
+Fighting Guerillas of May [GRCREB]    ; kkl 21 Mar 13
+
+
+Hammerskin Nation [USAREB]    ; kkl 21 Mar 13
+
+
+Liberation Front of Quebec [CANREB]    ; kkl 21 Mar 13
++ Quebec Liberation Front
+
+
+Action Directe [FRAREB]    ; kkl 21 Mar 13
+
+
+Jenin Martyr's Brigade [MEAREB]    ; kkl 21 Mar 13
+
+
+Committee for the Security of the Highways [MEAREB]    ; kkl 21 Mar 13
++ Committee for the Defense of the Roads
++ Committee for the Security of the Roads
+
+
+Ansar al-Islam [IRQREB]    ; kkl 21 Mar 13
++ Supporters of Islam (English translation)
+
+
+Anarchists, The [ESPREB]    ; kkl 21 Mar 13
+
+
+Save Kashmir Movement [SEAREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Socialists [SWEREB]    ; kkl 21 Mar 13
+
+
+Mujahideen al-Mansooran [SEAREB]    ; kkl 21 Mar 13
+
+
+Communist Revolutionaries in Europe [NLDREB]    ; kkl 21 Mar 13
+
+
+Gazteriak [FRAREB]    ; kkl 21 Mar 13
++ Youth
+
+
+UNITA [ANGREB]    ; kkl 21 Mar 13
++ National Union for the Total Independence of Angola
+
+
+Lord's Resistance Army (LRA) [CFRREB]    ; kkl 21 Mar 13
+
+
+National Army for the Liberation of Uganda (NALU) [CFRREB]    ; kkl 21 Mar 13
+
+
+Sudan People's Liberation Army [SDNREB]    ; kkl 21 Mar 13
++ Sudan Peoples Liberation Movement
+
+
+Kosovo Liberation Army (KLA) [EEUREB]    ; kkl 21 Mar 13
+
+
+Cambodian Freedom Fighters (CFF) [INTREB]    ; kkl 21 Mar 13
+
+
+Popular Self-Defense Forces (FAP) [CODREB]    ; kkl 21 Mar 13
++ Mai-Mai
++ Mayi-Mayi
++ May-May
+
+
+Communist Party of Nepal-Maoist (CPN-M) [SASREB]    ; kkl 21 Mar 13
+
+
+People's Liberation Forces (Colombia) [COLREB]    ; kkl 21 Mar 13
+
+
+Fatherland and Liberty Nationalist Front [CHLREB]    ; kkl 21 Mar 13
+
+
+Autonomous Decorators [DEUREB]    ; kkl 21 Mar 13
+
+
+Supporters of Horst Ludwig Meyer [DNKREB]    ; kkl 21 Mar 13
++ Action Group Horst Ludwig Meyer
+
+
+21 June [GRCREB]    ; kkl 21 Mar 13
+
+
+Tupamaro Revolutionary Movement - January 23 [VENREB]    ; kkl 21 Mar 13
++ Tupamaro Revolutionary Front
++ Tupamaros
+
+
+Abdurajak Janjalani Brigade (AJB) [PHLREB]    ; kkl 21 Mar 13
+
+
+Nusantara Islamic Jihad Forces [IDNREB]    ; kkl 21 Mar 13
++ Abu Bakar Battalion F Kompi
++ Force of Indonesian Muslim Jihad Fighters
++ Nusantara Islamic Mujahideen Front
+
+
+Albanian National Army (ANA) [MKDREB]    ; kkl 21 Mar 13
+
+
+Achik National Volunteer Council (ANVC) [SASREB]    ; kkl 21 Mar 13
+
+
+Breton Revolutionary Army (ARB) [FRAREB]    ; kkl 21 Mar 13
++ Emgann
+
+
+Totally Anti-War Group (ATAG) [FRAREB]    ; kkl 21 Mar 13
+
+
+All Tripura Tiger Force (ATTF) [SASREB]    ; kkl 21 Mar 13
++ All Tripura Tribal Force ; (ATTF's original name: 1990-1992)
+
+
+United Self-Defense Forces of Venezuela (AUV) [VENREB]    ; kkl 21 Mar 13
+
+
+al-Mansoorain [SASREB]    ; kkl 21 Mar 13
+
+
+al-Arifeen [PAKREB]    ; kkl 21 Mar 13
++ Al-Arifeen Squad
++ Lashkar-e-Taiba
++ The Holy Men
+
+
+al-Badr [PAKREB]    ; kkl 21 Mar 13
++ Al Badar
++ Al-Badhr Mujahidin
+
+
+al-Umar Mujahideen [PAKREB]    ; kkl 21 Mar 13
++ Al-Omar Mujahideen
+
+
+Amal [LBNREB]    ; kkl 21 Mar 13
++ Lebanese Resistance Detachments
++ Movement of Hope
+
+
+Anarchist Attack Teams [GRCREB]    ; kkl 21 Mar 13
+
+
+Ansar Allah [LBNREB]    ; kkl 21 Mar 13
+
+
+Armata Corsa [FRAREB]    ; kkl 21 Mar 13
++ Corsican Army
+
+
+Birsa Commando Force (BCF) [INDREB]    ; kkl 21 Mar 13
+
+
+Borok National Council of Tripura (BNCT) [SASREB]    ; kkl 21 Mar 13
+
+
+Badr Forces [PSEREB]    ; kkl 21 Mar 13
+
+
+Bagramyan Battalion [GEOREB]    ; kkl 21 Mar 13
+
+
+Bersatu [THAREB]    ; kkl 21 Mar 13
++ Ber Satu
++ Payong Organization
++ United Front for the Independence of Pattani
+
+
+Revolutionary Armed Corps (CAR) [ECUREB]    ; kkl 21 Mar 13
++ Revolutionary Amazon Command
+
+
+Carapaica Revolutionary Movement [VENREB]    ; kkl 21 Mar 13
++ Carapaica Revolutionary Group
+
+
+Caucasian Front for the Liberation of Abu Achikob [DEUREB]    ; kkl 21 Mar 13
+
+
+Children of Fire [GRCREB]    ; kkl 21 Mar 13
+
+
+Chukakuha [JPNREB]    ; kkl 21 Mar 13
++ Middle Core Faction
++ Nucleus Faction
+
+
+Clandestini [FRAREB]    ; kkl 21 Mar 13
++ Clandestinu
+
+
+Commando Anarchist Group [GRCREB]    ; kkl 21 Mar 13
+
+
+Communist Workers Movement [TURREB]    ; kkl 21 Mar 13
+
+
+Democratic Karen Buddhist Army (DKBA) [SEAREB]    ; kkl 21 Mar 13
++ Democratic Karen Buddhist Association
++ Democratic Karen Buddhist Organization
++ Progressive Buddhist Karen Nationals Organization
+
+
+Dagestan Liberation Army [RUSREB]    ; kkl 21 Mar 13
+
+
+Latin American Patriotic Army (EPLA) [SAMREB]    ; kkl 21 Mar 13
+
+
+East Turkistan Liberation Organization [ASAREB]    ; kkl 21 Mar 13
++ Eastern Turkistan Liberation Organization
+
+
+Ecuadorian Rebel Force [ECUREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Armed Forces of the People (FARP) [MEXREB]    ; kkl 21 Mar 13
+
+
+Bolivarian Liberation Forces (FBL) [VENREB]    ; kkl 21 Mar 13
++ FBL
+
+
+Corsican Patriotic Front (FPC) [FRAREB]    ; kkl 21 Mar 13
+
+
+For a Revolutionary Perspective [CHEREB]    ; kkl 21 Mar 13
+
+
+Francs Tireurs (Mavericks) [FRAREB]    ; kkl 21 Mar 13
++ Francs-Tireurs Partisans
++ Francs-Tireurs Partisans Manouchian
++ Mavericks
+
+
+Free Vietnam Revolutionary Group [INTREB]    ; kkl 21 Mar 13
+
+
+Freedom for Mumia Abu-Jamal [CHEREB]    ; kkl 21 Mar 13
+
+
+Free Aceh Movement (GAM) [INTREB]    ; kkl 21 Mar 13
++ Aceh Security Disturbance Movement
+
+
+Gora Euskadi Askatuta [FRAREB]    ; kkl 21 Mar 13
+
+
+Group Revolutionary Reconstruction [DEUREB]    ; kkl 21 Mar 13
+
+
+Harakat al-Shuhada'a al-Islamiyah [LBYREB]    ; kkl 21 Mar 13
++ Islamic Martyrs Movement
+
+
+Hisba [NGAREB]    ; kkl 21 Mar 13
+
+
+Indigenous People's Federal Army (IPFA) [PHLREB]    ; kkl 21 Mar 13
++ Ad Rev
++ Indigenous Federal State Army (IFSA)
+
+
+Islamic Shashantantra Andolon (ISA) [BGDREB]    ; kkl 21 Mar 13
+
+
+Islamic Defense Force [INDREB]    ; kkl 21 Mar 13
++ Muslim Defense Force
+
+
+Egyptian Islamic Jihad (EIJ) [INTREB]    ; kkl 21 Mar 13
++ Al-Jihad
++ Al-Jihad al-Islami
++ Jihad Group
++ New Jihad Group
++ Qaeda al-Jihad
++ Talaaal al-Fateh
++ Vanguards of Conquest
+
+
+Jemaah Islamiya (JI) [SEAREB]    ; kkl 21 Mar 13
++ Islamic Community
++ Islamic Group
+
+
+Janashakti [INDREB]    ; kkl 21 Mar 13
++ Communist Party of India (Marxist-Leninist) Janashakti
+
+
+Jihad Committee [INDREB]    ; kkl 21 Mar 13
++ All India Jihad Committee
+
+
+Jamiat ul-Mujahedin (JuM) [SASREB]    ; kkl 21 Mar 13
+
+
+Kayin National Union (KNU) [SEAREB]    ; kkl 21 Mar 13
++ Karen National Union
+
+
+Kakurokyo [JPNREB]    ; kkl 21 Mar 13
++ Association of Revolutionary Workers
++ Revolutionary Workers Council
+
+
+Knights of the Torched Bank [GRCREB]    ; kkl 21 Mar 13
+
+
+Liberation Tigers of Tamil Eelam (LTTE) [LKAREB]    ; kkl 21 Mar 13
++ Tamil Tigers
+
+
+Lashkar-I-Omar [PAKREB]    ; kkl 21 Mar 13
++ Al-Qanoon
++ Lashkar-e-Omar
+
+
+Maoist Communist Center (MCC) [INDREB]    ; kkl 21 Mar 13
++ Dakshin Desh (Organizations original name from 1969-1975)
++ Maoist Communist Center of India (MCCI)
++ Maoist Coordination Committee (MCC)
++ Naxalites
+
+
+Movement for Democracy and Justice in Chad (MDJT) [AFRREB]    ; kkl 21 Mar 13
++ Movement for Democracy and Justice in Chad (MDJC)
+
+
+Moro Islamic Liberation Front (MILF) [PHLREB]    ; kkl 21 Mar 13
+
+
+Mujahedin-e-Khalq (MeK) [INTREB]    ; kkl 21 Mar 13
++ Mojahedin Khalq Organisation
++ Mujahideen-e Khalq Organisation (MKO)
++ Peoples Mujahideen of Iran (PMOI)
+
+
+People's Revolutionary Militias [ECUREB]    ; kkl 21 Mar 13
+
+
+Macedonia Dawn [MKDREB]    ; kkl 21 Mar 13
+
+
+Macedonian Revolutionary Organization (VMRO) [EEUREB]    ; kkl 21 Mar 13
+
+
+Mohammed's Army [YEMREB]    ; kkl 21 Mar 13
+
+
+Movsar Baryayev Gang [RUSREB]    ; kkl 21 Mar 13
+
+
+Muslim United Army [PAKREB]    ; kkl 21 Mar 13
+
+
+Muslims Against Global Oppression (MAGO) [ZAFREB]    ; kkl 21 Mar 13
+
+
+National Democratic Front of Bodoland (NDFB) [SASREB]    ; kkl 21 Mar 13
++ Bodo Security Force (BSF or BdSF)
+
+
+National Liberation Front of Tripura (NLFT) [SASREB]    ; kkl 21 Mar 13
+
+
+National Warriors [ZAFREB]    ; kkl 21 Mar 13
++ Warriors of the Boer Nation
+
+
+New Revolutionary Alternative [RUSREB]    ; kkl 21 Mar 13
++ New Revolutionary Initiative
+
+
+Night Avengers [HNDREB]    ; kkl 21 Mar 13
++ The Avengers
+
+
+Oromo Liberation Front (OLF) [EAFREB]    ; kkl 21 Mar 13
+
+
+Ogaden National Liberation Front (ONLF) [EAFREB]    ; kkl 21 Mar 13
+
+
+Odua Peoples' Congress [NGAREB]    ; kkl 21 Mar 13
++ O&#8217;odua Peoples&#8217; Congress
++ Odudua Peoples&#8217; Congress
++ Oduduwa Peoples&#8217; Congress
++ Oodua Peoples&#8217; Congress
++ Yoruba Oodua Peoples Congress
+
+
+Purbo Banglar Communist Party (PBCP) [BGDREB]    ; kkl 21 Mar 13
+
+
+People's War Group (PWG) [INDREB]    ; kkl 21 Mar 13
++ Naxalites
++ People&#8217;s Guerrilla Army (PGA)
++ Peoples War (PW)
++ The Communist Party of India-Marxist Leninist (Peoples War) CPI-ML (PW)
+
+
+Group of Popular Combatants (GPC) [ECUREB]    ; kkl 21 Mar 13
++ Group of Peoples Fighters
++ Group of Popular Combatants
++ Peoples Combatant Group
+
+
+Popular Revolutionary Action [GRCREB]    ; kkl 21 Mar 13
+
+
+Proletarian Nuclei for Communism [INTREB]    ; kkl 21 Mar 13
+
+
+Proletarian Resistance [GRCREB]    ; kkl 21 Mar 13
+
+
+Proletarian Solidarity [GRCREB]    ; kkl 21 Mar 13
+
+
+Pueblo Reagrupado [CHLREB]    ; kkl 21 Mar 13
+
+
+South Maluku Republic (RMS) [INTREB]    ; kkl 21 Mar 13
+
+
+Red Guerrillas [RUSREB]    ; kkl 21 Mar 13
+
+
+Resistenza Corsa [FRAREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Army [JPNREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Memory [GRCREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Perspective [ESPREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Struggle [GRCREB]    ; kkl 21 Mar 13
+
+
+Riyad us-Saliheyn Martyrs' Brigade [RUSREB]    ; kkl 21 Mar 13
++ Riyadh-as-Saliheen
++ Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs
+
+
+Russian National Unity [EEUREB]    ; kkl 21 Mar 13
+
+
+Saif-ul-Muslimeen [AFGREB]    ; kkl 21 Mar 13
++ Saif-ul-Muslimeen Lashkar Jihad
++ Sword of Muslims
+
+
+Salah al-Din Battalions [MEAREB]    ; kkl 21 Mar 13
++ Salah al-Din Brigades
+
+
+Shurafa al-Urdun [JORREB]    ; kkl 21 Mar 13
++ Honorables of Jordan
++ Nobles of Jordan
++ Righteous of Jordan
+
+
+Sri Nakharo [SEAREB]    ; kkl 21 Mar 13
+
+
+Sword of Islam [RUSREB]    ; kkl 21 Mar 13
+
+
+Tigers [SWZREB]    ; kkl 21 Mar 13
+
+
+Torrid Winter [GRCREB]    ; kkl 21 Mar 13
+
+
+United Kuki Liberation Front (UKLF) [INDREB]    ; kkl 21 Mar 13
+
+
+United Liberation Front of Assam (ULFA) [INDREB]    ; kkl 21 Mar 13
++ United Liberation Front of Asom
+
+
+United People's Democratic Solidarity (UPDS) [INDREB]    ; kkl 21 Mar 13
+
+
+United Tajik Opposition (UTO) [TJKREB]    ; kkl 21 Mar 13
+
+
+Ummah Liberation Army [SDNREB]    ; kkl 21 Mar 13
+
+
+United Revolutionary Front [VENREB]    ; kkl 21 Mar 13
+
+
+Uygur Holy War Organization [KKLREB]    ; kkl 21 Mar 13
+
+
+Vitalunismo [WEUREB]    ; kkl 21 Mar 13
++ Avenismo
+
+
+Waffen SS [LVAREB]    ; kkl 21 Mar 13
+
+
+White Legion [ECUREB]    ; kkl 21 Mar 13
+
+
+Yemen Islamic Jihad [INTREB]    ; kkl 21 Mar 13
++ Islamic Jihad
+
+
+Zomi Revolutionary Army (ZRA) [INDREB]    ; kkl 21 Mar 13
+
+
+al-Madina [SASREB]    ; kkl 21 Mar 13
++ al-Madina Regiment
++ al-Madinah
++ al-Medina
+
+
+Black Liberation Army [USAREB]    ; kkl 21 Mar 13
++ Afro-American Liberation Army
+
+
+Guatemalan National Revolutionary Unity (URNG) [GTMREB]    ; kkl 21 Mar 13
+
+
+Independent Armed Revolutionary Movement (MIRA) [NMRREB]    ; kkl 21 Mar 13
+
+
+Special Purpose Islamic Regiment (SPIR) [CASREB]    ; kkl 21 Mar 13
+
+
+Oklahoma City Bombing Conspirators [KKLREB]    ; kkl 21 Mar 13
+
+
+Official IRA [WEUREB]    ; kkl 21 Mar 13
+
+
+Kahane Chai [MEAREB]    ; kkl 21 Mar 13
++ Kach
+
+
+al-Qanoon [PAKREB]    ; kkl 21 Mar 13
++ Lashkar-I-Omar
++ The Law
+
+
+al-Gama'a al-Islamiyya (GAI) [INTREB]    ; kkl 21 Mar 13
++ Al-Gamat al-Islamiya
++ Islamic Group (IG)
++ Jamaat al-Islamiyya
+
+
+Autonomous Cells [DEUREB]    ; kkl 21 Mar 13
+
+
+al-Qaeda Organization in the Islamic Maghreb [AFRREB]    ; kkl 21 Mar 13
++ Al-Qaeda Committee in the Islamic Maghreb
++ Salafist Group for Call and Combat (GSPC)
++ Salafist Group for Preaching and Combat
+
+
+al-Aqsa Martyrs Brigades [MEAREB]    ; kkl 21 Mar 13
++ al-Aqsa
+
+
+Harkat ul-Ansar [SASREB]    ; kkl 21 Mar 13
+
+
+Sipah-e-Sahaba/Pakistan (SSP) [PAKREB]    ; kkl 21 Mar 13
++ Anjuman Sipah-e-Sahaba
++ Guardians of the Friends of the Prophets
++ Millat-e-Islamia/Pakistan
+
+
+Turkish Hezbollah [TURREB]    ; kkl 21 Mar 13
+
+
+23rd of September Communist League [MEXREB]    ; kkl 21 Mar 13
++ La Liga
++ Liga 23 de Septiembre (L-23S)
+
+
+313 [PAKREB]    ; kkl 21 Mar 13
+
+
+Abu Hafs al-Masri Brigade [WEUREB]    ; kkl 21 Mar 13
+
+
+Abu Nayaf al-Afghani [ESPREB]    ; kkl 21 Mar 13
++ Abu Dujana Al-Afghani (of the) Ansar Al-Qaeda Europe
+
+
+Actiefront Nationistisch Nederland [NLDREB]    ; kkl 21 Mar 13
+
+
+Affiche Rouge [FRAREB]    ; kkl 21 Mar 13
++ Groupe Olivier
++ Red Bill
+
+
+al-Borkan Liberation Organization [INTREB]    ; kkl 21 Mar 13
++ al-Borkan
++ the Volcano Organization
+
+
+al-Faran [SASREB]    ; kkl 21 Mar 13
+
+
+al-Hadid [INDREB]    ; kkl 21 Mar 13
+
+
+al-Nawaz [PAKREB]    ; kkl 21 Mar 13
+
+
+al-Sadr Brigades [MEAREB]    ; kkl 21 Mar 13
+
+
+Alejo Calatayu [BOLREB]    ; kkl 21 Mar 13
+
+
+Alianca Libertadora Nacional (ALN) [BRAREB]    ; kkl 21 Mar 13
++ A&#231;&#227;o Libertadora Nacional
++ National Liberation Action
++ National Liberation Alliance
+
+
+All Burma Students' Democratic Front (ABSDF) [SEAREB]    ; kkl 21 Mar 13
+
+
+Anarchist Faction for Subversion [GRCREB]    ; kkl 21 Mar 13
+
+
+Ansar al-Din [IRQREB]    ; kkl 21 Mar 13
+
+
+Ansar al-Sunnah Army [IRQREB]    ; kkl 21 Mar 13
+
+
+Anti-American Arab Liberation Front [DEUREB]    ; kkl 21 Mar 13
+
+
+Anti-Armenian Organization [FRAREB]    ; kkl 21 Mar 13
+
+
+Anti-Communist Command [INDREB]    ; kkl 21 Mar 13
+
+
+Anti-Establishment Nucleus [GRCREB]    ; kkl 21 Mar 13
+
+
+Anti-Imperialist Cell (AIZ) [DEUREB]    ; kkl 21 Mar 13
+
+
+Anti-Imperialist Group Liberty for Mumia Abu Jamal [DEUREB]    ; kkl 21 Mar 13
+
+
+Anti-Olympic Flame [GRCREB]    ; kkl 21 Mar 13
+
+
+Anti-State Defense [GRCREB]    ; kkl 21 Mar 13
+
+
+Anti-Terrorist Liberation Group [WEUREB]    ; kkl 21 Mar 13
+
+
+Arab Commando Cells [INTREB]    ; kkl 21 Mar 13
+
+
+Arab Communist Organization (ACO) [MEAREB]    ; kkl 21 Mar 13
+
+
+Arab Communist Revolutionary Party [JORREB]    ; kkl 21 Mar 13
+
+
+Arab Fedayeen Cells [LBNREB]    ; kkl 21 Mar 13
+
+
+Arab Revenge Organization [LBNREB]    ; kkl 21 Mar 13
+
+
+Arab Revolutionary Brigades [MEAREB]    ; kkl 21 Mar 13
+
+
+Arab Revolutionary Front [FRAREB]    ; kkl 21 Mar 13
+
+
+Arab Unionist Nationalist Organization [CYPREB]    ; kkl 21 Mar 13
+
+
+Arabian Peninsula Freemen [KKLREB]    ; kkl 21 Mar 13
++ Organisation of Free People of the Arabian Peninsula
++ Organization of the Islamic Revolution in the Arab Peninsula
+
+
+Argentine Anti-Communist Alliance [ARGREB]    ; kkl 21 Mar 13
++ Triple A
+
+
+Armed Commandos of Liberation [PRIREB]    ; kkl 21 Mar 13
+
+
+Armed Communist League [MEXREB]    ; kkl 21 Mar 13
+
+
+Armed Revolutionary Action [INTREB]    ; kkl 21 Mar 13
+
+
+Armed Revolutionary Left [ECUREB]    ; kkl 21 Mar 13
+
+
+Armenian Red Army [INTREB]    ; kkl 21 Mar 13
+
+
+Armenian Resistance Group [KKLREB]    ; kkl 21 Mar 13
+
+
+Arnoldo Camu Command [KKLREB]    ; kkl 21 Mar 13
+
+
+August 23 Movement [LBNREB]    ; kkl 21 Mar 13
+
+
+Aum Shinrikyo / Aleph [INTREB]    ; kkl 21 Mar 13
++ Aum Shinsen no Kai
++ Aum Supreme Truth
+
+
+Autonomia Sinistra Ante Parlamentare [ITAREB]    ; kkl 21 Mar 13
++ Left Autonomy before Parliamentarian
+
+
+Azad Hind Sena [INDREB]    ; kkl 21 Mar 13
+
+
+Baloch Liberation Army (BLA) [PAKREB]    ; kkl 21 Mar 13
++ Baluchistan Liberation Army
+
+
+Black Brigade [LBNREB]    ; kkl 21 Mar 13
++ Black Brigades of Lebanon (BBL)
++ Christian Anti-Moslem Organization (CAO
++ CAMO)
++ Lebanese Black Brigades (LBB)
+
+
+Black December [PAKREB]    ; kkl 21 Mar 13
+
+
+Black Friday [TURREB]    ; kkl 21 Mar 13
+
+
+Black Hand [LBNREB]    ; kkl 21 Mar 13
+
+
+Black Panthers [USAREB]    ; kkl 21 Mar 13
++ Black Panther Party for Self-Defense
+
+
+Black Revolutionary Assault Team [USAREB]    ; kkl 21 Mar 13
+
+
+Black Widows [RUSREB]    ; kkl 21 Mar 13
++ Chyornyye Vdovy
+
+
+Black and Red Brigades [GRCREB]    ; kkl 21 Mar 13
+
+
+Boere Aanvals Troepe (BAT) [ZAFREB]    ; kkl 21 Mar 13
++ Boere Stormtroopers
+
+
+Bolivarian Guerilla Movement (MGB) [VENREB]    ; kkl 21 Mar 13
+
+
+Brother Julian [KKLREB]    ; kkl 21 Mar 13
+
+
+Coalition to Save the Preserves (CSP) [USAREB]    ; kkl 21 Mar 13
+
+
+Canadian Hungarian Freedom Fighters Federation [CANREB]    ; kkl 21 Mar 13
+
+
+Canary Islands Independence Movement [INTREB]    ; kkl 21 Mar 13
++ Movement for the Independence and Autonomy of the Canaries Archipelago
+
+
+Cell for Internationalism [AUTREB]    ; kkl 21 Mar 13
+
+
+Chadian People's Revolutionary Movement [CFRREB]    ; kkl 21 Mar 13
+
+
+Che Guevara Brigade [ARGREB]    ; kkl 21 Mar 13
++ Che Guevara International Brigade
+
+
+Cinchoneros Popular Liberation Movement [LAMREB]    ; kkl 21 Mar 13
++ Cinchonero Peoples Liberation Movement
+
+
+Clandestini Corsi [FRAREB]    ; kkl 21 Mar 13
+
+
+Coalition of National Brigades [HTIREB]    ; kkl 21 Mar 13
+
+
+Comando Jaramillista Morelense 23 de Mayo [MEXREB]    ; kkl 21 Mar 13
++ CJM-23
++ Jaramillista Comando
+
+
+Comit&#233; Argentino de Lucha Anti-Imperialisto [ARGREB]    ; kkl 21 Mar 13
++ Argentine Committee of the Struggle against Imperialism
+
+
+Comando Internacionalista Simon Bolivar [MEXREB]    ; kkl 21 Mar 13
+
+
+Committee for Liquidation of Computers (CLODO) [FRAREB]    ; kkl 21 Mar 13
+
+
+Committee of Coordination [FRAREB]    ; kkl 21 Mar 13
+
+
+Consciously Enraged [GRCREB]    ; kkl 21 Mar 13
+
+
+Cooperative of Hand-Made Fire & Related Items [ITAREB]    ; kkl 21 Mar 13
++ Coop of Hand-Made Fire & Related Items
+
+
+Counterrevolutionary Solidarity (SC) [GTMREB]    ; kkl 21 Mar 13
+
+
+Croatian Freedom Fighters (CFF) [USAREB]    ; kkl 21 Mar 13
+
+
+December 20 Torrijist Patriotic Vanguard (VPT-20) [LAMREB]    ; kkl 21 Mar 13
+
+
+Dukhtaran-e-Millat [SASREB]    ; kkl 21 Mar 13
++ Daughters of the Faith
++ Daughters of the Nation
+
+
+EPA (Ejercito del Pueblo en Armas) [VENREB]    ; kkl 21 Mar 13
+
+
+Eagles of National Unity [YEMREB]    ; kkl 21 Mar 13
+
+
+Egypt's Revolution [EGYREB]    ; kkl 21 Mar 13
++ Egypt&#8217;s Nasserist Revolution
++ Thawrat Misr an Nassiriyah
+
+
+Eritrean People's Liberation Front [EAFREB]    ; kkl 21 Mar 13
+
+
+Ethiopian People's Revolutionary Army [EAFREB]    ; kkl 21 Mar 13
+
+
+Eva Peron Organization [ARGREB]    ; kkl 21 Mar 13
+
+
+EYAL (Fighting Jewish Organization) [MEAREB]    ; kkl 21 Mar 13
+
+
+Fedayeen Khalq (People's Commandos) [IRNREB]    ; kkl 21 Mar 13
++ Fedayeen Khalq Organization (FKO)
++ Peoples Fedayeen
++ Peoples Fedayeen Guerrillas
++ Peoples Fedayeen Guerrillas Organization
++ Peoples Fedayeen Movement
+
+
+Federation of Armenian Revolutionaries - Revolutionary Movement [LBNREB]    ; kkl 21 Mar 13
+
+
+Fires of Hell [GRCREB]    ; kkl 21 Mar 13
+
+
+Free Greeks [GRCREB]    ; kkl 21 Mar 13
+
+
+Free Papua Movement (OPM) [EINREB]    ; kkl 21 Mar 13
+
+
+Free South Moluccan Youth's [NLDREB]    ; kkl 21 Mar 13
+
+
+Frente de Liberacion Nacional del Vietnam del Sur [ARGREB]    ; kkl 21 Mar 13
+
+
+Front for Defenders of Islam [IDNREB]    ; kkl 21 Mar 13
++ Islamic Defenders Front
+
+
+Front of Justice and Revenge [LBNREB]    ; kkl 21 Mar 13
++ Justice and Revenge Front
++ Justice and Vengeance Front
+
+
+International Revolutionary Action Group (GARI) [FRAREB]    ; kkl 21 Mar 13
+
+
+Generation of Arab Fury [MEAREB]    ; kkl 21 Mar 13
+
+
+God's Army [SEAREB]    ; kkl 21 Mar 13
++ Gods Army of the Holy Mountain
+
+
+Gracchus Babeuf [FRAREB]    ; kkl 21 Mar 13
+
+
+Greek Anti-Dictatorial Youth (EAN) [GRCREB]    ; kkl 21 Mar 13
+
+
+Greek Anti-Regime Movement LAOS-11 [GRCREB]    ; kkl 21 Mar 13
+
+
+Greek Bulgarian Armenian Front [AUSREB]    ; kkl 21 Mar 13
+
+
+Green Cells [INTREB]    ; kkl 21 Mar 13
+
+
+Group for Social Resistance to the State Mechanism [GRCREB]    ; kkl 21 Mar 13
+
+
+Group of Guerilla Combatants of Jose Maria Morelos y Pavon (CGNJMMP) [MEXREB]    ; kkl 21 Mar 13
++ Jose Maria Morelos y Pavon National Guerrilla Coordinating Group
++ Jose Maria Morelos y Pavon National Guerrilla Council
+
+
+Group of the Martyrs Mostafa Sadeki and Ali Zadeh [INTREB]    ; kkl 21 Mar 13
+
+
+Guardsmen of Islam [INTREB]    ; kkl 21 Mar 13
++ Islamic Organization for the Liberation of Qods (suspected)
+
+
+HPG [TURREB]    ; kkl 21 Mar 13
+
+
+Hector Riobe Brigade [INTREB]    ; kkl 21 Mar 13
+
+
+Heroes of Palestine [COLREB]    ; kkl 21 Mar 13
+
+
+Hindu Sena Rashtriya Sangh Party [INDREB]    ; kkl 21 Mar 13
+
+
+Hotaru (Firefly) [JPNREB]    ; kkl 21 Mar 13
++ Hotaru-2
+
+
+Immediate Action [GRCREB]    ; kkl 21 Mar 13
+
+
+Indomitable Marxists [GRCREB]    ; kkl 21 Mar 13
+
+
+Informal Anarchist Federation [ITAREB]    ; kkl 21 Mar 13
++ Unofficial Anarchist Federation
+
+
+International Communist Group [ITAREB]    ; kkl 21 Mar 13
+
+
+International Revolutionary Struggle [GRCREB]    ; kkl 21 Mar 13
++ Team of International Revolutionary Struggle
+
+
+Internet Black Tigers [LKAREB]    ; kkl 21 Mar 13
+
+
+Iraqi Democratic Front [IRQREB]    ; kkl 21 Mar 13
+
+
+Islami Chhatra Shibir (ICS) [BGDREB]    ; kkl 21 Mar 13
+
+
+Islamic Action Organization [MEAREB]    ; kkl 21 Mar 13
++ Islamic Task Organization
+
+
+Islamic Action in Iraq [MEAREB]    ; kkl 21 Mar 13
++ Organization of Islamic Action in Iraq
+
+
+Islamic Brotherhood [GTMREB]    ; kkl 21 Mar 13
+
+
+Islamic Liberation Organization [MEAREB]    ; kkl 21 Mar 13
+
+
+Islamic Movement for Change [MEAREB]    ; kkl 21 Mar 13
+
+
+Islamic Movement of Uzbekistan (IMU) [KKLREB]    ; kkl 21 Mar 13
++ Islamic Party of Turkistan
+
+
+Islamic Renewal Movement [JORREB]    ; kkl 21 Mar 13
+
+
+Islamic Society [LBNREB]    ; kkl 21 Mar 13
+
+
+Jammu and Kashmir Islamic Front [SASREB]    ; kkl 21 Mar 13
+
+
+Jordanian Free Officers Movement [JORREB]    ; kkl 21 Mar 13
+
+
+Jordanian Islamic Resistance [JORREB]    ; kkl 21 Mar 13
++ Movement for the Struggle of the Jordanian Islamic Resistance
+
+
+Jordanian National Liberation Movement [MEAREB]    ; kkl 21 Mar 13
+
+
+June 16 Organization [TURREB]    ; kkl 21 Mar 13
++ Warriors of the 16th of June Movement
+
+
+Kabataang Makabayan (KM) [PHLREB]    ; kkl 21 Mar 13
++ Nationalist Youth
++ Patriotic Youth
+
+
+Kenkoku Giyugun Chosen Seibatsutai [JPNREB]    ; kkl 21 Mar 13
++ Voluntary Army Unit for Suppressing Koreans
+
+
+Khaibar Brigades [LBNREB]    ; kkl 21 Mar 13
+
+
+Khmer Rouge [KHMREB]    ; kkl 21 Mar 13
++ Khmer Communist Party
++ Party of Democratic Kampuchea
+
+
+Komando Jihad (Indonesian) [IDNREB]    ; kkl 21 Mar 13
++ Holy War Command
+
+
+Kuki Liberation Army (KLA) [INDREB]    ; kkl 21 Mar 13
+
+
+Kurdish Islamic Unity Party [TURREB]    ; kkl 21 Mar 13
+
+
+Kurdish Patriotic Union [TURREB]    ; kkl 21 Mar 13
+
+
+Lautaro Youth Movement [CHLREB]    ; kkl 21 Mar 13
++ Lautaro Faction
++ Lautaros
+
+
+Lebanese Arab Youth [LBNREB]    ; kkl 21 Mar 13
+
+
+Lebanese Liberation Front [LBNREB]    ; kkl 21 Mar 13
+
+
+Lebanese National Resistance Front [LBNREB]    ; kkl 21 Mar 13
+
+
+Lebanese Socialist Revolutionary Organization [KKLREB]    ; kkl 21 Mar 13
++ Shibbu Gang
+
+
+Liberation Army Fifth Battalion [KKLREB]    ; kkl 21 Mar 13
+
+
+Liberation Battalion [LBNREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Movement of October 8 (MR-8) [BRAREB]    ; kkl 21 Mar 13
+
+
+Mahir Cayan Suicide Group [TURREB]    ; kkl 21 Mar 13
+
+
+Mano Blanca [GTMREB]    ; kkl 21 Mar 13
+
+
+Maruseido (Marxist Youth League) [JPNREB]    ; kkl 21 Mar 13
+
+
+Masada, Action and Defense Movement [FRAREB]    ; kkl 21 Mar 13
+
+
+Maximiliano Gomez Revolutionary Brigade [DOMREB]    ; kkl 21 Mar 13
+
+
+Meinhof-Puig-Antich Group [FRAREB]    ; kkl 21 Mar 13
+
+
+Midnight Saboteurs [GRCREB]    ; kkl 21 Mar 13
+
+
+Morazanist Patriotic Front (FPM) [HNDREB]    ; kkl 21 Mar 13
++ Morazanista Liberation Front
++ Morazanista Patriotic Front
++ Morazano National Liberation Front
+
+
+Movement for Democracy and Development (MDD) [AFRREB]    ; kkl 21 Mar 13
++ Movement for Development and Democracy
+
+
+Movimiento Armado Nacionalista Organizacion (MANO) [LAMREB]    ; kkl 21 Mar 13
+
+
+Mujahideen KOMPAK [IDNREB]    ; kkl 21 Mar 13
++ Laskar Mujahideen KOMPAK
+
+
+Mujahideen Message [AFGREB]    ; kkl 21 Mar 13
+
+
+Mujahideen Division Khandaq [SEAREB]    ; kkl 21 Mar 13
+
+
+National Front for the Liberation of Angola (FNLA) [CFRREB]    ; kkl 21 Mar 13
++ Democratic Party of Angola
++ Military Council of Angolan Resistance (COMIRA)
++ National Liberation Front of Angola
++ Union of the Populations of Angola (UPA)
+
+
+National Front for the Liberation of Kurdistan [EURREB]    ; kkl 21 Mar 13
++ Democratic Peoples Unions
++ Kurdistan National Liberation Front (ERNK)
+
+
+National Liberation Union [SURREB]    ; kkl 21 Mar 13
++ Bushnegro Jungle Commandos
+
+
+National Patriotic Front of Liberia (NPFL) [AFRREB]    ; kkl 21 Mar 13
+
+
+National Youth Resistance Organization [ITAREB]    ; kkl 21 Mar 13
+
+
+Nihilists Faction [GRCREB]    ; kkl 21 Mar 13
+
+
+November 25 Anarchist Group [GRCREB]    ; kkl 21 Mar 13
+
+
+Nuclei Armati Comunista [ITAREB]    ; kkl 21 Mar 13
+
+
+Nuclei Communist Combatants [ITAREB]    ; kkl 21 Mar 13
+
+
+Nuclei for Promoting Total Catastrophe [GRCREB]    ; kkl 21 Mar 13
+
+
+OPR-33 [LAMREB]    ; kkl 21 Mar 13
+
+
+Omar Torrijos Commando for Latin American Dignity [LAMREB]    ; kkl 21 Mar 13
++ Omar Torrijos Anti-Intervention Command group
+
+
+PKK/KONGRA-GEL [TURREB]    ; kkl 21 Mar 13
+
+
+Palestine Liberation Organization (PLO) [PSEREB]    ; kkl 21 Mar 13
+
+
+Palestinian Popular Struggle Front (PSF) [MEAREB]    ; kkl 21 Mar 13
++ Popular Struggle Front
+
+
+Palestinian Resistance [FRAREB]    ; kkl 21 Mar 13
+
+
+Palestinian Revolution Forces General Command [MEAREB]    ; kkl 21 Mar 13
+
+
+Pan-Turkish Organization [EURREB]    ; kkl 21 Mar 13
+
+
+Partisans of Holy War [LBNREB]    ; kkl 21 Mar 13
++ Organization of Partisans of Islamic Jihad
+
+
+Patriotic Resistance Army (ERP) [HNDREB]    ; kkl 21 Mar 13
+
+
+Patriotic Union of Kurdistan (PUK) [IRQREB]    ; kkl 21 Mar 13
+
+
+Peace Conquerors [INTREB]    ; kkl 21 Mar 13
+
+
+Pedro Leon Arboleda Movement [COLREB]    ; kkl 21 Mar 13
+
+
+People Against Gangsterism And Drugs (PAGAD) [ZAFREB]    ; kkl 21 Mar 13
+
+
+People's Command [BOLREB]    ; kkl 21 Mar 13
+
+
+People's Revolutionary Armed Forces (FRAP) [MEXREB]    ; kkl 21 Mar 13
+
+
+People's Revolutionary Front (Philippines) [PHLREB]    ; kkl 21 Mar 13
+
+
+People's Revolutionary Organization [ARGREB]    ; kkl 21 Mar 13
+
+
+People's Revolutionary Party (PRP) [CFRREB]    ; kkl 21 Mar 13
++ Popular Revolutionary Party (PRP)
++ Zaire&#8217;s People&#8217;s Revolutionary Party
+
+
+Peronist Armed Forces [ARGREB]    ; kkl 21 Mar 13
+
+
+Peykar [INTREB]    ; kkl 21 Mar 13
++ Organization for Fight for the Freedom of the Working Classes
++ Peykar-e Tabaqeh-e Kargar
+
+
+Polisario Front [NAFREB]    ; kkl 21 Mar 13
+
+
+Polish Revolutionary Home Army [EURREB]    ; kkl 21 Mar 13
++ Insurgent Home Army
++ Poland National Liberation Front
+
+
+Popular Justice [GRCREB]    ; kkl 21 Mar 13
+
+
+Popular Movement for the Liberation of Angola [AGOREB]    ; kkl 21 Mar 13
++ Popular Movement for the Liberation of Angola-Party of Labor
+
+
+Popular Resistance Committees [MEAREB]    ; kkl 21 Mar 13
+
+
+Popular Revolutionary Resistance Group [GRCREB]    ; kkl 21 Mar 13
+
+
+Popular Revolutionary Vanguard [BRAREB]    ; kkl 21 Mar 13
+
+
+Proletarian Action Group [CHLREB]    ; kkl 21 Mar 13
+
+
+Puerto Rican Resistance Movement [NMRREB]    ; kkl 21 Mar 13
+
+
+Raul Sendic International Brigade [INTREB]    ; kkl 21 Mar 13
+
+
+Recontra 380 [LAMREB]    ; kkl 21 Mar 13
++ 380
++ 380 Northern Front
++ 3-80 Northern Front
++ Ex-Contras
++ FN 3-80
++ Recontra 380
++ Recontra 3-80
++ Recontra 3-80 Northern Front
++ Recontras
+
+
+Red Daughters of Rage [AUTREB]    ; kkl 21 Mar 13
+
+
+Republic of New Africa [USAREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Action Party [USAREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Army of the People [DOMREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Autonomous Group [PRTREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Cells Animal Liberation Brigade [USAREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Commandos of Solidarity [CRIREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Eelam Organization (EROS) [LKAREB]    ; kkl 21 Mar 13
++ Eelam Revolutionary Organization of Students
+
+
+Revolutionary Force Seven [USAREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Front for Proletarian Action [BELREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Liberation Action [GRCREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Offensive Cells [ITAREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Organization of Socialist Muslims [KKLREB]    ; kkl 21 Mar 13
+
+
+Revolutionary People's Front  (RPF) [SASREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Torch-Bearing Run [GRCREB]    ; kkl 21 Mar 13
+
+
+Revolutionary United Front (RUF) [WAFREB]    ; kkl 21 Mar 13
+
+
+Revolutionary United Front Movement [HNDREB]    ; kkl 21 Mar 13
+
+
+Roque Dalton Commando [GTMREB]    ; kkl 21 Mar 13
+
+
+Students Islamic Movement of India (SIMI) [INDREB]    ; kkl 21 Mar 13
+
+
+Salafia Jihadia [MARREB]    ; kkl 21 Mar 13
+
+
+Secret Army Organization [USAREB]    ; kkl 21 Mar 13
+
+
+Secret Organization Zero [USAREB]    ; kkl 21 Mar 13
++ Group Zero
++ Zero
+
+
+Sekihotai [JPNREB]    ; kkl 21 Mar 13
+
+
+Shahin [IRNREB]    ; kkl 21 Mar 13
++ Falcon
+
+
+Social Resistance [GRCREB]    ; kkl 21 Mar 13
+
+
+Socialist-Nationalist Front (SNF) [CHEREB]    ; kkl 21 Mar 13
+
+
+Solidarity Gas Canisters [GRCREB]    ; kkl 21 Mar 13
+
+
+Solidarity with 17N [GRCREB]    ; kkl 21 Mar 13
+
+
+Sons of the South [LBNREB]    ; kkl 21 Mar 13
+
+
+South Moluccan Suicide Commando [NLDREB]    ; kkl 21 Mar 13
+
+
+Southern California IRA [USAREB]    ; kkl 21 Mar 13
+
+
+Southern Sudan Independence Movement (SSIM) [SDNREB]    ; kkl 21 Mar 13
++ Movement of Riak Machar
++ Southern Sudan Independence Army
++ Southern Sudan Independence Movement/Army (SSIM/A)
++ Sudan People&#8217;s Liberation Army United (SPLA United)
+
+
+Sovereign Panama Front (FPS) [PANREB]    ; kkl 21 Mar 13
++ FPS
++ FREPASO
++ Panama Sovereignty Front
+
+
+Spanish National Action [WEUREB]    ; kkl 21 Mar 13
+
+
+Syrian Mujahideen [BELREB]    ; kkl 21 Mar 13
+
+
+Syrian Social Nationalist Party [MEAREB]    ; kkl 21 Mar 13
++ al-Hizb a-Suri al-qawmi al-ijtimaee
+
+
+Taliban [AFGREB]    ; kkl 21 Mar 13
++ Taleban
+
+
+Tanzim [MEAREB]    ; kkl 21 Mar 13
++ Organization
+
+
+Terra Lliure (TL) [ESPREB]    ; kkl 21 Mar 13
++ Free Land
+
+
+Territorial Anti-Imperialist Nuclei [ITAREB]    ; kkl 21 Mar 13
+
+
+The Committee for Promotion of Intransigence [GRCREB]    ; kkl 21 Mar 13
+
+
+The Extraditables [COLREB]    ; kkl 21 Mar 13
+
+
+The Inevitables [BOLREB]    ; kkl 21 Mar 13
+
+
+Tigray Peoples Liberation Front (TPLF) [ETHREB]    ; kkl 21 Mar 13
++ Tigrai Peoples Liberation Front
+
+
+Tontons Macoutes [HTIREB]    ; kkl 21 Mar 13
++ Boogeymen
++ National Security Volunteers
+
+
+Tupac Katari Guerrilla Army (EGTK) [BOLREB]    ; kkl 21 Mar 13
+
+
+Turkish Islamic Jihad [TURREB]    ; kkl 21 Mar 13
+
+
+Turkish People's Liberation Army (TPLA) [TURREB]    ; kkl 21 Mar 13
+
+
+Turkish People's Liberation Front (TPLF) (THKP-C) [TURREB]    ; kkl 21 Mar 13
++ Turkish Peoples Liberation Party-Front (TPLP-F)
+
+
+Uganda Democratic Christian Army (UDCA) [EAFREB]    ; kkl 21 Mar 13
+
+
+Ukrainian Reactionary Force [INDREB]    ; kkl 21 Mar 13
+
+
+Unified Unit of Jihad [DZAREB]    ; kkl 21 Mar 13
++ United Company of Jihad
+
+
+Union of Peaceful Citizens of Algeria [DZAREB]    ; kkl 21 Mar 13
++ Committee of Peace-loving Algerians
+
+
+United Anti-Reelection Command [DOMREB]    ; kkl 21 Mar 13
+
+
+United Arab Revolution [KWTREB]    ; kkl 21 Mar 13
+
+
+United Nasserite Organization [INTREB]    ; kkl 21 Mar 13
++ Unified Nasserite Organization
++ United Nasirite Organizaiton
+
+
+United Organization of Halabjah Martyrs [IRQREB]    ; kkl 21 Mar 13
+
+
+United Popular Action Movement [CHLREB]    ; kkl 21 Mar 13
+
+
+United Popular Liberation Army of America [MEXREB]    ; kkl 21 Mar 13
+
+
+VAR-Palmares [LAMREB]    ; kkl 21 Mar 13
++ Palmares Armed Revolutionary Vanguard
+
+
+Venceremos [VENREB]    ; kkl 21 Mar 13
++ We Will Win
+
+
+Vigorous Burmese Student Warriors [SEAREB]    ; kkl 21 Mar 13
+
+
+Weather Underground Organization (WUO) / Weathermen [USAREB]    ; kkl 21 Mar 13
++ Action Faction
+
+
+West Nile Bank Front (WNBF) [CFRREB]    ; kkl 21 Mar 13
+
+
+Workers' Revolutionary Party [BOLREB]    ; kkl 21 Mar 13
+
+
+World Islamic Jihad Group [YEMREB]    ; kkl 21 Mar 13
+
+
+World Punishment Organization [CHEREB]    ; kkl 21 Mar 13
+
+
+World United Formosans for Independence [INTREB]    ; kkl 21 Mar 13
+
+
+Yanikian Commandos [USAREB]    ; kkl 21 Mar 13
+
+
+Youth Action Group [FRAREB]    ; kkl 21 Mar 13
+
+
+Zarate Willka Armed Forces of Liberation [BOLREB]    ; kkl 21 Mar 13
+
+
+Zimbabwe African Nationalist Union (ZANU) [SAFREB]    ; kkl 21 Mar 13
+
+
+Zionist Action Group [PRTREB]    ; kkl 21 Mar 13
+
+
+al-Faruq Brigades [IRQREB]    ; kkl 21 Mar 13
++ Jihadist al-Faruq Brigades
++ Media Commission for the Mujahidin in Iraq
+
+
+al-Haramayn Brigades [SAUREB]    ; kkl 21 Mar 13
++ Special Death Brigades
+
+
+al-Ittihaad al-Islami (AIAI) [EAFREB]    ; kkl 21 Mar 13
++ Islamic Union
++ Islamic Unity
+
+
+de Fes [INTREB]    ; kkl 21 Mar 13
+
+
+White Order of Thule [USAREB]    ; kkl 21 Mar 13
+
+
+San Joaquin Militia [USAREB]    ; kkl 21 Mar 13
++ San Joaquin County Militia
+
+
+Southeast States Alliance [USAREB]    ; kkl 21 Mar 13
+
+
+Tawhid and Jihad [IRQREB]    ; kkl 21 Mar 13
++ al-Qaeda in Iraq
++ al-Tawhid
++ al-Zarqawi network
++ Monotheism and Holy Struggle
++ Tanzim Qaidat al-Jihad fi Bilad al-Rafidayn
++ Unification and Jihad
+
+
+Moroccan Islamic Combatant Group [INTREB]    ; kkl 21 Mar 13
+
+
+Army for the Liberation of Rwanda (ALIR) [KKLREB]    ; kkl 21 Mar 13
++ Democratic Front for the Liberation of Rwanda (FDLR)
++ Ex-FAR (Armed Forces of Rwanda)
++ Interahamwe
+
+
+Tunisian Combatant Group (TCG) [AFGREB]    ; kkl 21 Mar 13
++ Groupe Combattant Tunisien
++ Tunisian Combat Group
++ Tunisian Islamic Fighting Group
+
+
+Eastern Turkistan Islamic Movement (ETIM) [CHNREB]    ; kkl 21 Mar 13
++ Eastern Turkistan Islamic Party (ETIP)
+
+
+Islamic International Peacekeeping Brigade (IIPB) [CASREB]    ; kkl 21 Mar 13
++ International Islamic Battalion
++ International Islamic Brigade
+
+
+Action Front for the Liberation of the Baltic Countries [FRAREB]    ; kkl 21 Mar 13
+
+
+Anti-Imperialist Patrols for Proletariat Internationalism [ITAREB]    ; kkl 21 Mar 13
+
+
+Arab Nationalist Youth for the Liberation of Palestine (ANYLP) [LBYREB]    ; kkl 21 Mar 13
++ Arab National Youth Organization (ANYO)
++ Arab Nationalist Youth Organization for the Liberation of Palestine (ANYOLP)
++ Seventh Suicide Squad
+
+
+Autonomous Intervention Collective Against the Zionist Presence in France [FRAREB]    ; kkl 21 Mar 13
+
+
+Chilean Committee of Support for the Peruvian Revolution [CHLREB]    ; kkl 21 Mar 13
+
+
+Corsican Revolutionary Armed Forces (FARC) [FRAREB]    ; kkl 21 Mar 13
++ Corsican Revolutionary Armed Front
+
+
+Dario Santillan Command [ARGREB]    ; kkl 21 Mar 13
+
+
+Fighting Ecologist Activism [GRCREB]    ; kkl 21 Mar 13
+
+
+Front for the Liberation of the French Somali Coast [EAFREB]    ; kkl 21 Mar 13
++ Front for the Liberation of the Coast of Somalia
++ Front for the Liberation of the Somali Coast
++ Somali Coast Liberation Front
+
+
+Hizb-I-Islami [AFGREB]    ; kkl 21 Mar 13
++ Hizb-e-Islami
++ Hizbul-i-Islami
++ Islamic Party
+
+
+International Justice Group [INTREB]    ; kkl 21 Mar 13
+
+
+Iraqi Legitimate Resistance [IRQREB]    ; kkl 21 Mar 13
+
+
+Islamic Army in Iraq [IRQREB]    ; kkl 21 Mar 13
+
+
+Islamic Front for the Liberation of Palestine (IFLP) [LBNREB]    ; kkl 21 Mar 13
+
+
+Jaish-ul-Muslimin [AFGREB]    ; kkl 21 Mar 13
+
+
+Jordanian Revolutionary and Military Committee (MOUAB) [JORREB]    ; kkl 21 Mar 13
++ Jordanian Military and Revolutionary Committee
++ Military and Revolutionary Committee of Jordan
+
+
+Karbala Brigades [IRQREB]    ; kkl 21 Mar 13
+
+
+Kurdistan Freedom Hawks [MEAREB]    ; kkl 21 Mar 13
++ Kurdish Vengeance Brigade
++ Kurdistan Freedom Falcons
++ Kurdistan Freedom Falcons Organization
+
+
+Morazanist Front for the Liberation of Honduras (FMLH) [LAMREB]    ; kkl 21 Mar 13
+
+
+Proletarian Combatant Groups [ITAREB]    ; kkl 21 Mar 13
+
+
+Resistance, Liberation and Independence Organization (AAA) [GRCREB]    ; kkl 21 Mar 13
+
+
+Revolutionary Action Organization of the Arab Resistance Front [LBNREB]    ; kkl 21 Mar 13
++ Martyr Suleiman Halabi Unit
+
+
+Revolutionary Outburst Movement [LBNREB]    ; kkl 21 Mar 13
++ Arab Revolutionary Expansion Movement
++ Arab Revolutionary Surge
+
+
+Revolutionary Worker Clandestine Union of the People Party [MEXREB]    ; kkl 21 Mar 13
+
+
+Simon Bolivar Guerilla Coordinating Board (CGSB) [COLREB]    ; kkl 21 Mar 13
+
+
+South-West Africa People's Organization (SWAPO) [SAFREB]    ; kkl 21 Mar 13
+
+
+The Holders of the Black Banners [IRQREB]    ; kkl 21 Mar 13
+
+
+Libyan Islamic Fighting Group (LIFG) [LBYREB]    ; kkl 21 Mar 13
++ Fighting Islamic Group
++ Libyan Fighting Group
++ Libyan Islamic Group
+
+
+Kumpulan Mujahidin Malaysia (KMM) [EINREB]    ; kkl 21 Mar 13
+
+
+Laskar Jihad [IDNREB]    ; kkl 21 Mar 13
++ Army of Jihad
++ Holy War Warriors
+
+
+Harakat ul-Jihad-i-Islami (HUJI) [SASREB]    ; kkl 21 Mar 13
++ Movement of Islamic Holy War
+
+
+Harakat ul-Jihad-i-Islami/Bangladesh (HUJI-B) [BGDREB]    ; kkl 21 Mar 13
++ Movement of Islamic Holy War
+
+
+Hizb-I Islami Gulbuddin (HIG) [SASREB]    ; kkl 21 Mar 13
+
+
+Hikmatul Zihad [BGDREB]    ; kkl 21 Mar 13
++ Hikmat-ul-Jihad
++ Hikmat-ul-Zihad
++ Wisdom of Jihad
+
+
+Army of the Corsican People [FRAREB]    ; kkl 21 Mar 13
+
+
+Saraya Usud al-Tawhid [IRQREB]    ; kkl 21 Mar 13
++ Brigades of the Lions of Monotheism
+
+
+al-Qaeda Organization in the Land of the Two Rivers [MEAREB]    ; kkl 21 Mar 13
++ al-Qaeda in Iraq
++ al-Zarqawi Network
++ Monotheism and Holy Struggle
++ Organization of Jihads Base in the Country of the Two Rivers
++ Tawhid and Jihad
+
+
+EZLN [MEXREB]    ; kkl 21 Mar 13
++ Zapatista Army of National Liberation
+
+
+al-Quds Brigades [MEAREB]    ; kkl 21 Mar 13
++ Al-Qassam
++ al-Quds Battalions
++ Jerusalem Battalions
++ Jerusalem Brigades
++ Sayf al-Islam Brigades
+
+
+Army of the Followers of Sunni Islam [IRQREB]    ; kkl 21 Mar 13
+
+
+Brigades for the Defense of Holy Shrines [IRQREB]    ; kkl 21 Mar 13
++ Squadrons Defending Holy Places
+
+
+Brigades of the Victorious Lion of God [IRQREB]    ; kkl 21 Mar 13
+
+
+Divine Wrath Brigades [IRQREB]    ; kkl 21 Mar 13
+
+
+Islamic Resistance Brigades [IRQREB]    ; kkl 21 Mar 13
+
+
+Mahdi Army [IRQREB]    ; kkl 21 Mar 13
++ Mehdi Army
+
+
+1920 Revolution Brigades [IRQREB]    ; kkl 21 Mar 13
++ 20th Revolution Brigades
++ Revolution of the 1920s Brigades
++ Twentieth Revolution Brigades
+
+
+Saraya al-Shuhuada al-jihadiyah fi al-Iraq [IRQREB]    ; kkl 21 Mar 13
++ Jihadist Martyrs Brigades in Iraq
+
+
+Underground Government of the Free Democratic People of Laos [LAOREB]    ; kkl 21 Mar 13
++ Free Democratic People&#8217;s Government of Laos
++ Free Democratic Government Committee of the Lao People
+
+
+Karbi Longri North Cachar Hills Resistance Force (KNPR) [INDREB]    ; kkl 21 Mar 13
+
+
+Ansar al-Jihad [IRQREB]    ; kkl 21 Mar 13
++ Supporters of Jihad
+
+
+Abu Bakr al-Siddiq Fundamentalist Brigades [IRQREB]    ; kkl 21 Mar 13
++ Salafist Brigades of Abu Bakr Al-Siddiq
+
+
+Global Intifada [SWEREB]    ; kkl 21 Mar 13
+
+
+Islamic Movement of Holy Warriors [IRQREB]    ; kkl 21 Mar 13
+
+
+Barisan Revolusi Nasional Melayu Pattani (BRN) [THAREB]    ; kkl 21 Mar 13
++ National Revolutionary Front
+
+
+Mujahideen Army [IRQREB]    ; kkl 21 Mar 13
+
+
+Martyr Abu-Ali Mustafa Brigades [MEAREB]    ; kkl 21 Mar 13
++ Red Eagles (former name)
+
+
+Islamic Jihad Brigades [IRQREB]    ; kkl 21 Mar 13
+
+
+Free People of Galillee [ISRREB]    ; kkl 21 Mar 13
++ Galilee Liberators
+
+
+al-Qaeda in the Arabian Peninsula (AQAP) [SAUREB]    ; kkl 21 Mar 13
+
+
+Communist Liberation Faction [GRCREB]    ; kkl 21 Mar 13
+
+
+Takfir wa Hijra [INTREB]    ; kkl 21 Mar 13
++ Martyrs for Morocco
++ Rejection of sins and exodus
+
+
+Mara Salvatruchas [INTREB]    ; kkl 21 Mar 13
++ MS-13
+
+
+Iraqi Revenge Brigades [IRQREB]    ; kkl 21 Mar 13
++ Al-Isawi Martyr Brigade
++ Brigades of Vengeance
++ Iraqi Vengeance Brigades
+
+
+Iduwini Youths [NGAREB]    ; kkl 21 Mar 13
++ Ijaw Youth Movement
+
+
+Ethnocacerista [PERREB]    ; kkl 21 Mar 13
++ Movimiento Nacionalista Etnocacerista
+
+
+Brigades of Imam al-Hassan al-Basri [IRQREB]    ; kkl 21 Mar 13
++ al-Hassan al-Basri battalions
++ al-Imam al-Hassan al-Basri Brigades
++ Hassan Al-Basri Brigade
+
+
+al-Ahwal Brigades [IRQREB]    ; kkl 21 Mar 13
++ al-Ahwal Horrors Brigades
++ Calamities Brigades
++ Horrors Brigades
+
+
+al-Islambouli Brigades of al-Qaeda [PAKREB]    ; kkl 21 Mar 13
++ al-Islambouli Brigades
++ al-Qaeda Organization
++ Islambouli Brigade of Martyrs
++ Platoon of Marytr Khaled Islambouli
+
+
+Jamatul Mujahedin Bangladesh [BGDREB]    ; kkl 21 Mar 13
+
+
+Revenge of the Hebrew Babies [MEAREB]    ; kkl 21 Mar 13
+
+
+Soldiers of the Prophet's Companions [IRQREB]    ; kkl 21 Mar 13
+
+
+Army for the Liberation of Kurdistan [LBNREB]    ; kkl 21 Mar 13
+
+
+Jund al-Sham [MEAREB]    ; kkl 21 Mar 13
++ Army of the Levant
++ Soldiers of Greater Syria
+
+
+Brigades of Martyr Ahmed Yassin [IRQREB]    ; kkl 21 Mar 13
+
+
+Communist Party of India-Maoist [INDREB]    ; kkl 21 Mar 13
++ Naxalites (general name for left-wing extremists)
+
+
+Front for the Liberation of Lebanon from Foreigners (FLLF) [LBNREB]    ; kkl 21 Mar 13
+
+
+Mohajir Qami Movement-Haqiqi (MQM-H) [PAKREB]    ; kkl 21 Mar 13
++ Real Mohajir Qami Movement
+
+
+Protectors of Islam Brigade [IRQREB]    ; kkl 21 Mar 13
+
+
+Usd Allah [IRQREB]    ; kkl 21 Mar 13
+
+
+al-Fatah Uprising [MEAREB]    ; kkl 21 Mar 13
++ Fatah Abu Musa
+
+
+Committee of Solidarity with Arab and Middle East Political Prisoners (CSPPA) [INTREB]    ; kkl 21 Mar 13
+
+
+Justice Army of Defenseless People (EJPI) [MEXREB]    ; kkl 21 Mar 13
++ Avenging Army of Defenseless People
+
+
+Kanglei Yawol Kanna Lup (KYKL) [INDREB]    ; kkl 21 Mar 13
++ Kanglei Yaol Kanba Lup
++ Organization to Save the Revolutionary Movement in Manipur
+
+
+Khristos Kasimis Revolutionary Group for International Solidarity [GRCREB]    ; kkl 21 Mar 13
+
+
+Red Flag (Venezuela) [VENREB]    ; kkl 21 Mar 13
++ Red Banner
+
+
+Young Liberators of Pattani [THAREB]    ; kkl 21 Mar 13
+
+
+Anarkhiki Omadha 20 Louli [GRCREB]    ; kkl 21 Mar 13
++ Anarchy Group of the 20th of July
+
+
+Bodo Liberation Tigers (BLT) [SASREB]    ; kkl 21 Mar 13
++ Bodo Liberation Tiger Force (BLTF)
++ Terrorist Group of Assam
+
+
+Catholic Reaction Force (CRF) [GBRREB]    ; kkl 21 Mar 13
+
+
+Cypriot Nationalist Organization (OKE) [CYPREB]    ; kkl 21 Mar 13
+
+
+Eritrean Islamic Jihad Movement (EIJM) [EAFREB]    ; kkl 21 Mar 13
++ Abu Sihel Movement
++ Eritrean Islamic Jihad (EIJ
++ Eritrean Islamic Reform Movement
++ Islamic Salvation Movement (Harakat al Khalas al Islami)
+
+
+Karenni National Progressive Party [SEAREB]    ; kkl 21 Mar 13
+
+
+Ninawa Mujahideen in the city of Mosul [IRQREB]    ; kkl 21 Mar 13
++ Mujahideen of Nineveh
+
+
+Rebolusyonaryong Hukbong Bayan (RHB) [PHLREB]    ; kkl 21 Mar 13
+
+
+Popular Revolutionary Army [MEXREB]    ; kkl 21 Mar 13
+
+
+Abu al-Abbas [IRQREB]    ; kkl 21 Mar 13
+
+
+al-Bara bin Malek Brigades [MEAREB]    ; kkl 21 Mar 13
++ al-Bara bin Malek Martyrs Brigades
+
+
+Fallujah Mujahideen [IRQREB]    ; kkl 21 Mar 13
+
+
+Islamic Glory Brigades in the Land of the Nile [EGYREB]    ; kkl 21 Mar 13
++ Islamic Brigades of Pride in Egypt
++ Islamic Pride Brigades in the Land of the Nile
++ Kata&#8217;ib al-Izz al-Islamiyah Fi Ard al-Nil
+
+
+Kata'ib al-Junayd al-Jihadiyah [IRQREB]    ; kkl 21 Mar 13
++ Junayd Jihadist Brigades
+
+
+Russian National Bolshevist Party [INTREB]    ; kkl 21 Mar 13
+
+
+Action Group Extreme Beate [DNKREB]    ; kkl 21 Mar 13
+
+
+Ali Bin Abu Talib Jihad Organization [IRQREB]    ; kkl 21 Mar 13
++ Ali Bin Abu Talib Brigades
+
+
+Anti-Imperialist International Brigade [LBNREB]    ; kkl 21 Mar 13
+
+
+Battalion of the Martyr Abdullah Azzam [MEAREB]    ; kkl 21 Mar 13
++ Al-Qaeda in the Levant and Egypt
++ Al-Qaida in Syria and Egypt
++ Martyr Abdallah Azzam Brigades
++ Al-Qaidah organization - The Land of Al-Sham and Al-Kananah
++ Tanzim al-Qaida fi Balad ash-Sham wa Ard al-Kinanah
++ Abdullah Azzam Shaheed Brigade  ; Wikipedia
++ Ziad al Jarrah Battalion   ; Lebanese branch -- Wikipedia
+
+
+Muadh Ibn Jabal Brigade [IRQREB]    ; kkl 21 Mar 13
+
+
+Tawhid Islamic Brigades [EGYREB]    ; kkl 21 Mar 13
+
+
+Arbav Martyrs of Khuzestan [IRNREB]    ; kkl 21 Mar 13
+
+
+Babbar Khalsa International (BKI) [INDREB]    ; kkl 21 Mar 13
+
+
+Jund Allah Organization for the Sunni Mujahideen in Iran [IRNREB]    ; kkl 21 Mar 13
+
+
+Kurdish Democratic Party [IRQREB]    ; kkl 21 Mar 13
+
+
+Popular Revolutionary Resistance Organization [LBNREB]    ; kkl 21 Mar 13
++ Revolutionary Popular Resistance Organization
+
+
+Mujahideen Shura Council [IRQREB]    ; kkl 21 Mar 13
++ Shura Council of the Mujahideen of Iraq
+
+
+Strugglers for the Unity and Freedom of Greater Syria [LBNREB]    ; kkl 21 Mar 13
+
+
+Mariano Moreno National Liberation Commando [ARGREB]    ; kkl 21 Mar 13
+
+
+Secret Organization of al-Qaeda in Europe [GBRREB]    ; kkl 21 Mar 13
+
+
+The National Anti-Corruption Front [BOLREB]    ; kkl 21 Mar 13
+
+
+Islamic Jihad Group (Uzbekistan) [UZBREB]    ; kkl 21 Mar 13
++ IJU
++ Islamic Jihad Union
+
+
+Akhil Krantikari [NPLREB]    ; kkl 21 Mar 13
++ All Nepal National Independent Students Union
+
+
+United National Liberation Front (UNLF) [ASAREB]    ; kkl 21 Mar 13
+
+
+National Socialist Council of Nagaland-Isak-Muivah (NSCN-IM) [INDREB]    ; kkl 21 Mar 13
+
+
+Kangleipak Communist Party [INDREB]    ; kkl 21 Mar 13
+
+
+Jagrata Muslim Janata Bangladesh [BGDREB]    ; kkl 21 Mar 13
++ Awakened Muslim Masses of Bangladesh
++ Jamaatul Mujahedin Bangladesh (JMB)
+
+
+People's Liberation Army (PLA) [ASAREB]    ; kkl 21 Mar 13
+
+
+National Socialist Council of Nagaland-Khaplang (NSCN-K) [ASAREB]    ; kkl 21 Mar 13
+
+
+Islamic Front for Iraqi Resistance - Salah-al-Din al-Ayyubi Brigades [IRQREB]    ; kkl 21 Mar 13
+
+
+al-Fursan Brigades [IRQREB]    ; kkl 21 Mar 13
++ Brigade of Knights
++ Knights Brigades
+
+
+United People's Democratic Front (UPDF) [BGDREB]    ; kkl 21 Mar 13
+
+
+January 31 Popular Front [GTMREB]    ; kkl 21 Mar 13
+
+
+al-Ahwaz Arab People's Democratic Front [INTREB]    ; kkl 21 Mar 13
++ Al-Ahwaz Arab Popular Democratic Front
++ Arab Peoples Democratic Front
++ Democratic Popular Front for the Arab People of Ahwaz
+
+
+Army for Iran's National Liberation [GRCREB]    ; kkl 21 Mar 13
+
+
+Commando of Croatian Revolutionaries in Europe [DEUREB]    ; kkl 21 Mar 13
+
+
+Iraqi Liberation Army [MEAREB]    ; kkl 21 Mar 13
+
+
+Islami Inqilabi Mahaz [SASREB]    ; kkl 21 Mar 13
++ Islamic Revolutionary Group
+
+
+National Movement for the Restoration of Pakistani Sovereignty [PAKREB]    ; kkl 21 Mar 13
+
+
+New Pattani United Liberation Organization (New PULO) [THAREB]    ; kkl 21 Mar 13
+
+
+People's Vanguard Organization [CRIREB]    ; kkl 21 Mar 13
+
+
+Parbatya Chattagram Jana Sanghati Samity (PCJSS) [BGDREB]    ; kkl 21 Mar 13
++ Chittagong Hill Tracts United People&#8217;s Party
+
+
+Military Wing of the Greater Syrian Army [QATREB]    ; kkl 21 Mar 13
+
+
+al-Barq [SASREB]    ; kkl 21 Mar 13
++ Al-Buraq
++ The Lightning
+
+
+Armed Youth of Cherikha-ye Fadayee [IRNREB]    ; kkl 21 Mar 13
+
+
+Death Squad of Mujahideen of Iraq [IRQREB]    ; kkl 21 Mar 13
++ Mujahedeen of Iraq
++ the Group of Death
+
+
+Dima Halam Daoga (DHD) [INDREB]    ; kkl 21 Mar 13
+
+
+Green Brigade of the Prophet [IRQREB]    ; kkl 21 Mar 13
++ Green Battalion
++ Green Brigade of Islamic Resistance
++ Prophet&#8217;s Green Brigade
+
+
+Imam Hussein Brigades [IRQREB]    ; kkl 21 Mar 13
+
+
+Islamic al-Waqqas Brigade [IRQREB]    ; kkl 21 Mar 13
+
+
+Islamic Rage Brigade [IRQREB]    ; kkl 21 Mar 13
++ Brigades of Islamic Anger
++ Islamic Rage Battalion
+
+
+Jaish al-Taifa al-Mansoura [IRQREB]    ; kkl 21 Mar 13
++ Army of the Victorious Community
++ Jaiech al-Taifa al-Mansoura
++ Jaish al-Taifa al-Mansura
++ Victorious Army Group
++ Victorious Army Sect
+
+
+Knights of the Tempest [PSEREB]    ; kkl 21 Mar 13
++ Knights of the Storm
+
+
+Adivasi Cobra Force (ACF) [INDREB]    ; kkl 21 Mar 13
++ Adivasi Cobra Militant Force
+
+
+Omar bin al-Khattab Brigades [PSEREB]    ; kkl 21 Mar 13
+
+
+The Group for the Promotion of Virtue and the Prevention of Vice [IRQREB]    ; kkl 21 Mar 13
++ Propagation of Virtue Prohibition of Vice Brigades
++ The Group for the Propagation of Virtue and the Prevention of Vice
+
+
+Che Guevara Anti-Imperialist Command [ARGREB]    ; kkl 21 Mar 13
++ Che Guevara Commando
++ Colonel Dorrego Anti-Imperialist Command
+
+
+Asbat al-Ansar [LBNREB]    ; kkl 21 Mar 13
++ Band of Partisans
++ League of the Followers
++ Partisans League
++ Usbat al-Ansar
+
+
+Black Panthers (West Bank/Gaza) [MEAREB]    ; kkl 21 Mar 13
+
+
+Kamtapur Liberation Organization [SASREB]    ; kkl 21 Mar 13
++ Kamtapur Liberation Organisation (KLO)
+
+
+Jihad Pegah [IRQREB]    ; kkl 21 Mar 13
++ Jihad Base
+
+
+Thus Far and No Further [GRCREB]    ; kkl 21 Mar 13
+
+
+Partisans of the Sunni [IRQREB]    ; kkl 21 Mar 13
+
+
+People's United Liberation Front (PULF) [INDREB]    ; kkl 21 Mar 13
+
+
+Kuki Revolutionary Army [INDREB]    ; kkl 21 Mar 13
+
+
+Saad bin Abi Waqas Brigades [IRQREB]    ; kkl 21 Mar 13
++ Sad ibn Abi-Waqqas
+
+
+Battalion of the Look-out for Iraq [IRQREB]    ; kkl 21 Mar 13
++ Brigade of Monitoring for Iraq
+
+
+People's Revolutionary Party of Kangleipak (PREPAK) [ASAREB]    ; kkl 21 Mar 13
+
+
+Anti-State Justice [GRCREB]    ; kkl 21 Mar 13
+
+
+Arab Struggle Movement for the Liberation of Ahvaz [IRNREB]    ; kkl 21 Mar 13
+
+
+Abu al-Rish Brigades [PSEREB]    ; kkl 21 Mar 13
++ Abu al-Reesh Brigades
++ Ahmed Abu al-Rish Brigades
++ al-Reish Brigades
++ Fatah Hawks
+
+
+Mujahadi Bayt al-Maqdis Brigades [PSEREB]    ; kkl 21 Mar 13
++ Fighters of Jerusalem Brigades
++ Mujahedeen Brigades Jerusalem Branch
+
+
+Punishment Brigade for the al-Jaafari Government [IRQREB]    ; kkl 21 Mar 13
+
+
+Hawk Brigades [IRQREB]    ; kkl 21 Mar 13
++ Falcon Brigades
+
+
+Swords of Righteousness Brigades [IRQREB]    ; kkl 21 Mar 13
++ Swords of Truth Brigades
+
+
+Rajah Solaiman Movement [PHLREB]    ; kkl 21 Mar 13
+
+
+Ingush Jama'at Shariat [RUSREB]    ; kkl 21 Mar 13
+
+
+Movement for the Emancipation of the Niger Delta (MEND) [NGAREB]    ; kkl 21 Mar 13
+
+
+Brigade of Ansar al-Tawhid Wa-Sunna [IRQREB]    ; kkl 21 Mar 13
++ Ansar al-Tawhid wa al-Sunna Brigade
++ Supporters of Monotheism and the Prophet&#8217;s Tradition
++ Supporters of the Tawhid and Sunna Brigades
+
+
+al-Fath al-Mubin Troops [MEAREB]    ; kkl 21 Mar 13
++ Al-Fath al-Mubin Brigades
+
+
+Banner of Islam [IRQREB]    ; kkl 21 Mar 13
+
+
+Jihad in Sweden [SWEREB]    ; kkl 21 Mar 13
++ Al-Qaeda organization for Jihad in Sweden
+
+
+Sami al-Ghul Brigades [MEAREB]    ; kkl 21 Mar 13
++ Martyr Sami al-Ghul Brigades
+
+
+Colonel Karuna Faction [LKAREB]    ; kkl 21 Mar 13
++ Karuna Faction
++ Tamil National Front
+
+
+Sheikh Ahmed Yassin Brigades [KKLREB]    ; kkl 21 Mar 13
+
+
+Kata'ib al-Khoul [RUSREB]    ; kkl 21 Mar 13
++ Jamaat Kataib al-Khoul
++ Kataeb al-Ghoul
++ Kataib al-Khoul
++ Kataib al-Khoul Jamaat
+
+
+Hezb-e Azadi-ye Afghanistan [AFGREB]    ; kkl 21 Mar 13
++ Freedom Pary of Afghanistan
+
+
+Taong Bayan at Kawal [PHLREB]    ; kkl 21 Mar 13
++ Citizen and SoldierC
++ Masses and Soldiers
++ Secret Bad Men
++ Secret Warriors
++ Tabak (Machete) Group
++ The People and the Soldiers
+
+
+al-Imam Ali Brigades [IRQREB]    ; kkl 21 Mar 13
++ Imam Ali Brigade
+
+
+Anarchist Collective [GRCREB]    ; kkl 21 Mar 13
+
+
+Al-Majd Brigades [MEAREB]    ; kkl 21 Mar 13
+
+
+Runda Kumpalan Kecil (RKK) [THAREB]    ; kkl 21 Mar 13
++ Runda Kumpulan Kecil
+
+
+Clandestini Ribelli [WEUREB]    ; kkl 21 Mar 13
++ Clandestine Rebels
+
+
+Dagestani Shari'ah Jamaat [RUSREB]    ; kkl 21 Mar 13
++ Dzhennet (Paradise)
++ Islamic Jamaat of Dagestan
+
+
+Holy Jihad Brigades [PSEREB]    ; kkl 21 Mar 13
+
+
+Abu Mus'ab al-Zarqawi Battalion [MEAREB]    ; kkl 21 Mar 13
+
+
+Dhi Qar Organization [IRQREB]    ; kkl 21 Mar 13
+
+
+Irrintzi [WEUREB]    ; kkl 21 Mar 13
+
+
+Madheshi Liberation Front (MLF) [NPLREB]    ; kkl 21 Mar 13
++ Madheshi National Liberation Front
+
+
+Janatantrik Terai Mukti Morcha (JTMM) [NPLREB]    ; kkl 21 Mar 13
++ Terai Democratic Liberation Front
+
+
+Oxford Arson Group [GBRREB]    ; kkl 21 Mar 13
++ Oxford Arson Squad
+
+
+United Achik National Front [SASREB]    ; kkl 21 Mar 13
++ United Achik National Front (UANF)
+
+
+Stop Huntingdon Animal Cruelty (SHAC) [INTREB]    ; kkl 21 Mar 13
+
+
+# Additional groups from
+#
+# http://en.wikipedia.org/wiki/List_of_designated_terrorist_organizations
+#
+# 3 September 2013
+
+Al-Badr [INDREB]  ; Kashmir 
+
+
+Al-Gama'a al-Islamiyya [EGYREB]
++El Gama'a El Islamiyya
++Gamaat Islamiya
++al Jamaat al Islamiya
+
+
+Al Ghurabaa [GBRREB]
++Al-Muhajiroun
+
+
+al-Haramain Foundation [INTREB]
++al-Haramain Islamic Foundation
+
+
+Al-Itihaad al-Islamiya [SOMREB]  ; Wikipedia says dissolved after 9/11
++AIAI
+
+
+Harakat al-Shabaab al-Mujahideen [SOMREB]
++HSM
++Shabaab
+
+
+Ansar al-Sharia [MEAREB] ; various groups by this name throughout Middle East
++ Ansar al-Shariah 
+
+
+Jamaat Ansar al-Sunna [IRQREB]
++Jaish Ansar al-Sunna
+
+
+Ansar Dine [MLIREB]
+
+
+Ansaru [NGAREB]
++Vanguard for the Protection of Muslims in Black Lands
+
+
+

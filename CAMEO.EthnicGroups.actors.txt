@@ -1,0 +1,631 @@
+# CAMEO actor file for TABARI automated coding system generated from the CAMEO ethnic 
+# groups codes
+# File generated 22-May-2012
+#
+# This work is licensed under a Creative Commons
+# Attribution-NonCommercial 3.0 Unported License.
+#
+# This dictionary is provided by the Computational Event Data System Project:
+# http://eventdata.parusanalytics.com
+#
+# Last update [documentation only]: 2 October 2013
+
+ABKHAZIANS_ [abk] ; CAMEO Manual 12.05.22
+ABORIGINAL_AUSTRALIANS_ [abr] ; CAMEO Manual 12.05.22
++ABORIGINES_
+ACEHNESE_ [ace] ; CAMEO Manual 12.05.22
++ACHINESE_
+ACHANG_ [acg] ; CAMEO Manual 12.05.22
+ACHOLI_ [ach] ; CAMEO Manual 12.05.22
+ADIVASI_ [adi] ; CAMEO Manual 12.05.22
+ADJARIANS_ [adj] ; CAMEO Manual 12.05.22
++ADZHARS_
+ADYGHE_ [ady] ; CAMEO Manual 12.05.22
++CIRCASIANS_
+AFAR_ [aar] ; CAMEO Manual 12.05.22
+AFRIKANERS_ [afr] ; CAMEO Manual 12.05.22
+AHMADIS_ [ahm] ; CAMEO Manual 12.05.22
+AINU_ [ain] ; CAMEO Manual 12.05.22
+AJA_ [aja] ; CAMEO Manual 12.05.22
+AKAN_ [aka] ; CAMEO Manual 12.05.22
++ASANTE_
+AKU_ [aku] ; CAMEO Manual 12.05.22
+ALBANIANS_ [alb] ; CAMEO Manual 12.05.22
+ALEUT_ [ale] ; CAMEO Manual 12.05.22
+ALGONQUIAN_ [alg] ; CAMEO Manual 12.05.22
+ALTAY_ [alt] ; CAMEO Manual 12.05.22
+ALUR_ [alu] ; CAMEO Manual 12.05.22
+AMBONESE_ [amb] ; CAMEO Manual 12.05.22
++AMBOINESE_
+AMERICO_LIBERIANS_ [ame] ; CAMEO Manual 12.05.22
+AMHARA_ [amh] ; CAMEO Manual 12.05.22
+ANGIKA_SPEAKERS_ [anp] ; CAMEO Manual 12.05.22
+ANKOLE_ [nyn] ; CAMEO Manual 12.05.22
+APACHE_ [apa] ; CAMEO Manual 12.05.22
+ARAGONESE_ [arg] ; CAMEO Manual 12.05.22
+ARAPAHO_ [arp] ; CAMEO Manual 12.05.22
+ARAWAK_ [arw] ; CAMEO Manual 12.05.22
+ARGENTINIANS_ [atg] ; CAMEO Manual 12.05.22
+AROMANIANS_ [rup] ; CAMEO Manual 12.05.22
+ASHANTI_ [twi] ; CAMEO Manual 12.05.22
+ASSAMESE_ [asm] ; CAMEO Manual 12.05.22
+ASSYRIAN_ [asy] ; CAMEO Manual 12.05.22
+ASTURIAN_ [ast] ; CAMEO Manual 12.05.22
+ATACAMENOS_ [ata] ; CAMEO Manual 12.05.22
+ATHABASKAN_ [ath] ; CAMEO Manual 12.05.22
+AUSTRALIANS_ [aus] ; CAMEO Manual 12.05.22
+AUSTRIANS_ [auu] ; CAMEO Manual 12.05.22
+AWADHI_ [awa] ; CAMEO Manual 12.05.22
+AYMARA_ [aym] ; CAMEO Manual 12.05.22
+AZANDE_ [znd] ; CAMEO Manual 12.05.22
++AZANDE_MANGBETU_
++AZERI_
+BAGANDA_ [bad] ; CAMEO Manual 12.05.22
+BAI_ [bii] ; CAMEO Manual 12.05.22
+BAKONGO_ [bkn] ; CAMEO Manual 12.05.22
+BAKWERI_ [bkw] ; CAMEO Manual 12.05.22
+BALANTA_ [bln] ; CAMEO Manual 12.05.22
+BALINESE_ [ban] ; CAMEO Manual 12.05.22
+BALKARS_ [blk] ; CAMEO Manual 12.05.22
+BALOCH_ [bal] ; CAMEO Manual 12.05.22
++BALUCHIS_
+BAMAR_ [bmr] ; CAMEO Manual 12.05.22
+BAMBARA_ [bam] ; CAMEO Manual 12.05.22
+BAMILEKE_ [bai] ; CAMEO Manual 12.05.22
+BANTU_ [bnt] ; CAMEO Manual 12.05.22
+BANYARWANDA_ [bny] ; CAMEO Manual 12.05.22
+BARI_ [bar] ; CAMEO Manual 12.05.22
+BARIBA_ [brb] ; CAMEO Manual 12.05.22
+BASHKIRS_ [bak] ; CAMEO Manual 12.05.22
+BASOGA_ [bas] ; CAMEO Manual 12.05.22
++BASSA_
++DUALA_
+BASQUE_ [baq] ; CAMEO Manual 12.05.22
+BASTER_ [bst] ; CAMEO Manual 12.05.22
+BATAK_ [btk] ; CAMEO Manual 12.05.22
+BATEKE_ [bke] ; CAMEO Manual 12.05.22
+BEJA_ [bej] ; CAMEO Manual 12.05.22
+BELARUSIANS_ [bel] ; CAMEO Manual 12.05.22
++BYELORUSSIANS_
+BEMBA_ [bem] ; CAMEO Manual 12.05.22
+BENGALI_HINDU_ [ben] ; CAMEO Manual 12.05.22
++BENGALI_
+BENI_SHUGAL_GUMEZ_ [bni] ; CAMEO Manual 12.05.22
+BERBER_ [ber] ; CAMEO Manual 12.05.22
+BETI_PAHUIN_ [bte] ; CAMEO Manual 12.05.22
++BETI_
+BEYDAN_ [bey] ; CAMEO Manual 12.05.22
++WHITE_MOORS_
+BHOJPURI_ [bho] ; CAMEO Manual 12.05.22
+BICOLANO_ [bik] ; CAMEO Manual 12.05.22
+BIHARI_ [bih] ; CAMEO Manual 12.05.22
+BILEN_ [byn] ; CAMEO Manual 12.05.22
+BLACK_AFRICAN_ [afa] ; CAMEO Manual 12.05.22
++AFRICANS_
+BLANG_ [blg] ; CAMEO Manual 12.05.22
+BODO_ [bod] ; CAMEO Manual 12.05.22
+BONAN_ [bon] ; CAMEO Manual 12.05.22
+BOSNIAKS_ [bos] ; CAMEO Manual 12.05.22
+BRAHUI_ [brh] ; CAMEO Manual 12.05.22
+BRETON_ [bre] ; CAMEO Manual 12.05.22
+BRIJWASI_ [bra] ; CAMEO Manual 12.05.22
+BUGIS_ [bug] ; CAMEO Manual 12.05.22
+BURAKUMIN_ [brk] ; CAMEO Manual 12.05.22
+BUSHMEN_ [bsh] ; CAMEO Manual 12.05.22
+BUYEI_ [bou] ; CAMEO Manual 12.05.22
+CABINDAN_MAYOMBE_ [cab] ; CAMEO Manual 12.05.22
+CADDO_ [cad] ; CAMEO Manual 12.05.22
+CATALAN_ [cat] ; CAMEO Manual 12.05.22
+CAUCASIAN_AVARS_ [ava] ; CAMEO Manual 12.05.22
++AVARS_
+CEBUANO_ [ceb] ; CAMEO Manual 12.05.22
+CHAGATAI_ [chg] ; CAMEO Manual 12.05.22
+CHAM_ [cmc] ; CAMEO Manual 12.05.22
+CHAMORRO_ [cha] ; CAMEO Manual 12.05.22
+CHECHEN_ [che] ; CAMEO Manual 12.05.22
+CHEROKEE_ [chr] ; CAMEO Manual 12.05.22
+CHEWA_ [chw] ; CAMEO Manual 12.05.22
+NYANJA_SPEAKERS_[nya] ; CAMEO Manual 12.05.22
+CHEYENNE_ [chy] ; CAMEO Manual 12.05.22
+CHILEANS_ [chl] ; CAMEO Manual 12.05.22
+CHINOOK_ [chn] ; CAMEO Manual 12.05.22
+CHIPEWYAN_ [chp] ; CAMEO Manual 12.05.22
+CHOCTAW_ [cho] ; CAMEO Manual 12.05.22
+CH'ORTI'_ [cht] ; CAMEO Manual 12.05.22
++CHORTI_
+CHUKCHI_ [chc] ; CAMEO Manual 12.05.22
+CHUUKESE_ [chk] ; CAMEO Manual 12.05.22
+COOK_ISLANDS_MAORI_ [rar] ; CAMEO Manual 12.05.22
+CORNISH_ [cor] ; CAMEO Manual 12.05.22
+CORSICAN_ [cos] ; CAMEO Manual 12.05.22
+COSTA_RICANS_ [csr] ; CAMEO Manual 12.05.22
+COTIERS_ [cot] ; CAMEO Manual 12.05.22
+CREE_ [cre] ; CAMEO Manual 12.05.22
+CREOLE_ [crp] ; CAMEO Manual 12.05.22
+CRIMEAN_TATAR_ [crh] ; CAMEO Manual 12.05.22
+CROATS_ [hrv] ; CAMEO Manual 12.05.22
+CUSHITIC_ [cus] ; CAMEO Manual 12.05.22
+DAI_ [dai] ; CAMEO Manual 12.05.22
+DALIT_ [dal] ; CAMEO Manual 12.05.22
++BACKWARD_CLASSES_
++BACKWARD_CASTES_
++UNTOUCHABLES_  ; presumably politically incorrect now, though not sure it is any worse than the above
+DAMARA_ [dam] ; CAMEO Manual 12.05.22
+DANES_ [dan] ; CAMEO Manual 12.05.22
+DARGWA_ [dar] ; CAMEO Manual 12.05.22
++DARGINS_
+DAUR_ [dau] ; CAMEO Manual 12.05.22
+DAYAK_ [day] ; CAMEO Manual 12.05.22
+DINKA_ [din] ; CAMEO Manual 12.05.22
+DJERMA_SONGHAI_ [dje] ; CAMEO Manual 12.05.22
+DOGRAS_ [doi] ; CAMEO Manual 12.05.22
+DOGRIB_ [dgr] ; CAMEO Manual 12.05.22
+DOMINICANS_ [dom] ; CAMEO Manual 12.05.22
+DONG_ [don] ; CAMEO Manual 12.05.22
+DONGXIANG_ [dox] ; CAMEO Manual 12.05.22
+DRAVIDIAN_ [dra] ; CAMEO Manual 12.05.22
+DRUZE_ [dru] ; CAMEO Manual 12.05.22
+DYULA_ [dyu] ; CAMEO Manual 12.05.22
+EAST_INDIAN_ [ein] ; CAMEO Manual 12.05.22
+EAST_TIMORESE_ [eat] ; CAMEO Manual 12.05.22
+ECUADORIANS_ [ecu] ; CAMEO Manual 12.05.22
+EDO_ [bin] ; CAMEO Manual 12.05.22
+EFIK_ [efi] ; CAMEO Manual 12.05.22
+EKAJUK_ [eka] ; CAMEO Manual 12.05.22
+ENGLISH_ [eng] ; CAMEO Manual 12.05.22
+ENGLISH_CREOLE_ [cpe] ; CAMEO Manual 12.05.22
+ESHIRA_ [esh] ; CAMEO Manual 12.05.22
++BAPOUNOU_
+EUROPEANS_ [eur] ; CAMEO Manual 12.05.22
+EVENKS_ [eve] ; CAMEO Manual 12.05.22
+EWE_ [ewe] ; CAMEO Manual 12.05.22
+EWONDO_ [ewo] ; CAMEO Manual 12.05.22
+FANG_ [fan] ; CAMEO Manual 12.05.22
++ESTUARY_FANG_
+FANTE_ [fat] ; CAMEO Manual 12.05.22
+FAROESE_ [fao] ; CAMEO Manual 12.05.22
+FINNO_UGRIC_ [fiu] ; CAMEO Manual 12.05.22
+FINNS_ [fin] ; CAMEO Manual 12.05.22
+FON_ [fon] ; CAMEO Manual 12.05.22
+FRENCH_CREOLE_ [cpf] ; CAMEO Manual 12.05.22
+FRISIANS_ [frr] ; CAMEO Manual 12.05.22
+FRIULAN_ [fur] ; CAMEO Manual 12.05.22
+FULA_ [ful] ; CAMEO Manual 12.05.22
++FULANI_
+FUR_ [fru] ; CAMEO Manual 12.05.22
+GA_ [ada] ; CAMEO Manual 12.05.22
++GA_ADANGBE_
+GAELS_ [gla] ; CAMEO Manual 12.05.22
+GALICIAN_ [glg] ; CAMEO Manual 12.05.22
+GARIFUNA_ [gar] ; CAMEO Manual 12.05.22
++GARIFS_
+GAYO_ [gay] ; CAMEO Manual 12.05.22
+GBAYA_ [gba] ; CAMEO Manual 12.05.22
++BAYA_
+GELAO_ [gel] ; CAMEO Manual 12.05.22
++GELO_
+GIA_RAI_ [gia] ; CAMEO Manual 12.05.22
+GIN_ [gin] ; CAMEO Manual 12.05.22
++JING_
+GIO_ [gio] ; CAMEO Manual 12.05.22
+GONDI_ [gon] ; CAMEO Manual 12.05.22
+GORONTALONESE_ [gor] ; CAMEO Manual 12.05.22
++GORONTALOS_
+GRASSFIELDERS_ [gra] ; CAMEO Manual 12.05.22
+GREBO_ [grb] ; CAMEO Manual 12.05.22
+GUAN_ [gun] ; CAMEO Manual 12.05.22
+GUARANI_ [grn] ; CAMEO Manual 12.05.22
+GUJARATI_ [guj] ; CAMEO Manual 12.05.22
+GWICH'IN_ [gwi] ; CAMEO Manual 12.05.22
+HADJERAI_ [had] ; CAMEO Manual 12.05.22
+HAIDA_ [hai] ; CAMEO Manual 12.05.22
+HANI_ [hni] ; CAMEO Manual 12.05.22
+HARARI_ [har] ; CAMEO Manual 12.05.22
+HARATIN_ [hrt] ; CAMEO Manual 12.05.22
++BLACK_MOORS_
+HAUSA_ [hau] ; CAMEO Manual 12.05.22
++HAUSA_FULANI_
+HAWAIIAN_ [haw] ; CAMEO Manual 12.05.22
+HAZARA_ [haz] ; CAMEO Manual 12.05.22
+HERERO_ [her] ; CAMEO Manual 12.05.22
+HILIGAYON_ [hil] ; CAMEO Manual 12.05.22
+HILL_TRIBES_ [hgh] ; CAMEO Manual 12.05.22
+HIMACHALI_ [him] ; CAMEO Manual 12.05.22
+HIRI_MOTU_ [hmo] ; CAMEO Manual 12.05.22
+HMONG_ [hmn] ; CAMEO Manual 12.05.22
+HOA_ [hoa] ; CAMEO Manual 12.05.22
+HONDURANS_ [hon] ; CAMEO Manual 12.05.22
+HUI_ [hui] ; CAMEO Manual 12.05.22
+HUPA_ [hup] ; CAMEO Manual 12.05.22
+HUTU_ [hut] ; CAMEO Manual 12.05.22
+IBAN_ [iba] ; CAMEO Manual 12.05.22
+ICELANDERS_ [ice] ; CAMEO Manual 12.05.22
+IGBO_ [ibo] ; CAMEO Manual 12.05.22
+IJAW_ [ijo] ; CAMEO Manual 12.05.22
+ILOCONO_ [ilo] ; CAMEO Manual 12.05.22
+INDIGENOUS_ [idg] ; CAMEO Manual 12.05.22
+INGUSH_ [inh] ; CAMEO Manual 12.05.22
+INUIT_ [iku] ; CAMEO Manual 12.05.22
+INUPIAT_ [ipk] ; CAMEO Manual 12.05.22
+IROQUOIS_ [iro] ; CAMEO Manual 12.05.22
+ITALLIAN_ [ita] ; CAMEO Manual 12.05.22
+JAVANESE_ [jav] ; CAMEO Manual 12.05.22
+JINO_ [jin] ; CAMEO Manual 12.05.22
++JINUO_
+JOLA_ [jol] ; CAMEO Manual 12.05.22
++DIOLA_
+KABARDAY_ [kbd] ; CAMEO Manual 12.05.22
++KABARDINS_
+KABYE_ [kby] ; CAMEO Manual 12.05.22
++KABRE_
+KABYLE_ [kab] ; CAMEO Manual 12.05.22
+KACHIN_ [kac] ; CAMEO Manual 12.05.22
+KADAZAN_ [kad] ; CAMEO Manual 12.05.22
+KAKWA_NUBIAN_ [kak] ; CAMEO Manual 12.05.22
+KALAALLIT_ [kal] ; CAMEO Manual 12.05.22
+KALI'NA_ [car] ; CAMEO Manual 12.05.22
+KALMYK_ [xal] ; CAMEO Manual 12.05.22
+KAMBA_ [kam] ; CAMEO Manual 12.05.22
+KANNADA_ [kan] ; CAMEO Manual 12.05.22
+KANURI_ [kau] ; CAMEO Manual 12.05.22
++KANOURI_
+KAONDE_ [kao] ; CAMEO Manual 12.05.22
+KAPAMPANGAN_ [pam] ; CAMEO Manual 12.05.22
+KARACHAYS_ [kch] ; CAMEO Manual 12.05.22
++KARACHAI_
+KARAKALPAK_ [kaa] ; CAMEO Manual 12.05.22
+KARAMOJONG_ [krm] ; CAMEO Manual 12.05.22
+KARELIANS_ [krl] ; CAMEO Manual 12.05.22
+KAREN_ [kar] ; CAMEO Manual 12.05.22
++KAYIN_
+KASHMIRI_ [kas] ; CAMEO Manual 12.05.22
+KASHUBIAN_ [csb] ; CAMEO Manual 12.05.22
+KAVANGO_ [kav] ; CAMEO Manual 12.05.22
+KAZAKHS_ [kaz] ; CAMEO Manual 12.05.22
+KHAKAS_ [khk] ; CAMEO Manual 12.05.22
+KHASI_ [kha] ; CAMEO Manual 12.05.22
+KHMER_ [khm] ; CAMEO Manual 12.05.22
++KHMER_LOEI_
+KHMU_ [khu] ; CAMEO Manual 12.05.22
+KHOIKHOI_ [khi] ; CAMEO Manual 12.05.22
+KIKUYU_ [kik] ; CAMEO Manual 12.05.22
+KINYARWANDA_SPEAKERS_ [kin] ; CAMEO Manual 12.05.22
+KISII_ [kis] ; CAMEO Manual 12.05.22
+KOKANI_ [kok] ; CAMEO Manual 12.05.22
+KOMI_ [kom] ; CAMEO Manual 12.05.22
++KOMI_PERMYAKS_
+KONGO_ [kon] ; CAMEO Manual 12.05.22
+KONO_ [kno] ; CAMEO Manual 12.05.22
+KOSRAEAN_ [kos] ; CAMEO Manual 12.05.22
+KOUYOU_ [kou] ; CAMEO Manual 12.05.22
+KPELLE_ [kpe] ; CAMEO Manual 12.05.22
++GUERZE_
+KRAHN_ [krh] ; CAMEO Manual 12.05.22
++GUERE_
+KRU_ [kro] ; CAMEO Manual 12.05.22
+KTUNAXA_ [kut] ; CAMEO Manual 12.05.22
+KUMYKS_ [kum] ; CAMEO Manual 12.05.22
+KURD_ [kur] ; CAMEO Manual 12.05.22
+KURICHIYA_ [brm] ; CAMEO Manual 12.05.22
++HILL_BARHMINS_
+KURUKH_ [kru] ; CAMEO Manual 12.05.22
+KWANYAMA_ [kua] ; CAMEO Manual 12.05.22
++KIRGHIS_
++KIRGIZ_
+LAHU_ [lhu] ; CAMEO Manual 12.05.22
+LAK_ [lak] ; CAMEO Manual 12.05.22
+LAMBA_ [lam] ; CAMEO Manual 12.05.22
+LAO_ [lao] ; CAMEO Manual 12.05.22
+LARI_ [lar] ; CAMEO Manual 12.05.22
+LATINOS_ [ltn] ; CAMEO Manual 12.05.22
+LATOKA_ [ltk] ; CAMEO Manual 12.05.22
+LENAPE_ [del] ; CAMEO Manual 12.05.22
+LENCA_ [len] ; CAMEO Manual 12.05.22
+LEZGIAN_ [lez] ; CAMEO Manual 12.05.22
++LEZGINS_
+LI_ [lii] ; CAMEO Manual 12.05.22
+LIMBA_ [lba] ; CAMEO Manual 12.05.22
+LIMBURGIAN_ [lim] ; CAMEO Manual 12.05.22
+LINGALA_ [lin] ; CAMEO Manual 12.05.22
+LISU_ [lsu] ; CAMEO Manual 12.05.22
+LOMWE_ [lom] ; CAMEO Manual 12.05.22
++NGURU_
+LOVALE_ [lov] ; CAMEO Manual 12.05.22
+LOWER_SORBIAN_ [dsb] ; CAMEO Manual 12.05.22
+LOZI_ [loz] ; CAMEO Manual 12.05.22
++BAROTSE_
+LUBA_KASAI_ [lua] ; CAMEO Manual 12.05.22
+LUBA_KATANGA_ [lub] ; CAMEO Manual 12.05.22
+LUGBARA_ [lgb] ; CAMEO Manual 12.05.22
+LUHYA_ [luh] ; CAMEO Manual 12.05.22
+LUISENO_ [lui] ; CAMEO Manual 12.05.22
+LUMAD_ [mno] ; CAMEO Manual 12.05.22
+LUNDA_ [lun] ; CAMEO Manual 12.05.22
+LUO_ [luo] ; CAMEO Manual 12.05.22
+LUSEI_ [lus] ; CAMEO Manual 12.05.22
+LUXEMBOURGERS_ [ltz] ; CAMEO Manual 12.05.22
+MAASAI_ [mas] ; CAMEO Manual 12.05.22
+MADHESI_ [mdh] ; CAMEO Manual 12.05.22
+MADI_ [mdi] ; CAMEO Manual 12.05.22
+MADURESE_ [mad] ; CAMEO Manual 12.05.22
++MADURA_
+MAFWE_ [maf] ; CAMEO Manual 12.05.22
+MAGAHI_ [mag] ; CAMEO Manual 12.05.22
+MAITHILI_ [mai] ; CAMEO Manual 12.05.22
+MAKASSARESE_ [mak] ; CAMEO Manual 12.05.22
+MAKONDE_ [mok] ; CAMEO Manual 12.05.22
++MAKONDE_YAO_
+MALAYALAM_ [mal] ; CAMEO Manual 12.05.22
+MALAYS_ [may] ; CAMEO Manual 12.05.22
+MALDIVIAN_ [div] ; CAMEO Manual 12.05.22
+MANANJA_NAYANJA_ [mng] ; CAMEO Manual 12.05.22
+MANCHU_ [mnc] ; CAMEO Manual 12.05.22
+MANDAR_ [mdr] ; CAMEO Manual 12.05.22
+MANDE_ [mnd] ; CAMEO Manual 12.05.22
+MANDINKA_ [man] ; CAMEO Manual 12.05.22
++MANDIGO_
++MANDINGUE_
+MANIPURI_ [mni] ; CAMEO Manual 12.05.22
+MANJACK_ [mnj] ; CAMEO Manual 12.05.22
++MANJACO_
+MANO_ [mnn] ; CAMEO Manual 12.05.22
+MANYIKA_ [mny] ; CAMEO Manual 12.05.22
+MAONAN_ [mon] ; CAMEO Manual 12.05.22
+MAORI_ [mao] ; CAMEO Manual 12.05.22
+MAPUCHE_ [arn] ; CAMEO Manual 12.05.22
+MARATHI_ [mar] ; CAMEO Manual 12.05.22
+MARI_ [chm] ; CAMEO Manual 12.05.22
+MARWARIS_ [mwr] ; CAMEO Manual 12.05.22
+MAYA_ [myn] ; CAMEO Manual 12.05.22
+MAYANGNAS_ [mya] ; CAMEO Manual 12.05.22
+M'BAKA_ [mbk] ; CAMEO Manual 12.05.22
+MBANDJA_ [mba] ; CAMEO Manual 12.05.22
+MBERE_ [mbe] ; CAMEO Manual 12.05.22
++MBEDE_
+MBOCHI_ [mbo] ; CAMEO Manual 12.05.22
+MBUNDU_MESTICO_ [mbu] ; CAMEO Manual 12.05.22
+MENDE_ [men] ; CAMEO Manual 12.05.22
+MESTIZO_ [mtz] ; CAMEO Manual 12.05.22
+MIAO_ [mia] ; CAMEO Manual 12.05.22
+MIJIKENDA_ [mij] ; CAMEO Manual 12.05.22
+MI'KMAQ_ [mic] ; CAMEO Manual 12.05.22
+MINAHASA_ [mnh] ; CAMEO Manual 12.05.22
+MINANGKABAU_ [min] ; CAMEO Manual 12.05.22
+MIRANDESE_ [mwl] ; CAMEO Manual 12.05.22
+MISKITO_ [msk] ; CAMEO Manual 12.05.22
+MIZO_ [miz] ; CAMEO Manual 12.05.22
+MOHAJIRS_ [moh] ; CAMEO Manual 12.05.22
+MOHAWK_ [moh] ; CAMEO Manual 12.05.22
+MOKSHAS_ [mdf] ; CAMEO Manual 12.05.22
+MOLE_DAGBANI_ [mld] ; CAMEO Manual 12.05.22
+MON_ [mns] ; CAMEO Manual 12.05.22
+MONGO_ [lol] ; CAMEO Manual 12.05.22
++MONGOLIANS_  [mon] ; CAMEO Manual 12.05.22
+MONGOUR_ [tuu] ; CAMEO Manual 12.05.22
++TU_
+MONTENEGRINS_ [mtn] ; CAMEO Manual 12.05.22
+MORDVINS_ [myv] ; CAMEO Manual 12.05.22
++MORDVA_
+MORO_ [mro] ; CAMEO Manual 12.05.22
+MOSSI_ [mos] ; CAMEO Manual 12.05.22
+MULAO_ [mlo] ; CAMEO Manual 12.05.22
+MULATTO_ [mla] ; CAMEO Manual 12.05.22
+MUNDA_ [mun] ; CAMEO Manual 12.05.22
+MUONG_ [muo] ; CAMEO Manual 12.05.22
+MUSCOGEE_ [mus] ; CAMEO Manual 12.05.22
+MYENE_ [mye] ; CAMEO Manual 12.05.22
+NAGA_ [nag] ; CAMEO Manual 12.05.22
+NAHUA_ [nah] ; CAMEO Manual 12.05.22
+NAKHI_ [nax] ; CAMEO Manual 12.05.22
++NAXI_
+NAMA_ [nam] ; CAMEO Manual 12.05.22
+NATIVE_AMERICAN_ [nai] ; CAMEO Manual 12.05.22
+NAVAJO_ [nav] ; CAMEO Manual 12.05.22
+NDONGA_ [ndo] ; CAMEO Manual 12.05.22
+NEAPOLITAN_ [nap] ; CAMEO Manual 12.05.22
+NEPALI_ [nep] ; CAMEO Manual 12.05.22
+NEW_ZEALANDERS_ [nze] ; CAMEO Manual 12.05.22
+NEWARS_ [new] ; CAMEO Manual 12.05.22
+NGALOP_ [dzo] ; CAMEO Manual 12.05.22
+NGBANDI_ [ngn] ; CAMEO Manual 12.05.22
+NGONI_ [ngo] ; CAMEO Manual 12.05.22
+NIARI_ [nir] ; CAMEO Manual 12.05.22
+NIASANS_ [nia] ; CAMEO Manual 12.05.22
+NIBOLEK_ [nib] ; CAMEO Manual 12.05.22
+NKOMI_ [nkm] ; CAMEO Manual 12.05.22
+NOGAIS_ [nog] ; CAMEO Manual 12.05.22
+NORTH_MBUNDU_ [kmb] ; CAMEO Manual 12.05.22
+NORTHERN_NDEBELE_ [nde] ; CAMEO Manual 12.05.22
+NORTHERN_SOTHO_ [nso] ; CAMEO Manual 12.05.22
+NORWEGIANS_ [nor] ; CAMEO Manual 12.05.22
+NU_ [nuu] ; CAMEO Manual 12.05.22
+NUBA_ [nba] ; CAMEO Manual 12.05.22
+NUBIAN_ [nub] ; CAMEO Manual 12.05.22
+NUER_ [ner] ; CAMEO Manual 12.05.22
+NUNG_ [nng] ; CAMEO Manual 12.05.22
+NURISTANI_ [nur] ; CAMEO Manual 12.05.22
+NYAKYUSA_ [nyk] ; CAMEO Manual 12.05.22
+NYAMWEZI_ [nym] ; CAMEO Manual 12.05.22
+NYORO_ [nyo] ; CAMEO Manual 12.05.22
+NZEMA_ [nzi] ; CAMEO Manual 12.05.22
+OCCITANIANS_ [oci] ; CAMEO Manual 12.05.22
+OGONI_ [ogo] ; CAMEO Manual 12.05.22
+OJIBWE_ [oji] ; CAMEO Manual 12.05.22
+OKINAWAN_ [oki] ; CAMEO Manual 12.05.22
+ORGUNU_ [oru] ; CAMEO Manual 12.05.22
+ORIYA_ [ori] ; CAMEO Manual 12.05.22
+OROMO_ [orm] ; CAMEO Manual 12.05.22
+OSAGE_ [osa] ; CAMEO Manual 12.05.22
+OSSETIANS_ [oss] ; CAMEO Manual 12.05.22
++OSSETES_
+OTOMI_ [oto] ; CAMEO Manual 12.05.22
+OVAMBO_ [ova] ; CAMEO Manual 12.05.22
+PACIFIC_ISLANDERS_ [pac] ; CAMEO Manual 12.05.22
+PAHARI_RAJPUT_ [ran] ; CAMEO Manual 12.05.22
++RANA_
++THAKURI_
+PANAMANIANS_ [pnm] ; CAMEO Manual 12.05.22
+PANGASINAN_ [pag] ; CAMEO Manual 12.05.22
+PAPEL_ [ppl] ; CAMEO Manual 12.05.22
+PAPIAMENTO_CREOLE_ [pap] ; CAMEO Manual 12.05.22
+PAPUAN_ [paa] ; CAMEO Manual 12.05.22
+PASHAYI_ [psh] ; CAMEO Manual 12.05.22
++PASHAI_
+PASHTUN_ [pus] ; CAMEO Manual 12.05.22
+PEHNPEIAN_ [pon] ; CAMEO Manual 12.05.22
+PERSIAN_ [per] ; CAMEO Manual 12.05.22
+POLES_ [pol] ; CAMEO Manual 12.05.22
+POMAKS_ [pom] ; CAMEO Manual 12.05.22
+PORTUGUESE_CREOLE_ [cpp] ; CAMEO Manual 12.05.22
+PUMI_ [pum] ; CAMEO Manual 12.05.22
+PUNJABI_ [pan] ; CAMEO Manual 12.05.22
+PUTHAI_ [phu] ; CAMEO Manual 12.05.22
++PHUTHAI_
+QIANG_ [qia] ; CAMEO Manual 12.05.22
+QIZILBASH_ [qiz] ; CAMEO Manual 12.05.22
+QUECHUA_ [que] ; CAMEO Manual 12.05.22
+RAJASTHANI_ [raj] ; CAMEO Manual 12.05.22
+RAKHINE_ [bda] ; CAMEO Manual 12.05.22
++BUDDIST_ARAKANESE_
+RAPA_NUI_ [rap] ; CAMEO Manual 12.05.22
+ROMANI_ [rom] ; CAMEO Manual 12.05.22
+ROMANSH_ [roh] ; CAMEO Manual 12.05.22
+RUNDI_ [run] ; CAMEO Manual 12.05.22
+SALAR_ [slr] ; CAMEO Manual 12.05.22
+SALISH_ [sal] ; CAMEO Manual 12.05.22
+SAMI_ [smi] ; CAMEO Manual 12.05.22
+SAMOANS_ [smo] ; CAMEO Manual 12.05.22
+SANDAWE_ [sad] ; CAMEO Manual 12.05.22
+SANGO_ [sag] ; CAMEO Manual 12.05.22
+SANTALS_ [fri] ; CAMEO Manual 12.05.22
+SARA_ [sar] ; CAMEO Manual 12.05.22
+SARDINIAN_ [srd] ; CAMEO Manual 12.05.22
+SASAK_ [sas] ; CAMEO Manual 12.05.22
+SCOTTISH_ [sco] ; CAMEO Manual 12.05.22
++SCOTS_
+SELKUP_ [sel] ; CAMEO Manual 12.05.22
+SENA_ [sen] ; CAMEO Manual 12.05.22
+SERBS_ [srp] ; CAMEO Manual 12.05.22
+SERER_ [srr] ; CAMEO Manual 12.05.22
+SHAIGIYA_ [shy] ; CAMEO Manual 12.05.22
+SHAN_ [shn] ; CAMEO Manual 12.05.22
+SHE_ [she] ; CAMEO Manual 12.05.22
+SHILLUK_ [shl] ; CAMEO Manual 12.05.22
+SHONA_ [sna] ; CAMEO Manual 12.05.22
++NDAU_
+SICILIAN_ [scn] ; CAMEO Manual 12.05.22
+SIDAMA_ [sid] ; CAMEO Manual 12.05.22
+SIKSIKAWA_ [bla] ; CAMEO Manual 12.05.22
+SINDHI_ [snd] ; CAMEO Manual 12.05.22
+SINHALESE_ [sin] ; CAMEO Manual 12.05.22
+SIOUAN_ [sio] ; CAMEO Manual 12.05.22
+SIOUX_ [dak] ; CAMEO Manual 12.05.22
+SLAVIC_ [sla] ; CAMEO Manual 12.05.22
+SLOVAKS_ [slo] ; CAMEO Manual 12.05.22
+SLOVENES_ [slv] ; CAMEO Manual 12.05.22
+SONGHAI_ [son] ; CAMEO Manual 12.05.22
+SONINKE_ [snk] ; CAMEO Manual 12.05.22
+SORBS_ [wen] ; CAMEO Manual 12.05.22
+SOTHO_ [sot] ; CAMEO Manual 12.05.22
+SOUTH_NDEBELE_ [nbl] ; CAMEO Manual 12.05.22
+SOUTHERN_MBUNDU_ [umb] ; CAMEO Manual 12.05.22
+SRANAN_TONGO_ [srn] ; CAMEO Manual 12.05.22
+SUBIYA_ [bsu] ; CAMEO Manual 12.05.22
++BASUBIA_
+SUI_ [sui] ; CAMEO Manual 12.05.22
+SUKAMA_ [suk] ; CAMEO Manual 12.05.22
+SUSU_ [sus] ; CAMEO Manual 12.05.22
+SWAHILI_ [swa] ; CAMEO Manual 12.05.22
+SWEDES_ [swe] ; CAMEO Manual 12.05.22
+SWISS_FRENCH_ [swf] ; CAMEO Manual 12.05.22
+SWISS_GERMANS_ [gsw] ; CAMEO Manual 12.05.22
+SWISS_ITALIAN_ [swt] ; CAMEO Manual 12.05.22
+TABASARAN_ [tab] ; CAMEO Manual 12.05.22
+TAGALOG_ [tgl] ; CAMEO Manual 12.05.22
+TAHITIAN_ [tah] ; CAMEO Manual 12.05.22
+TAI_ [tai] ; CAMEO Manual 12.05.22
++THA_
++TAI_LU_
++TAI_YUAN_
++PAMIR_TAJIKS_
+TAMA_ [tms] ; CAMEO Manual 12.05.22
+TAMIL_ [tam] ; CAMEO Manual 12.05.22
+TATARS_ [tat] ; CAMEO Manual 12.05.22
+TAWAHKA_ [taw] ; CAMEO Manual 12.05.22
+TAY_ [tay] ; CAMEO Manual 12.05.22
+TELUGU_ [tel] ; CAMEO Manual 12.05.22
+TEMNE_ [tem] ; CAMEO Manual 12.05.22
+TERENAN_ [ter] ; CAMEO Manual 12.05.22
+TERNATE_ [trn] ; CAMEO Manual 12.05.22
+TESO_ [tes] ; CAMEO Manual 12.05.22
+TETUM_ [tet] ; CAMEO Manual 12.05.22
+TIBETAN_ [tib] ; CAMEO Manual 12.05.22
+TIGRAY_TIGRINYA_ [tir] ; CAMEO Manual 12.05.22
++TIGRY_
+TIGRE_ [tig] ; CAMEO Manual 12.05.22
+TIV_ [tiv] ; CAMEO Manual 12.05.22
+TLINGIT_ [tli] ; CAMEO Manual 12.05.22
+TOK_PISIN_ [tpi] ; CAMEO Manual 12.05.22
+TONGA_(AFRICA)_ [tog] ; CAMEO Manual 12.05.22
+TONGA_(PACIFIC)_ [ton] ; CAMEO Manual 12.05.22
+TOORO_ [tor] ; CAMEO Manual 12.05.22
+TOUBOU_ [tou] ; CAMEO Manual 12.05.22
+TRANSNISTRIANS_ [tra] ; CAMEO Manual 12.05.22
+TRIPURI_ [tri] ; CAMEO Manual 12.05.22
+TSIMSHIAN_ [tsi] ; CAMEO Manual 12.05.22
+TSONGA_ [tso] ; CAMEO Manual 12.05.22
++TSONGA_CHOPI_
+TSWANA_ [tsn] ; CAMEO Manual 12.05.22
+TUAREG_ [tmh] ; CAMEO Manual 12.05.22
+TUJIA_ [tuj] ; CAMEO Manual 12.05.22
+TUMBUKA_ [tum] ; CAMEO Manual 12.05.22
+TUPI_ [tup] ; CAMEO Manual 12.05.22
++TUPI_GUARANI_
++TURKS_
+TUTSI_ [tts] ; CAMEO Manual 12.05.22
++TUTSI_BANYAMULENGE_
+TUVALUANS_ [tvl] ; CAMEO Manual 12.05.22
+TUVANS_ [tyv] ; CAMEO Manual 12.05.22
++TUVINIANS_
+UKRANIAN_ [ukr] ; CAMEO Manual 12.05.22
+UPPER_SORBIAN_ [hsb] ; CAMEO Manual 12.05.22
+URBAN_NI_VANAUTU_ [bis] ; CAMEO Manual 12.05.22
+URDU_ [urd] ; CAMEO Manual 12.05.22
+UYGHUR_ [uig] ; CAMEO Manual 12.05.22
++UIGHUR_
+UZBEKS_ [uzb] ; CAMEO Manual 12.05.22
+VA_ [vaa] ; CAMEO Manual 12.05.22
++WA_
+VAI_ [vai] ; CAMEO Manual 12.05.22
+VENDA_ [ven] ; CAMEO Manual 12.05.22
++KINH_
+VILI_ [vil] ; CAMEO Manual 12.05.22
+WAKASHAN_ [wak] ; CAMEO Manual 12.05.22
+WALLOONS_ [wln] ; CAMEO Manual 12.05.22
+WARAY_ [war] ; CAMEO Manual 12.05.22
+WASHOE_ [was] ; CAMEO Manual 12.05.22
+WELAYTA_ [wal] ; CAMEO Manual 12.05.22
+WOLOF_ [wol] ; CAMEO Manual 12.05.22
+XHOSA_ [xho] ; CAMEO Manual 12.05.22
+XIBE_ [xib] ; CAMEO Manual 12.05.22
+XINCA_ [xnc] ; CAMEO Manual 12.05.22
+YAKUTS_ [sah] ; CAMEO Manual 12.05.22
+YAO_(AFRICA)_ [yao] ; CAMEO Manual 12.05.22
+YAO_(ASIA)_ [dao] ; CAMEO Manual 12.05.22
++DAO_
+YAPESE_ [yap] ; CAMEO Manual 12.05.22
+YI_ [iii] ; CAMEO Manual 12.05.22
+YORUBA_ [yor] ; CAMEO Manual 12.05.22
+YUGUR_ [yug] ; CAMEO Manual 12.05.22
+YUPIK_ [ypk] ; CAMEO Manual 12.05.22
+ZAGHAWA_ [zag] ; CAMEO Manual 12.05.22
+ZAIDIYYA_ [zay] ; CAMEO Manual 12.05.22
++ZAYDIS_
+ZAPOTEC_ [zap] ; CAMEO Manual 12.05.22
+ZAZA_ [zza] ; CAMEO Manual 12.05.22
+ZENAGA_ [zen] ; CAMEO Manual 12.05.22
+ZHUANG_ [zha] ; CAMEO Manual 12.05.22
+ZOMI_ [zom] ; CAMEO Manual 12.05.22
++CHINS_
+ZULU_ [zul] ; CAMEO Manual 12.05.22
+ZUNI_ [zun] ; CAMEO Manual 12.05.22

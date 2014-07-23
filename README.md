@@ -1,6 +1,8 @@
 PETRARCH Dictionary Formats
 ===========================
 
+**This branch includes a major reorganization of the Petrarch dictionaries. The objective of this reorganization is to ensure that all the relevant dictionary entries are available to Petrarch and to make it much more intuitive to add entries in the future.** 
+
 There are five separate input dictionaries or lists that PETRACH makes use of:
 the verb dictionary, the actor dictionary, the agent dictionary, the discard
 list, and the issues list. The following sections describe these files in

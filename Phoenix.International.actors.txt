@@ -296,14 +296,24 @@ PIERRE_PAUL_SCHWEITZER_	[IGOBUSIMF 630901-730831]; IGOrulers.txt
 
 
 ######  The European Union  ######
-
+# How about IGOEUU for the EU?
+# IGOECC for the ECC (back in the day)
+# IGOCOE for the council of Europe?
 # Ugh, lots of CoEs coded as EU.
 THE_EUROPEAN_UNION_
 +EUROPEAN_UNION_
 +THE_EU_	
 	[IGOEUREEC] ;MleH 09 Jul 2009; NGO_Actors
+EU_HIGH_REPRESENTATIVE
+    [IGOEUREEC]
 AMINTORE_FANFANI_	[IGOEUREEC 650701-651231] ; president of the CoEU from ITALY; IGOrulers.txt
 ATTILIO_RUFFINI_	[IGOEUREEC 800101-800630] ; president of the CoEU from ITALY; IGOrulers.txt
+CATHERINE_ASHTON
++LADY_ASHTON
++LADY_CATHERINE_ASHTON
++BARONESS_ASHTON
++BARONESS_CATHERINE_ASHTON
+    [IGOEUREEC]
 CHARLES_WHITELEY_	[IGOEUREEC] ;MleH 24 Jul 2009; NGO_Actors
 JAVIER_SOLANA_	[IGOEUREEC 950701-951231][IGOWSTNAT 951205-991006] ; president of the CoEU from SPAIN; IGOrulers.txt
 JEAN_FRANCOIS_PONCET_	[IGOEUREEC 790101-790630] ; president of the CoEU from FRANCE; IGOrulers.txt
@@ -394,6 +404,43 @@ WIM_DUISENBERG_	[IGOEUREEC 970701-980531]	; The EU	; The EU
 WIM_VAN_EEKELEN_	[IGOEUREEC 890515-941115]	; Western European Union
 ALEXANDRE_LAMFALUSSY_	[IGOEUREEC 940101-970630]	; The EU
 
+#####  Media Sources  #######
+# What's the best way to code these? No idea right now
+# Do they get coded to countries? (Silly for Reuters, makes sense for
+# DC_REPORTER
+REUTERS
+    [MED]
+THE_GUARDIAN
+    [MED]
+NEW_YORK_TIMES
+    [MED]
+WASHINGTON_POST
+    [MED]
+ASSOCIATED_PRESS
+    [MED]
+AL-JAZEERA
++QATAR-BASED_BROADCASTER_AL-JAZEERA
++QATAR-BASED_AL-JAZEERA
+    [MED]
+XINHUA
+    [MED]
+WALL_STREET_JOURNAL
+    [MED]
+BBC_WORLD_SERVICE
+    [MED]
+GLENN_GREENWALD
+    [MED]
+BUZZFEED
+    [MED]
+DC_JOURNALIST
++DC_REPORTER
+    [MED]
+HAARETZ
+    [ISRMED]
+SPIEGEL
+    [DEUMED]
+DUBAI-BASED_BROADCASTER_AL-ARABIYA
+    [MED]
 
 #####   Other IGOs  #######
 ARAB_MAGHREB_UNION_	[IGOMEAAMU]; is North Africa really the Middle East?; NGO_Actors

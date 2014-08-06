@@ -635,6 +635,8 @@ REPORT
 - $ * HAS LIFTED RESTRICTIONS ON + [013]  # SAY <ELH 01 Apr 2008> 
 - * UNACCEPTABLE CONSTITUTION PLAN [1234]  # DESCRIBE <OY 17 Mar 2006> 
 - * + APPEAR BEHIND &WEAPON ATTACK [112]  # SAY <SPK 18 Apr 2008> 
+- * + WAS BEHIND THE ATTACK [112]
+- $ * IT HAS OBTAINED EVIDENCE PROVING + WAS BEHIND THE CHEMICAL ATTACK [1124] # didn't work
 - * HAVE BEEN AUTHORIZED TO ATTACK [138]  # SAY
 - * EXPECTS TO SEND MORE &MILITARY [0332]  # SAY
 - ^ $ * CONCERN OVER CLASHES AT + [012]  # EXPRESS <ELH 05 May 2008> 
@@ -2623,6 +2625,7 @@ BOMB
 - * CARS [182]  # PELT
 - * AT + [190]  # FIRE <OY 24 Jul 2003> 
 - *_OFF [110]  # FIRE <HUX 12/29/97> 
+- $ * AS FARCICAL + [111]
 
 --- DISTURB [140] --- 
 DISTURB 
@@ -5170,7 +5173,8 @@ FULFILL
 ACCOMPLISH 
 ACHIEVE 
 - ALMOST * + RECOMMENDATIONS [060]  # FULFILL <ELH 28 May 2008> 
-- WILL * CRITERIA [030]  # FULFILL <OY 18 Mar 2006> 
+- WILL * CRITERIA [030]  # FULFILL <OY 18 Mar 2006>
+- $ * A REQUEST BY + [080]
 
 --- YIELD [080] --- 
 YIELD [080] 
@@ -6037,10 +6041,9 @@ SPRING
 - * TO &DEFENSE OF ^ HITTING_OUT AT + [110]  # JUMP <OY 11 Mar 2006> 
 
 --- KILL [190] ---
-KILL 
-ASSASSINATE [186] 
-SHOOT_DOWN {SHOT_DOWN }
-STAMP_OUT 
+KILL                    # These are synonyms to normal people, but kill, assassinate,   
+SHOOT_DOWN {SHOT_DOWN } # and massace are different CAMEO codes. I've started to break 
+STAMP_OUT               # these up but there's more to do.
 WIPE_OUT 
 MURDER [190] 
 SLAY {SLAYS SLAIN SLAYING}
@@ -6052,9 +6055,9 @@ STRING_UP {STRUNG_UP }
 KIDNAPPED_AND_KILLED  [180] 
 KILLED_AND 
 KILLED_OR 
-MASSACRE  # OY 10 Mar 2006
-SLAUGHTER [193] 
-BUTCHER 
+# MASSACRE  # Moved below
+# SLAUGHTER [193] 
+# BUTCHER 
 - + *_WOUNDED WHEN $ &AIRCRAFT ATTACKED [194]  # KILLED_AND <OY 30 Jul 2003> 
 - + &AUXVERB1 * IN CLASH &PREPOSIT1 $ [190:190]  # KILL
 - &PEOPLE WERE * WHEN $ FORCE IN + [190]  # KILL <oy 02 Mar 2006> 
@@ -6205,8 +6208,10 @@ BUTCHER
 - * + IN AMBUSH [190]  # KILL <oy 28 Nov 2005> 
 - * + KIDNAPPED [1823]  # BEHEAD <sls 28 Mar 2008> 
 - AIRSTRIKE * + [195]  # KILL <sls 19 Feb 2008> 
+- + WERE * IN $ AIRSTRIKE [195]
+- + WERE * IN $ AIRSTRIKE [195]
 - * IN ACCIDENT [---]  # KILLED_AND <oy 28 Nov 2005> 
-- GUNMEN * IN $ [202]  # MASSACRE <sls  26 Mar 2008> 
+- GUNMEN * IN $ [190]  
 - + HAD_BEEN * [190]  # KILL <maribel 2/25/98> 
 - * + IN CLASH [193]  # KILL <SPK 17 Mar 2008>  , KILL <OY 13 Mar 2006>  , KILL <SLS 02 Apr 2008> 
 - * FOR MURDER [---]  # BEHEAD <lrp 11 Nov 2005> 
@@ -6217,24 +6222,43 @@ BUTCHER
 - * + FIGHTER [190]  # KILL <SLS 02 Apr 2008> 
 - SAID PLOT * [010]  # ASSASSINATE <sls 12 Jul 2007> 
 - * OF + BY $ [190]  # KILL <JON 5/8/95> 
-- * + IN RAID [202]  # MASSACRE <oy 06 Dec 2005> 
+- * + IN RAID [190] 
 - SARAJEVO_* [---]  # MASSACRE <oy 12 Nov 2005> 
 - * IN_FLOOD [---]  # KILL <sls 26 Mar 2008> 
 - * BY_NAZIS [---]  # KILL <ns 6/15/01> 
-- * CIVILIAN [202]  # MASSACRE <oy 06 Dec 2005> 
+- * CIVILIAN [202] 
 - $ * + IN ^ [190]  # KILL <oy 02 Mar 2006> 
 - * IN RAID [190]  # KILL <oy 02 Mar 2006> 
-- ATTEMPT * [185]  # ASSASSINATE
-- + * IN $ [186]  # ASSASSINATE <OY 25 Jul 2003>  , MASSACRE <oy 06 Dec 2005> 
-- * + IN $ [186]  # ASSASSINATE <ms 11 Jan 2008> 
+- + * IN $ [190]  
+- * + IN $ [190] 
 - * WHEN $ [190]  # KILL <maribel 2/28/98> 
 - TOLD + * [1124]  # KILL <oy 06 Dec 2005> 
 - + *_IN_$ [190]  # KILL <SLS 23 Feb 2008> 
 - GUNMEN * [193]  # KILL <Maribel 2/16/98> 
 - VIRUS * [---]  # KILL <BNL 8/24/01> 
 - AFTER * [---]  # KILL <ab 10 Jul 2003> 
-- + WAS * [186]  # ASSASSINATE <OY 25 Jul 2003> 
+- + WAS * [193]   
 - $ * + [190]  # KILL <OY 06 Mar 2006> 
+
+--- ASSASSINATE [186] ---
+ASSASSINATE
+- + WAS * [186] 
+- ATTEMPT * [185]  # ASSASSINATE
+- + * IN $ [186]  # ASSASSINATE <OY 25 Jul 2003>  , MASSACRE <oy 06 Dec 2005> 
+- * + IN $ [186]  # ASSASSINATE <ms 11 Jan 2008>
+
+--- MASSACRE [202] ---
+MASSACRE
+SLAUGHTER
+BUTCHER
+- TOLD + * [1124]
+- * CIVILIAN [202]  # MASSACRE <oy 06 Dec 2005> 
+- * + IN RAID [202]  
+- + WERE * IN RAID [202]
+- + &AUXVERB1 * IN ATTACK BY $ [202]
+- + &AUXVERB1 * BY $ [202]
+- GUNMEN * IN $ [202]
+- $ * + [202]
 
 --- ALLAY [017] --- 
 ALLAY 
@@ -7911,7 +7935,7 @@ SIDED_WITH
 - ORDERED RESTRICTION * [100]  # COOPERATE
 - MAJOR_PROGRESS * [050]  # COOPERATE <ab 31 Dec 2005> 
 - WILL NOT * WITH [120]  # COOPERATE <BNL 25 Apr 2003> 
-- TOLD HAD TO * [100]  # COOPERATE <JON 3/7/95> 
+- TIVILIAN [202]  # MASSACRE <oy 06 Dec 2005> 
 - % * ON CUSTOM [0311]  # COOPERATE <ab 31 Dec 2005> 
 - % * ON TARIFF [0311]  # COOPERATE <ab 31 Dec 2005> 
 - * WITH + IN [060:060]  # COLLABORATE <ms 13 Mar 2008> 
@@ -11357,7 +11381,7 @@ WRECK
 - * &WEAPON [195]  # SLAM <mj 30 Oct 2006>  , SLAM
 - *_VICTIM [---]  # CRASH <HUX 1/6/98> 
 - SHELLS * [194]  # CRASH
-- * INTO + [190]  # CRASH <MARIBEL 2/18/98> 
+#- * INTO + [190]  # CRASH <MARIBEL 2/18/98>  # too general
 - * ACTION [111]  # SLAM <NS 03 Jan 2002> 
 - * + PLAN [111]  # SLAM <sls 26 Feb 2008> 
 - ROCKET * [194]  # SLAM
@@ -11788,6 +11812,7 @@ APPROACH
 - HAD * IN [042:043]  # ARRIVE <ab 31 Dec 2005> 
 - * SUMMIT [046]  # ARRIVE <OY 23 Jul 2003>  , ARRIVE
 - WILL * [036]  # ARRIVE <OY 23 Jul 2003> 
+
 
 --- POUND [190] --- 
 POUND 
@@ -13408,7 +13433,7 @@ RESUME  # JW   11/14/91
 - WILL ONLY * TIES WITH + IF [100]  # RESUME <sls 17 Mar 2008> 
 - DELIVERY OF &FOOD TO + * $ [073]  # RESUME <OY 14 Mar 2006> 
 - * EFFORT TO END BLOODSHED [037]  # RESUME <oy 29 Nov 2005> 
-- SPECULAT % MAY * DIPLOMAT [030]  # RESUME <oy 29 Nov 2005> 
+- SPECULATE % MAY * DIPLOMAT [030]  # RESUME <oy 29 Nov 2005> 
 - * + IMPORT AFTER SANCTION [085]  # RESUME <oy 29 Nov 2005> 
 - UNCOMFORTABLE * RELATION [110]  # RESUME <sms 14 Sep 2007> 
 - * DISMANTLING EQUIPMENT [1712]  # RESUME <ss 29 Jun 2007> 
@@ -13496,8 +13521,8 @@ GAMBLE
 - SAID VIOLENCE * [012]  # RISK
 - RUN * [012]  # RISK <pas 97.10.9> 
 
---- ROUT [190] --- 
-ROUT  # MleH 24 Jul 2009
+#--- ROUT [190] ---        # taking out for now--trying to get the 190s down
+#ROUT  # MleH 24 Jul 2009
 
 --- RUMBLE [---] --- 
 RUMBLE  # oy 14 Nov 2005
@@ -13506,8 +13531,8 @@ RUMBLE  # oy 14 Nov 2005
 --- SALVAGE [---] --- 
 SALVAGE 
 
---- SINK [190] --- 
-SINK {SANK SUNK SINKS SINKING}  # hux 11/26/95
+#--- SINK [190] --- 
+#SINK {SANK SUNK SINKS SINKING}  # hux 11/26/95
 
 --- SAVAGE [111] --- 
 SAVAGE  # 0Y 30 Jul 2003

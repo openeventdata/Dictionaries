@@ -1,0 +1,1432 @@
+\documentclass[11pt]{report}
+\usepackage[left=1in,top=1in,right=1in,bottom=1in]{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\geometry{letterpaper} % or letter or a5paper or ... etc
+\pagestyle{headings}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage[usenames]{color}
+\definecolor{purple}{rgb}{.5, 0, .5}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{natbib}
+
+\newcommand{\perl}{\texttt{perl }}
+\newcommand{\TAB}{\textsc{Tabari }}
+\newcommand{\TABx}{\textsc{Tabari}}
+\newcommand{\KEDS}{\textsc{Keds }}
+\newcommand{\KT}{\textsc{Keds/Tabari}}
+\newcommand{\JAB}{\textsc{Jabari-NLP }}
+\newcommand{\JABx}{\textsc{Jabari-NLP}}
+\newcommand{\url}[1]{\small{\mbox{\texttt{#1}}}\normalsize} % URLs
+
+
+\title{CAMEO\\ Conflict and Mediation Event Observations\\ Event and Actor Codebook}
+\date{Version: 1.1b3\\ March 2012}
+\author{Event Data Project\\ Department of Political Science\\Pennsylvania State University\\ Pond Laboratory\\ University Park, PA 16802\\\\ http://eventdata.psu.edu/\\\\ Philip A. Schrodt (Project Director):\\ $<schrodt@psu.edu>$\\  (+1)814.863.8978\\\\ }
+	
+\begin{document}
+
+\maketitle
+
+\pagenumbering{roman}
+\tableofcontents
+\setcounter{tocdepth}{3}
+\listoftables
+
+\chapter*{Acknowledgments}
+
+The CAMEO event coding ontology has been developed over a period of more than a decade and has benefitted from substantial contributions by a number of people. At the risk of missing some people, the major contributors have been: \\
+
+\noindent Initial development of verb and actor ontology (2000-2003): Deborah J. Gerner, \"Om\"ur Yilmaz, Philip A. Schrodt  \\
+
+\noindent Refinements of actor ontology (2004-2007): Dennis Hermrick,  Baris Kesgin, Peter Picucci, Joseph Pull, Almas Sayeed, Sarah Stacey \\
+
+\noindent Organized Religion (2009-2011): Matthias Heilke \\
+
+\noindent Ethnic Groups (2011): Jay Yonamine, Benjamin Bagozzi \\
+
+\noindent Funding for CAMEO has been provided by  the National Science Foundation (SES-0096086, SES-0455158, SES-0527564, SES-1004414)\\
+
+\noindent This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.\\
+
+\noindent Latest update: \today
+
+
+\chapter*{Preface: About This Manual}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.25\textwidth]{underconstruction}
+ \label{fig:gr1-1}
+\end{figure}
+
+
+In the early days of the web, one would frequently encounter pages highlighted with the phrase ``Under Construction'' along with some icon, at varying levels of cleverness, invoking roadwork, . These have become less frequent since as the norms of the Web evolved, and the community came to collectively recognize that almost every web site is always ``Under construction."
+
+As is this manual. The CAMEO system has been a work-in-progress since it began in 2000, and this manual has been an effort to track and codify those efforts, but is now, and always has been, a working document that has been primarily intended to be used internally at the event data projects first at Kansas, and then at Penn State. Nonetheless, it has information that other people have found useful, and given that one of the first things that seems to get \textit{lost} in coding projects is the manual, making an imperfect manual available seemed to be the better course of action than waiting to write the perfect manual. 
+
+Over the years, we have tried to make it more systematic, and in fact parts have gone through extensive re-writes. But other parts---notably a number of the region-specific codes---weren't really finished (or, to an extent, have been superseded) but still contained information we weren't ready to throw out. The original event coding scheme, and the newer religious and ethnic classification schemes are quite systematic; the actor scheme is very uneven, and we are still working on a separate section on agents. 
+
+It is what is it.
+
+
+\chapter{Introduction}
+\pagenumbering{arabic}
+
+For several decades, two coding frameworks dominated event data research: Charles McClelland's WEIS \cite{McClelland67,McClelland76}  and the Conflict and Peace Data Bank (COPDAB) developed by Edward Azar \cite{AzarSloan75, Azar80, Azar82}. Both were created during the Cold War and assumed a ``Westphalian-Clausewitzian'' political world in which sovereign states reacted to each other primarily through official diplomacy
+and military threats. While innovative when first created, these coding systems are not
+optimal for dealing with contemporary issues such as ethnic conflict, low-intensity violence,
+organized criminal activity, and multilateral intervention. McClelland \cite[pg. 177]{McClelland83} viewed
+WEIS as only a ``first phase''; he certainly did not anticipate that it would continue to be
+used, with only minor modifications, for four decades.
+
+CAMEO was originally intended merely to support an NSF-funded project on the study of inter-state conflict mediation. It was also originally intended to be finished in six months of part-time work. It has, instead, developed as a ``next generation'' coding scheme designed both to correct some of the long-recognized problems in WEIS and COPDAB, but more importantly, designed both for automated coding and for the detailed coding of sub-state actors. The system was used extensively in the DARPA-funded Integrated Conflict Early Warning System (ICEWS) project \cite{OBrien10} and proved surprisingly robust in that environment. Additional detail on the development of the system can be found in 
+\begin{itemize}
+\item http://eventdata.psu.edu/papers.dir/ISA08.pdf
+\item http://eventdata.psu.edu/papers.dir/Gerner.APSA.02.pdf
+\end{itemize}
+\noindent A published version is at \cite{SGY09}, and a detailed history of the KEDS project can be found in \cite{Schrodt06TPM} or \url{http://eventdata.psu.edu/utilities.dir/KEDS.History.0611.pdf}. The original event framework was very much the work of Deborah Gerner and \"Om\"ur Yilmaz, with contributions by various coders in the \KEDS project, particularly on the refinement of the actor ontology; after 2007 the development was taken over by Schrodt and eventually moved to Penn State.
+
+In the present version of the manual, we are regularly using the phrase ``ontology'' to refer to what has been variously called in the past a ``coding scheme", ``coding framework'' and probably any number of other things. Over the past couple of years we've taken to calling this an ``ontology'' since we've been interacting with a lot of folks in the informational sciences communities and they seem to be more comfortable with that phrase. However, if one accepts the following\ldots well, scheme?\ldots then the event framework is probably only a taxonomy, though the actor framework is, in fact, heading towards being an ontology.
+
+\begin{quote}
+A\textbf{ controlled vocabulary} is a set of terms with informal natural language definitions that specify meaning.  A controlled vocabulary may be more about the terms than the underlying concepts.  No reasoning is supported.
+
+A \textbf{taxonomy} is a controlled vocabulary that is organized into a hierarchy.  Each term names a category, kind or class. There is just one kind of link; it means “is a kind of” and corresponds to a subclass relationship.  Strictly speaking each node in a taxonomy has exactly one parent, but the term ‘taxonomy’ often refers to hierarchies with multiple parents.  It is also sometimes loosely used to refer to networks with more than one kind of link.  Subclass reasoning is possible if a strict interpretation is used.
+
+A \textbf{thesaurus} is a controlled vocabulary in a network with a small number of different kinds of link, the most important of which is broader/narrower. Others include synonym and preferredTerm. A thesaurus is mostly about terms, not concepts.  The meaning of a term is specified by its relationships with other terms in the network.  The meaning of the links are informal and automated reasoning is generally not supported.
+
+An \textbf{ontology} is a set of classes organized into a network with arbitrarily many kinds of relationships.  A key one is the subclass relationship which forms a taxonomy backbone of an ontology.  The relationships themselves have properties that are used for inferencing. For example, if A is a sibling of B, we know that B is a sibling of A. But this symmetry does not hold for the brother relationship. The meaning of the links is formal and automated reasoning is supported.
+
+A \textbf{database schema} is used to specify the structure of a database.  There is a subset of ontologies and conceptual schema languages that overlap (e.g classes and relationships in an ER diagram).   An ontology can be used as a shema for e.g. a triple store. However, ontology representation languages are more expressive.  Also, once a conceptual schema is transformed into a logical and then a physical schema, the semantics is lost.  SQL engines arguably perform sophisticated inference, but are not based on formal logic in the same way that ontologies are.
+
+\end{quote} 
+Source: Michaerl Uschold, 16-Mar-2012,
+\scriptsize{ \texttt{http://semanticarts.web11.hubspot.com/engage/discuss-0/bid/126005/ What-s-the-difference-between-an-ontology-and-a-controlled-vocabulary-a-thesaurus-a-taxonomy-a-database-shema}} \normalsize
+
+Our sense is that this vocabulary is still somewhat in flux---as is the actor coding framework---so we won't try to fully standardize this at the present time.
+
+\subsection{Events}
+\label{ssec:events}
+
+Event categories present in WEIS and COPDAB have both conceptual and practical shortcomings. For instance, WEIS has only a single subcategory for ``Military engagement'' that must encompass everything from a shot fired at a border patrol to the strategic bombing of cities. COPDAB contains just 16 event categories, spanning a conflict-cooperation continuum that many researchers consider inappropriate. Although there have been efforts to create alternative coding
+systems---most notably Leng's Behavioral Correlates of War (BCOW) \cite{Leng87}---WEIS and COPDAB remain the predominant frameworks in the published literature.
+
+The lock-in of these early coding systems is readily explained by the time consuming nature of human event coding from paper and microfilm sources. Because human coders typically produce between five and ten events per hour, and a large data set contains tens of thousands of events,
+experimental recoding is simply not feasible. Established protocols for training and maintaining
+consistency among coders further constrained efforts to improve WEIS and COPDAB once these
+were institutionalized. As a consequence, endeavors such as Tomlinson's modification of
+WEIS \cite{Toml93} and the Global Event Data System (GEDS) project extensions of COPDAB \cite{DaviMcDa93} produced only marginal changes.
+
+In contrast to human coding, automated coding allows researchers to experiment with alternative coding rules that reflect a particular
+theoretical perspective or interest in a specific set of issues. The effort involved in implementing a
+new or modified coding system, once it has been developed, is relatively small because most of the
+work can be done within the dictionary of verb phrases. In most cases verb phrases can be unambiguously assigned to appropriate new categories, while obscure phrases are either removed or modified. This elimination of questionable phrases itself represents an improvement in the coding system. Even a long series of texts spanning multiple decades can then be recoded in a few minutes. This allows researchers to focus on maximizing the validity of the coding scheme for their particular research program since the automated coding process itself guarantees the reliability of the system. Consequently in the mid-1990s, the Protocol for the Analysis of Nonviolent Direct Action (PANDA) \cite{BondBennVoge94} was developed in an initial experiment with the combination of automated coding and a new ontology focused on sub-state actors, followed by the development of the Integrated Data for Events Analysis (IDEA) \cite{BBOJT03} system, designed as a super-set of several existing ontologies along with innovations such as the use of tertiary (4-digit) event categories and codes for non-human events such as natural disasters.
+
+% where did this sentence go? 1 The phrase cue category refers to the broad two-digit codes, as opposed to the more specific three and four digit subcategories.
+
+ In the early stages of the KEDS research, we felt it was important to work with an existing framework so that we could directly compare human-coded and
+machine-coded data \cite{SchrGern94}. For a variety of reasons, we selected WEIS, which
+despite some obvious drawbacks was good enough for our initial analyses. However, we eventually
+decided to abandon WEIS. Several considerations motivated this choice. First and foremost was our
+long-standing concern regarding numerous ambiguities, overlaps, and gaps within the WEIS
+framework. In addition, the distribution of events in WEIS is quite irregular and several of the 2-digit
+cue categories generate almost no events; we hoped we could improve on this. Third, we wanted to
+eliminate distinctions among actions that, while analytically discrete, could not be consistently and
+reliably differentiated using existing news source materials. Finally, as indicated above, the Cold War
+perspective that permeates WEIS makes it an inappropriate tool for studying contemporary
+international interactions. Consequently, we developed CAMEO, which is specifically designed to
+code events relevant to the mediation of violent conflict but can also be used for studying other
+types of international interactions.
+
+Problems encountered with WEIS are exacerbated due to the lack of a fully specified standard
+codebook. We based our development of coding dictionaries on the version of the WEIS codebook
+available through the Inter-university Consortium for Political and Social Research (ICPSR)
+\cite{McClelland76} . The section of the codebook dealing with event categories is quite short---about
+five pages---and provides only limited guidance. Since McClelland never intended that WEIS would
+become a de facto coding standard, the ICPSR WEIS codebook was meant to be primarily a proof-of-concept.
+
+We initially intended CAMEO to be an extension of WEIS. Consequently, the first
+phase of the development of CAMEO involved adding cue and subcategories that we found theoretically
+necessary for the study of mediation and conflict, while keeping most of the WEIS framework intact.
+The next phase involved looking for examples of each category and writing definitions for the
+codebook. This process led to the realization that some of the distinctions we wanted to make for
+theoretical reasons were simply not possible given the nature of the news leads. 
+
+For instance, \textit{Promise} (WEIS 07) is almost indistinguishable from \textit{Agree} (WEIS 08) unless the word ``promise'' is used in the sentence. Therefore, we eventually ended up merging the two into a single cue category---\textit{Agree} (CAMEO 06)---that includes codes representing all forms of future
+positive commitment. Similarly, because verbs such as \textit{call for, ask for, propose, appeal,
+petition, suggest, offer}, and \textit{urge} are used interchangeably in news leads to refer to closely
+related activities, we combined \textit{Request} and \textit{Propose} into a single cue category---\textit{Request/Propose}
+(CAMEO 05). 
+
+We made similar decisions with respect to other WEIS categories such as \textit{Grant} and
+\textit{Reward}, and \textit{Warn} and \textit{Threaten}. We also rearranged the WEIS subcategories, both to reflect these
+changes and to create more coherent cue categories. As a result, \textit{Nonmilitary demonstration} (WEIS
+181) is now part of cue category \textit{Protest }(CAMEO 14) as \textit{Demonstrate} (CAMEO 141) while \textit{Armed
+force mobilization, exercise and/or displays} (WEIS 182) is modified and falls under the new cue
+category \textit{Exhibit Military Power} (CAMEO 15).
+
+While developing CAMEO, we paid significant attention to creating a conceptually coherent and complete coding scheme. Having the cue category of \textit{Approve} (CAMEO 03), therefore, necessitated the addition of \textit{Disapprove} (CAMEO 11), which incorporated \textit{Accuse} (WEIS 12) and our new addition \textit{Protest officially} (CAMEO 113). Maintaining the cue category of \textit{Reduce Relations} from WEIS, albeit in a modified fashion, directed us to create a parallel category that captures improvements in relations: \textit{Cooperate} (CAMEO 04). In other words, we tried to insure that conceptual opposites of each cue and subcategory exist within the coding scheme, although they
+might not be represented by exact antonyms. We also revised or eliminated all actor-specific event codes: that is, codes that were dependent on \textit{who} was engaged in the event, not just \textit{what} was being done.
+
+In addition, we made CAMEO consistent with respect to the numerical order of its main cue categories. Unlike WEIS and IDEA, we start with the most neutral events and move gradually from cooperation to conflict categories. While the initial coding category in WEIS and IDEA is \textit{Yield}, CAMEO starts with \textit{Comment} and locates \textit{Yield} between \textit{Provide Aid} (CAMEO 07) and \textit{Investigate} (CAMEO 09).
+Technically, all three of these systems use nominal categories so that the placement of each
+category is irrelevant; in reality, however, the categories are often treated as ordinal or even interval
+variables. Therefore, CAMEO categories have an ordinal increase in cooperation as one goes from
+category 01 to 09, and an ordinal increase in conflict as one goes from 10 to 20.
+
+Finally, we developed a formal codebook for CAMEO with descriptions and extensive examples
+for each category. Following the model of the IDEA codebook, the CAMEO codebook exists in both
+printed and web-based formats. We have also followed the lead of IDEA in introducing 4-digit
+tertiary subcategories that focus on very specific types of behavior, differentiating, for instance,
+between agreement to, or rejection of, cease-fire, peacekeeping, and conflict settlement. We
+anticipate that the tertiary categories will be used only rarely, not be used but they are available if a
+researcher wants to examine some very specific behaviors that might be useful in defining patterns.
+The tertiary categories also clarify further the types of event forms included in the secondary and
+primary categories, leading to more precise and inclusive coding.
+
+Despite CAMEO originally being intended specifically to code events dealing with international mediation, it has worked well as a general coding scheme for studying political conflict. This is probably due to the fact that while CAMEO was originally going to involve a minor, six-month revision of WEIS for a single NSF grant, we ended up spending almost three years on the project, with several complete reviews of the dictionaries, and hence effectively created a more comprehensive ontology.
+
+Somewhat to our surprise, the $.verbs$ dictionaries---which involved about 15,000 phrases---also needed relatively little work to produce useable data for ICEWS. This was surprising in the sense that those dictionaries had been developed for an entirely different part of the world than was coded for ICEWS, but was consistent with our earlier experiments in extending the data sets, which have always used a shared $.verbs$ dictionary despite using specialized $.actors$ dictionaries. We did one experiment where we looked at a sample of sentences where \TAB had \textit{not} identified a verb phrase, and this produced a few new candidate phrases, but only a few. 
+
+In the long run, it might be possible to re-define the entire CAMEO coding ontology using the standardized \textit{WordNet}  synsets, rather than using the current categories that were developed inductively. This would again help align the event coding with the larger NLP community, and probably simplify its use in languages other than English.
+
+%mention issue of the extent to which there needs to be a standard scale given the insensitivity of statistical coding.
+
+% from email to Orly Lindgren
+
+%So for whatever it is worth, here is what I think needs to be done, leaving aside that practicalities of getting it through the corporate politics, maneuvering and self-interest which will insure it doesn't get done:
+
+% 1. Standardize on the top-level "cue categories", probably with something closer to CAMEO than to IDEA, though the two really aren't that far apart, because 
+
+%a. IDEA maintained a backwards-compatibility to a bunch of older systems -- WEIS, COPDAB, WHIV -- that, while an interesting proposition at the time it was being developed, is of little interest now
+
+%b. We [CAMEO] spent a great deal of time figuring out categories that could not be readily distinguished -- and these were general problems, some of which were noted in the 1960s, not just problems with the KEDS/TABARI approach -- and combining them.
+
+%See comments below on secondary codes.
+
+%2. Use the IDEA approach -- or something similar to it -- for non-human "events" such as hurricanes, earthquakes, disease outbreak and the like: there is a lot of interest in this, though I think it needs to be generalized further and possibly standardized (e.g. on the disease codes) with other international agencies
+
+%3. Establish a set of codes for economic transactions -- neither CAMEO nor IDEA is very good on these, and there is a lot of interest in them. We were asked to do some research on this and couldn't come up with any good existing systems.
+
+%4. Figure out a standard way of representing events that do not have a distinct target such as announcements. Also decide whether to allow "actor-dependent" event codes -- that is, an event code that is only valid for certain types of actors. CAMEO eliminated these; I'm pretty sure IDEA still has them.
+
+%5. The CAMEO actor-agent ontology is probably far better than the IDEA ontology, and Lockheed's ontology may be even better (haven't decided on that yet). Or go beyond the current systems and figure out a series of very flexible actor characteristics -- presumably encoded as XML or something to that effect -- that might be part of a record, but are not required. Steve Shellman's SAE group has yet another ontology, though I'm not sure you get much additional with it.
+
+%6. A standardized scale that is equivalent to the "Goldstein scale" would probably be desireable. VRA spent a huge amount of time trying to do this without coming up with something they were happy with. We've got one for CAMEO but it is very ad hoc.
+
+%7. Secondary codes: one possibility is to essentially merge IDEA and CAMEO here, though since CAMEO was developed later than IDEA, we did a lot of that already. Though while you are doing that, at least look at the SPEED coding system (http://www.clinecenter.illinois.edu/research/speed.html)
+
+% Alternatively, *don't* standardize the secondary (3 and 4-digit) codes, or don't standardize on a single set, but instead assume that multiple sets will be used. CAMEO, folks tend to forget, was originally designed specifically to study mediation, which is why it has a great deal of detail (for more than is necessary for most topics) on mediation.  Our original idea was that it would be a baseline for additional sets, though we've never done anything further along those lines, nor to my knowledge has anyone else.
+
+%Another possibility would be to specify a core of secondary codes -- for example I think the CAMEO codes for types of physical violence are fairly clear and complete, though someone with more military experience might have other ideas -- and then allow [multiple] extensions to those. 
+
+%I would not try to standardize the tertiary codes. And based on experience, you can endless time debating any of the codes. 
+
+%<12.03.08> Another possible bit: according to Time (5 March), one of the tactics used by the religious authorities in Iran against Ahmaddinajad's party is to accuse them of using witchcraft (or at least some Persian variant thereof). Which is probably not the sort of code one would use in coding European politics --- though one must note that it occasionally does arise in the US, notably by Pat Robertson, who perhaps not coincidentally also just endorsed the legalization of marijuana -- but is also salient in Kenya, Nigeria and [?] indonesia. So this might, in fact, be a useful tertiary code.
+
+
+\subsection{Actors}
+\label{ssec:actors}
+
+One of the major changes in the post-Cold War environment has been the emergence of sub-state actors as major forces in both domestic and international politics. Many have argued that the proliferation of sub-state, non-state, multi-state, and trans-state actors has blurred almost completely the traditional separation of ``international'' and ``comparative'' politics. At times these groups exercise coercive force equal to or greater than that of states, whether from within, as in the case of ``failed states'',
+or across borders, as with Israel's attempts to control Hizbollah in Lebanon and Hamas in
+Gaza, or the near irrelevance of borders in many of the conflicts in central and western Africa.
+Irrespective of the effectiveness of their coercive power, these non-state actors may also be a
+source of identity that is more important than that of an individual's state-affiliation---the
+ability of al-Qaeda to attract adherents from across the Islamic world is a good example---or provide examples of strategies that are imitated across borders, as has been seen in the numerous non-violent popular revolutions in Eastern Europe or the more recent ``Arab Spring.''
+
+Because they were state-centered, WEIS and COPDAB paid relatively little attention to non-state actors. A small number of long-lived opposition groups that were active in the 1960s such as the Irish Republican Army, the Palestine Liberation Organization, and the National Liberation Front of Vietnam (Viet Cong) were given state-like codes, as were major international organizations such as the United Nations and the International Committee of the Red Cross/Red Crescent. From the perspective of coding, these actors were treated as honorary states. Beyond this small number of special cases, sub- and non-state actors were ignored.
+
+A major breakthrough in the systematic coding of sub-state actors came with the PANDA project  \cite{BondBennVoge94}, which introduced the concept of sub-state ``agents''---e.g.media, politicians, labor unions---as part of their standard actor coding. PANDA's primary focus was on contentious politics within states, and consequently needed to distinguish, for example, between police and demonstrators, or between government and opposition political parties. 
+
+Unlike PANDA, which coded the entire world, the KEDS project focused specifically on regions that have experienced
+protracted conflicts. As a consequence, rather than using the PANDA/IDEA of introducing new agent fields, we initially maintained the WEIS/COPDAB convention of using a single ``source'' and ``target''  field. However, because the areas we were coding involved quite a few sub-state actors, we eventually developed a series of standard codes that were initially a composite of the WEIS nation-state codes concatenated with PANDA agent codes. Under this system, for example, ISRMIL would be ``Israel military'', ``LIBOPP'' would be Liberian opposition parties, ``SIEGOV'' would be Sierra Leone government and so forth. After realizing that the simple actor-agent model did not accommodate all of the actors we wished to code, we extended this to a more general hierarchical system that was adopted, with modifications, by ICEWS.
+
+Three principles underlie the CAMEO actor coding system. First, codes are composed of one or more three-character elements: In the present system a code can consist of one, two or three of these elements (and therefore three, six, or nine character codes), although this may be extended later. These code elements are classified into a number of broad categories,
+such as state actors, sub-state actor roles, regions, and ethnic groups.
+
+Second, the codes are interpreted hierarchically: The allowable code in the second element depends on the content of the first element, and the third element depends on the second. This is in contrast to a rectangular coding system, where the second and third elements would always have the same content. The most familiar analogy to a hierarchical coding system is
+the Library of Congress cataloguing system, where the elements of the catalog number vary---systematically---depending on the nature of the item being catalogued, and consequently may contain very different information despite being part of a single system. The event coding system used in BCOW \cite{Leng87} is another example of a hierarchical scheme in the event data literature. 
+
+Third, we are basing our work on standardized codes whenever these are available. This is most obvious in our use of the United Nations nation-state codes (ISO-3166-1 ALPHA 3) (\url{http://unstats.un.org/unsd/methods/m49/m49alpha.htm}). This contrasts to the Russett-Singer-Small codes \cite{RussSingSmal68} used in WEIS, which are specific to the North American quantitative international relations community. We have generally adopted the IDEA agent codes for sub-state actors. We originally used the HURIDOCS (\url{http://www.huridocs.org/}) classifications for world religions, but subsequently expanded this to the much more comprehensive and systematic list found in the CAMEO ``Religious Classification System."  Similarly, we were unable to locate any systematic list of ethnic minority groups, and instead assembled our own from various sources.
+
+%mention ethnic codes
+
+Unfortunately, standard codes are generally not available. For example, most IGOs are known by acronyms of varying lengths, so we need to decide how to truncate these to three characters. We spent considerable time trying to determine whether the U.S. government had a standard list of militarized non-state actors; as best we can tell, this does not exist (or at least not in a form we can access), and the situation for ethnic groups is similar.
+
+
+\include{CAMEO.VERBS}
+
+
+
+\chapter{ACTOR CODEBOOK}
+
+Actor and agent dictionaries are developed to systematically assign codes to names (of individuals, countries, identity groups, organizations, etc.) that refer to source or target actors in news reports. Several regional dictionaries have been developed within the framework of the CAMEO project. In addition to laying out the format and the rules that apply commonly to the creation of new codes in actor and agent dictionaries, this codebook documents the shared and region-specific actors that existed in the dictionaries at the time of this codebook’s compilation (as well as some updates from subsequent revisions). It does not contain an exhaustive list of all agent and actor codes utilized in the various KEDS/CASCADE projects that make use of the CAMEO coding schemes. Coders who modify CAMEO or add new codes (not names, but general types)  should record the changes made.
+
+As projects have demanded more specificity from CAMEO codes, the complexity and length of CAMEO codes have increased. Early CAMEO codes may be simpler than strict adherence to the rules below would imply. %Add more here?
+
+
+
+\newpage
+\section{HIERARCHICAL RULES OF CODING}
+
+	\setlength{\unitlength}{1in}
+	\begin{picture}(5,6)
+		\put(.9,.5){\framebox(1.4,.35)}
+		\put(.9,1){\framebox(1.4,.35)}
+		\put(3.7,1){\framebox(1.4,.35)}
+		\put(.9,1.5){\framebox(1.4,.35)}
+		\put(3.6,1.5){\framebox(1.6,.35)}
+		\put(.9,2){\framebox(1.4,.35)}
+		\put(3.7,2){\framebox(1.4,.35)}
+		\put(.9,2.5){\framebox(1.4,.35)}
+		\put(3.7,2.5){\framebox(1.4,.35)}
+		\put(3.7,3){\framebox(1.4,.35)}
+		\put(0,3.25){\framebox(1.4,.35)}
+		\put(1.8,3.25){\framebox(1.4,.35)}
+		\put(3.7,3.5){\framebox(1.4,.35)}
+		\put(.9,4){\framebox(1.4,.35)}
+		\put(3.7,4){\framebox(1.4,.35)}
+		\put(.9,4.5){\framebox(1.4,.35)}
+		\put(3.7,4.5){\framebox(1.4,.35)}
+		\put(.4,5){\framebox(2.4,.7)}
+		\put(3.2,5){\framebox(2.4,.7)}
+		
+		\put(1,.64){Organization code}
+		\put(1,1.14){Specialty (S.R.C.)}
+		\put(4.1,1.14){Specialty}
+		\put(.94,1.64){Secondary role code}
+		\put(3.7,1.64){Suborganization code}
+		\put(1.35,2.14){Religion}
+		\put(4.1,2.14){Specialty}
+		\put(1.3,2.64){Ethnicity}
+		\put(3.8,2.64){Organization code}
+		\put(.54,3.39){Party}
+		\put(1.9,3.39){Specialty (P.R.C.)}
+		\put(3.87,3.14){Role code (any)}
+		\put(4.15,3.64){Religion}
+		\put(1,4.14){Primary role code}
+		\put(4.1,4.14){Ethnicity}
+		\put(1.05,4.64){Domestic Region}
+		\put(4.11,4.64){Location}
+		\put(1.14,5.43){\Large{COUNTRY}}
+		\put(1.08,5.14){UN country code}
+		\put(3.6,5.43){\Large{INTERNATIONAL}}
+		\put(3.25,5.2){IGO, IMG, MNC, NGO, $<null>$,}
+		\put(5.33,5.05){etc.}
+		
+		\put(1.6,1){\vector(0,-1){.15}}
+		\put(1.6,1.5){\vector(0,-1){.15}}
+		\put(4.4,1.5){\vector(0,-1){.15}}
+		\put(1.6,2){\vector(0,-1){.15}}
+		\put(4.4,2){\vector(0,-1){.15}}
+		\put(1.6,2.5){\vector(0,-1){.15}}
+		\put(4.4,2.5){\vector(0,-1){.15}}
+		\put(.7,3.25){\line(0,-1){.2}}
+		\put(2.5,3.25){\line(0,-1){.2}}
+		\put(.7,3.05){\line(1,0){.5}}
+		\put(2.5,3.05){\line(-1,0){.5}}
+		\put(1.2,3.05){\vector(0,-1){.2}}
+		\put(2,3.05){\vector(0,-1){.2}}
+		\put(4.4,3){\vector(0,-1){.15}}
+		\put(4.4,3.5){\vector(0,-1){.15}}
+		\put(1.2,4){\line(0,-1){.2}}
+		\put(2,4){\line(0,-1){.2}}
+		\put(.7,3.8){\line(1,0){.5}}
+		\put(2.5,3.8){\line(-1,0){.5}}
+		\put(.7,3.8){\vector(0,-1){.2}}
+		\put(2.5,3.8){\vector(0,-1){.2}}
+		\put(4.4,4){\vector(0,-1){.15}}
+		\put(1.6,4.5){\vector(0,-1){.15}}
+		\put(4.4,4.5){\vector(0,-1){.15}}
+		\put(1.6,5){\vector(0,-1){.15}}
+		\put(4.4,5){\vector(0,-1){.15}}
+		\put(1.6,5.85){\vector(0,-1){.15}}
+		\put(4.4,5.85){\vector(0,-1){.15}}
+		\put(1.6,5.85){\line(1,0){2.8}}
+	\end{picture}
+
+Actor codes are composed of a series of three-letter groups, written in the order pictured above. The length of the code given to any actor depends on the number of these groups applicable to an actor and necessary for the needs of the coding group, but TABARI currently limits the total number of characters to fifteen, i.e. five three-letter codes. Some actors may be deemed important enough to warrant a three character code unique to themselves, but most just use a combination of specific and generic codes.
+
+Coding of any actor follows two basic rules:
+
+\begin{enumerate}
+\item Proceed from the general to the specific.
+\item Maintain a consistent pattern (ideally the one above) in choosing the hierarchical placement of appropriate three letter classifications.
+\end{enumerate}
+
+No actor will use all the categories listed, but rules and hierarchy provide the coder with a clearer path of how an actor's coding scheme should break down and ensures some level of consistency across studies.
+
+\subsection{Domestic or International?}
+
+There are two types of actor in the CAMEO coding scheme: domestic and international. How an actor is coded depends on which of those types the actor is.
+
+For a domestic actor, the first three characters of the CAMEO code indicate the actor's country. The United Nations list of standard three-letter country codes is used to identify countries. The current list, as well as a list of changed and added codes, can be found at the UN website (http://unstats.un.org/unsd/methods/m49/m49.htm). A list of UN country codes is also presented in Chater~\ref{chapt:ISO-3166 Codes}.
+
+Actors that cannot readily accept a single national identifier may instead take an international code. Different generic codes are used to differentiate between various kinds of international and transnational actors. \texttt{IGO} (international governmental organization), \texttt{IMG} (international militarized group), \texttt{NGO} (non-governmental organization), \texttt{NGM} (non-governmental movement), and \texttt{MNC} (multi-national corporation) are the main generic codes. They can either be used on their own or as the first three characters of more detailed codes. A few special cases---religious groups, ethnicities, and international regions---are handled as international actors but do not begin with international codes.
+
+In addition, we have the code \texttt{UIS} (unidentified state actor), which is used when an actor is known to be a country or government---or it is known to act on behalf of a country or state---but the identity of the particular country is not revealed in the report (e.g. ``foreign diplomat''). Similarly, if an international actor cannot be categorized for whatever reason, \texttt{INT} can be used as the last-resort, catch-all code. \texttt{UIS} and \texttt{INT} are typically used as three-letter codes on their own.\\
+
+The following subsections describe how a \emph{domestic} actor is coded, in order from left to right in the code. The differences for international codes are described in subsection \ref{sect:international}.
+
+\subsection{Domestic Region}
+
+In countries with federal systems, autonomous regions, other forms of decentralization, or any other idiosyncratic facts that render regional distinctions politically significant, our codes link actors to sub-state regions as well as countries. Assigning actors domestic region codes (as the second three characters) allows researchers to code and study intrastate events which might have domestic as well as international significance. Sub-state codes are often essential components of a regional dictionary---the Balkans is one such case. Serbia during 2003-2006, for example, is assigned the code \texttt{[SCGSRB]}, where \texttt{SCG} is the UN code for the state of Serbia and Montenegro and \texttt{SRB} denotes the Republic of Serbia, which was a sub-state entity within Serbia and Montenegro.
+
+
+
+In some cases, we have assigned geographic regions within a country their own three character codes because the distinction was important for demographic or other political reasons, even though these regions did not have legal status. For Turkey, we have given Southeast Turkey its own code (\texttt{[TURSOE]}), which has allowed us to capture many domestic events (particularly between Kurdish insurgents and the Turkish state) that we otherwise could not. A comprehensive list of all sub-state region codes can be found in the respective region-specific sections of this codebook. 
+
+\subsection{Primary Role Code}
+
+Generic role codes are assigned to actors in order to indicate their roles and statuses, when known and relevant, within their respective countries. They are appended to the initial country and regional codes.
+
+A comprehensive list of generic role codes can be found in Table~\ref{tab:roles}. We make a crucial distinction between primary, secondary, and tertiary role codes. Coders should use primary codes to identify the role of a domestic actor wherever reasonable; among those, \texttt{GOV}, \texttt{MIL}, \texttt{OPP}, and \texttt{INS} or \texttt{SEP} (formerly \texttt{REB}) are in fact the most commonly used.
+
+\texttt{REB} has been, for most of CAMEO's history, the catch-all term for violent opposition groups. \texttt{SEP} and \texttt{INS} were added in late 2009, and they have more or less replaced that code for specific actors. However, \texttt{REB} still is used to code cases where a violent opposition group's aims are unclear, or where the group has very plainly limited goals (i.e. not involving separating from or overthrowing the government.) Also, older projects using CAMEO use only the \texttt{REB} code, and, depending on the project, coders may choose not to use \texttt{SEP} or \texttt{INS}. Coders should be sure, however, to distinguish between these kinds of actors and those assigned a secondary role code of \texttt{CRM} (see subsection \ref{sect:SRCs}). While \texttt{CRM} actors may utilize violent operations, they primarily exist for the purpose of achieving monetary profit or other self-gratification and not for the achievement of political aims through violent efforts.
+
+\texttt{UAF} should be used as a last resort when an armed group cannot be identified either as \texttt{MIL} or \texttt{REB}. This situation tends to arise when the association of a given armed group with the state it operates in is unclear (e.g. whether it is an independent rebel group or a paramilitary), or the group is accepted but not controlled by the state. If the link between a paramilitary and a state is common knowledge, however, MIL should still be used---even though the group might not officially be part of the state military institution. The Serb Volunteer Guard, also known as Arkan's Tigers, for instance, should be coded as \texttt{[SRBMIL]}.
+
+Note that actor codes with domestic roles will often need date restrictions to reflect changing roles of actors through the span of the dataset. This is especially true when coding countries that experience frequent power changes. Section \ref{sect:timestamps} details how such restrictions are added.
+
+\newpage
+
+\begin{center}
+\begin{longtable}{|c|l|}
+\caption{Generic Domestic Role Codes}
+\label{tab:roles}
+ \\ \cline{1-2}
+  \textbf{Primary} & \textbf{Description}\\
+  \textbf{Role Codes} & \\ \hline
+  COP & Police forces, officers, criminal investigative units, protective agencies \\ \hline
+  GOV & Government: the executive, governing parties, coalitions partners, executive divisions \\ \hline
+  INS & Insurgents (rebels): all rebels who attempt to overthrow their national government \\ \hline
+  JUD & Judiciary: judges, courts \\ \hline
+  MIL & Military: troops, soldiers, all state-military personnel/equipment\\ \hline
+  OPP & Political opposition: opposition parties, individuals, anti-government activists \\ \hline
+  REB & Rebels: armed and violent opposition groups, individuals \\ \hline
+  SEP & Separatist rebels: all rebels who try to emancipate their region from its country \\ \hline
+  SPY & State intelligence  services and members including covert operations groups \\
+  & as well as intelligence collection and analyses \\ \hline
+  UAF & Armed forces aligned neither with nor against their government \\ \hline
+  \textbf{Secondary} & \textbf{Description}\\
+  \textbf{Role Codes} & \\ \hline
+  AGR & Agriculture: individuals and groups involved in the practices of crop cultivation \\
+  & including government agencies whose primary concern is agricultural issues \\ \hline
+  BUS & Business: businessmen, companies, and enterprises, not including MNCs \\ \hline
+  CRM & Criminal: corresponding to individuals involved in or allegedly involved in the \\
+  & deliberate breaking of state or international laws primarily for profit \\ \hline
+  CVL & Civilian individuals or groups sometimes used as catch-all for individuals or \\
+  & groups for whom no other role category is appropriate \\ \hline
+  DEV & Development: individuals or groups concerned primarily with development \\
+  & issues of varying types including infrastructure creation, democratization et al. \\ \hline
+  EDU & Education: educators, schools, students, or organizations dealing with education \\ \hline
+  ELI & Elites: former government officials, celebrities, spokespersons for organizations \\
+  & without further role categorization (George Soros, former Secretary of Defense, Bono) \\ \hline
+  ENV & Environmental: entities for whom environmental and ecological issues are \\
+  & their primary focus,  includes wildlife preservation, climate change, etc. \\ \hline
+  HLH & Health: individuals, groups and organizations dealing with health and social \\
+  & welfare practices (doctors, Doctors Without Borders)\\ \hline
+  HRI & Human Rights: actors for whom their primary area of operation or expertise \\
+  & is with documenting and/or correcting human rights concerns \\ \hline
+  LAB & Labor: specifically individuals in or elements of organized labor, organizations \\
+  & concerned with labor issues \\ \hline
+  LEG & Legislature: parliaments, assemblies, “lawmakers”, references to specific \\
+  & legislative entities or sub-entities such as committees\\ \hline
+  MED & Media: journalists, newspapers, television stations also includes providers of \\
+  & internet services and other forms of mass information dissemination \\ \hline
+  REF & Refugees: also refers to agencies or MNCs dealing with population migration \\
+  & and relocation issues \\ \hline
+  \textbf{Tertiary} & \textbf{Description}\\
+  \textbf{Role Codes} & \\ \hline
+  MOD & Moderate: ``moderate,'' ``mainstream,'' etc.  \\ \hline
+  RAD & Radical: ``radical,'' ``extremist,'' ``fundamentalist,'' etc. \\ \hline
+\end{longtable}
+\end{center}
+
+
+
+\subsection{Party or Speciality (Primary Role Code)}
+\label{sect:SpecialtyPRC}
+
+The \texttt{PTY} (party) distinction is a special role code that comes after primary role codes but before anything else. Political organizations receive the designation \texttt{PTY} when they field candidates for local or national elections, they are considered legal/legitimate by the current political regime, and they are not, at an organizational level, armed or violent. Individuals receive the designation \texttt{PTY} if they are members of qualified political organizations but are not members of the national or local executive. The \texttt{PTY} designation, whenever possible, comes immediately after \texttt{OPP} or \texttt{GOV}. Whether a party is in opposition or government depends solely on whether it is a member of the executive at the highest level of government for which it fields candidates.\\
+
+Alternatively, a second primary role code can be appended to the first to represent an actor's area of power or concern. This happens, for example, with secretaries and ministers of defence; though they are part of the government, they exercise control over military affairs and are thus coded \texttt{[XXXGOVMIL]}. This case is discussed in more detail in section \ref{sect:militaryconvention}.
+
+\subsection{Ethnicity and Religion} 
+
+In the latest version of the system, we have a detailed, global classification system for both religious and ethnic groups: these are discussed in Chapters \ref{chapt:CAMEORCS} and \ref{chapt:CAMEOECS}. These have not, however, been systematically incorporated into all of the dictionaries.
+
+
+\subsection{Secondary Role Code (and/or Tertiary)}
+\label{sect:SRCs}
+
+If none of the primary codes applies to the actor in question, coders should choose from secondary role codes. Hence, for instance, a labor union would have the \texttt{LAB} code and a given journalist would have the \texttt{MED} code \emph{only} if they cannot be identified as \texttt{OPP}. However, this restriction does not preclude the addition of secondary role codes to the primary code if such distinctions would be valuable to the coders. An opposition labor union, for example, would code as \texttt{XXXOPPLAB}.
+
+Although we have a code for the legislative branch (\texttt{LEG}), it is identified as a secondary code and used sparingly. When a given legislative body is mentioned as an organization (e.g. the parliament, the House of Commons, the Senate), \texttt{LEG} is always used. When a particular political party or individual member of the legislature is in question, however, the convention has been to use \texttt{GOVPTY} or \texttt{OPPPTY}, \emph{depending on whether the relevant party has control of the executive branch.} If the coders are more interested in the differentiation between the executive and legislative branches of a government or if control of the executive is separate from control of the legislature it may be more useful to code these actors as \texttt{LEG}.
+
+Outside of religious applications, tertiary role codes should be used \emph{only as last resort}. \texttt{RAD} captures ambiguous identifiers such as ``radical,'' ``extremist,'' and ``fundamentalist'' which can be encountered in news reports but do not refer to any systematically identifiable group or role. We felt compelled to create the code to systematize the the coding of such ambiguous labels, the meaning of which could vary from reporter to reporter and across regions: Does the term ``extremist'' refer simply to the conservative nature of a group or does it imply that the group in question is armed and violent? In order to avoid bias and to ensure reliability, \texttt{RAD} (and not \texttt{REB}) should be used in such cases. For example, ``extremist Serbian nationalist'' should be coded as \texttt{[SERRAD]}. Similarly, \texttt{MOD} should be used when ambiguous identifiers such as ``moderate'' and ``mainstream'' are encountered.
+
+
+\subsection{Specialty (Secondary Role Code)}
+
+Secondary role codes can also be included in a CAMEO code to indicate an actor's specialty (much like in subsection \ref{sect:SpecialtyPRC}. They can be added not only to primary role codes, but also to ethnicities, religions, or even other secondary role codes. For example, a legislative committee concerned with education would be coded as \texttt{[XXXLEGEDU]}, while a Muslim student dissident would be \texttt{[XXXOPPMOSEDU]}.
+
+Tertiary role codes are used in this position as additional modifiers to facilitate the grouping of specific types of actors if one's analysis requires such a distinction, for example applying the designation of \texttt{RAD} to specific actors associated with known fringe or extremist groups. However, use of these codes should be driven by necessity, either because of the specificity required for the analysis or because of limitations in the source texts.
+
+
+
+\subsection{Organization Code}
+
+In cases where the coder wants to and can---given the amount of information available in the news lead---distinguish between different actors of the same generic domestic role, different groups can each be given their own three-character codes, which are then be used as the last three-characters. For example, the Likud and Meretz Parties in Israel are assigned the nine character codes of \texttt{[ISRGOVLKD]} or \texttt{[ISROPPLKD]} and \texttt{[ISRGOVMRZ]} or \texttt{[ISROPPMRZ]}, respectively. \footnote{Note that both of these codes need to be date-restricted appropriately since their roles as `government' versus `opposition' change regularly. Also, the project using these codes predated the introduction of the \texttt{PTY} code; were they coded now, they would be \texttt{[ISRGOVPTYLKD]}, \texttt{[ISROPPPTYLKD]}, and so-on.}
+
+Organization codes, especially for IGOs and NGOs, restart the cycle of role codes. Hence, a subunit of the specially coded actor may receive a code for its specialty. For example, the High Commission for Refugees is a suborganization within the United Nations, which has a special actor code (IGOUNO). The High Commission's code is simply added onto the U.N.'s code, becoming \texttt{IGOUNOREFHCR}: ``\texttt{REF}'' for refugee, ``\texttt{HCR}'' as its own special actor code.
+
+
+
+\subsection{International Codes}
+\label{sect:international} % edit, contextualize, and shorten
+
+International codes apply to all actors who identify with more than one state. Most international actors' codes begin with a generic international code.
+
+Table~\ref{tab:INTcodes} defines the major international codes, along with examples. Notice that some of these examples are simply assigned the three character generic codes, while others are further specified with both generic and specific codes.
+
+The distinction between \texttt{NGO} and \texttt{NGM} is meant to capture the theoretical difference between well-structured, formal non-governmental organizations and anomic or non-associational social movements. Although the line dividing the two is often fuzzy, we believe that the distinction is theoretically important---perhaps more so for some research questions than others. Greenpeace, for instance, is one of those difficult cases: although it is typically thought to be an NGO, it actually functions more as a loose and informal movement with some more formal organizations, such as the Greenpeace Foundation and Greenpeace USA, associated with it.
+
+The \texttt{IMG} code is intended to identify those non-governmental groups, organizations, and movements on the international or regional level for whom militarized operations are their primary means of interacting within the international system. The distinction between an \texttt{IMG} and a domestic rebel group can be subtle. We define a militarized group to be international only if both its goals and its activities are substantially international.
+
+Sometimes news articles refer to unnamed actors such as ``human rights advocates,'' ``anti-WTO protesters,'' and ``supporters of Palestine''. Such actors are best coded as \texttt{NGM} since they clearly belong to some non-governmental collective effort but, at the same time, are not explicitly associated with specific organizations. ``Aid workers,'' on the other hand, are coded as NGOs, since participation in aid distribution generally requires an organization---even if the identity of the group is not specified in the news lead.
+
+Some international actors do not always need a generic international code---namely, transnational regions, ethnicities, and religions. Moreover, the ordering and use of codes is slightly different for international actors than for domestic actors. We list these differences below.
+
+\newpage
+
+\begin{center}
+\begin{longtable}{|l|l|l|l|}
+\caption{International/Transnational Generic Codes}
+\label{tab:INTcodes}
+\\ \cline{1-4}
+ \textbf{Generic} & \textbf{Actor Type} & \textbf{Example} & \textbf{Full} \\
+  \textbf{Code} & & & \textbf{Code} \\\cline{1-4}
+   \multirow{2}{*}{IGO} & International or regional & ``the United Nations'' & IGOUNO \\
+   & Inter-governmental organization & ``World Trade Organization'' & IGOWTO \\ \hline
+    \multirow{2}{*}{IMG} & International or regional & ``al-Qaeda'' & IMGMOSALQ \\
+   & International Militarized Groups & ``Abu Sayaaf'' & IMGSEAMOSASF \\ \hline
+   \multirow{3}{*}{INT} & International or transnational actors & ``international envoy'' & INT \\
+   & who cannot be further specified as & ``international observer'' & INT \\
+   & IGO, UIS, NGO, NGM, or MNC & ``world community'' & INT \\ \hline
+   \multirow{3}{*}{MNC} & \multirow{3}{*}{Multi-national corporations} & ``Halliburton'' & MNC \\
+   & & ``multinational firm'' & MNC \\
+   & & ``Shell oil company'' & MNC \\ \hline
+   \multirow{3}{*}{NGM} & \multirow{3}{*}{Non-governmental movements} & ``Greenpeace'' & NGMENVGRP \\
+   & &  ``anti-WTO activists'' & NGM \\
+   & & ``human rights advocate'' & NGM \\ \hline
+   \multirow{3}{*}{NGO} & \multirow{3}{*}{Non-governmental organizations} & ``aid worker'' & NGO \\
+   & & ``Amnesty International'' & NGOHRIAMN \\
+   & & ``Red Cross'' & NGOHLHIRC \\ \hline
+   \multirow{2}{*}{UIS} & \multirow{2}{*}{Unidentified state actors} & ``foreign diplomat'' & UIS \\
+   & & ``world governments'' & UIS \\ \hline
+\end{longtable}
+\end{center}
+
+\paragraph{Location} Sometimes news reports do not specify a group of countries separately and instead refer to them using the general geographical region they are associated with, such as Latin America (\texttt{LAM}), the Middle East (\texttt{MEA}), Eastern Europe (\texttt{EEU}), etc. In such cases, where exact identification of the countries involved is not possible, international region codes laid out in Table~\ref{tab:regions} can be used as the first three characters, which then typically constitutes the entire code.
+
+In some cases, actors are primarily transnational/international in nature, yet their country affiliations are also known. Coders can include both pieces of information by attaching country codes to the generic transnational/international codes. This could be particularly valuable if, given the research agenda, the country distinction becomes key at the analysis stage. (For example, actors with codes \texttt{NGOUSA}, \texttt{NGMUSA}, and \texttt{MNCUSA} can all be combined with other \texttt{USA} actors at that stage, while still preserving the full codes/information in the dictionaries for alternative groupings.) (See sections 2D and 2E.) Attaching the country code does not indicate that the actor is officially identified with or that he acts on behalf of that state. The same technique can be used when only a regional affiliation is known---NATO's code, for example, includes ``\texttt{WST}'' to indicate that it is a Western organization.
+
+\newpage
+
+\begin{center}
+\begin{longtable}{|p{2in}|p{1in}|}
+\caption{International Region Codes}
+\label{tab:regions}
+\\ \cline{1-2}
+  \textbf{Region} & \textbf{Code} \\ \cline{1-2}
+Africa & AFR \\ \cline{1-2}
+Asia & ASA \\ \cline{1-2}
+Balkans	& BLK \\ \cline{1-2}
+Caribbean & CRB \\ \cline{1-2}
+Caucasus & CAU \\ \cline{1-2}
+Central Africa & CFR \\ \cline{1-2}
+Central Asia & CAS \\ \cline{1-2}
+Central Europe & CEU \\ \cline{1-2}
+East Indies & EIN \\ \cline{1-2}
+Eastern Africa & EAF \\ \cline{1-2}
+Eastern Europe & EEU \\ \cline{1-2}
+Europe & EUR \\ \cline{1-2}
+Latin America & LAM \\ \cline{1-2}
+Middle East & MEA \\ \cline{1-2}
+Mediterranean & MDT \\ \cline{1-2}
+North Africa & NAF \\ \cline{1-2}
+North America & NMR \\ \cline{1-2}
+Persian Gulf & PGS \\ \cline{1-2}
+Scandinavia & SCN \\ \cline{1-2}
+South America & SAM \\ \cline{1-2}
+South Asia & SAS \\ \cline{1-2}
+Southeast Asia & SEA \\ \cline{1-2}
+Southern Africa & SAF \\ \cline{1-2}
+West Africa & WAF \\ \cline{1-2}
+``the West'' & WST \\ \cline{1-2}
+\end{longtable}
+\end{center}
+
+\paragraph{Ethnic and Religious Codes} Some ethnic or religious identity groups are not strictly associated with single countries, thereby requiring their own three character codes. These codes are assigned as the first three character codes when not explicitly linked to a specific location or country. Even groups connected to a country may not be domestic actors. Albanians are significant not only in the state of Albania but in other Balkan countries as well; therefore, when news reports specifically mention ethnic Albanians and not the state of Albania, we distinguish between the two by assigning the code ABN as opposed to ALB, which corresponds to Albania.
+
+However, some international organizations have distinct ethnic or religious identities---especially IMG's---in which case, an identity code can be used in conjunction with a generic international code and any number of other codes. Hence, Al Qaeda is coded as \texttt{[IMGMOSALQ]}.
+
+\paragraph{Role Code (Any)} International organizations can be coded to show their composition, purpose, or area of expertise. For instance, a multinational media corporation would code as \texttt{[MNCMED]}, with perhaps the interjection of the country where it is headquartered. Coders may use more than one role code, if they feel they must---only be sure to maintain the order of primary before secondary before tertiary.
+
+\paragraph{Organization Code} Some international/transnational actors get their own special three character codes (e.g. \texttt{UNO} for the United Nations, \texttt{AMN} for Amnesty International, \texttt{IRC} for the Red Cross), but these are used only as suffixes to these generic actor codes and any other specifying codes (i.e.\texttt{[IGOUNO]}, \texttt{[NGOHRIAMN]}, \texttt{[NGOHLHIRC]}). Table~\ref{tab:orgs} lists such actors who are currently assigned their own special codes in our regional dictionaries; both regionally and globally relevant actors are listed, but note that this list need not be final and coders/researchers can give other actors their own codes.
+
+As an exception, we also have a six-character generic code used for peacekeeping forces when the particular organizational affiliation is not known: \texttt{IGOPKO}. This code is assigned even when the national identity of the peacekeepers in question is specified. Hence, for instance, ``Senegalese peacekeepers'' are coded as \texttt{IGOPKO} since they operate as part of an inter-governmental organization and they might be representing the United Nations or ECOWAS.
+
+\paragraph{Second Specialty and Suborganization Code} Often, an important IGO or NGO, worthy of its own organization code, is actually part of another important actor (usually the United Nations). When this situation arises, the overarching organization is coded first, and the specialty of the suborganization (if there is one) is added on the end, followed by its specific code. For example, the High Commission for Refugees is a suborganization within the United Nations, which has a special actor code (IGOUNO). The High Commission's code is simply added onto the U.N.'s code, becoming \texttt{IGOUNOREFHCR}: ``\texttt{REF}'' for refugee, ``\texttt{HCR}'' as its own special actor code. Be sure to avoid accidentally breaking the ``primary before secondary'' rule---the suborganization's specialty cannot be a primary role code if the organization's specialty is a secondary role code.
+
+\paragraph{Third Specialty} A third specialty code can occasionally be used when the spokesperson for an organization is identified (coded \texttt{MED}).
+
+\newpage
+\begin{center}
+\begin{longtable}{|l|l|l|}
+\caption{International/Transnational Actors with Special Codes}
+\label{tab:orgs}
+ \\ \cline{1-3}
+  & \textbf{International/Transnational Actors} & \textbf{Code} \\ \cline{1-3}
+  \endfirsthead
+  \hline
+  & \textbf{International/Transnational Actors} & \textbf{Code} \\ \cline{1-3}
+  \hline
+  \endhead
+  \multirow{19}{*}\textbf{Africa} & African Development Bank & IGOAFB \\ \cline{2-3}
+  & Arab Bank for Economic Development in Africa & IGOABD \\ \cline{2-3}
+  & Bank of Central African States (BEAC) & IGOBCA \\ \cline{2-3}
+  & Common Market for Eastern and Southern Africa & IGOCEM \\ \cline{2-3}
+  & Community of Sahel-Saharan States (CENSAD) & IGOCSS \\ \cline{2-3}
+  & Eastern and Southern African Trade and Development Bank & IGOATD \\ \cline{2-3}
+  & Economic and Monetary Union of West Africa (UEMOA) & IGOUEM \\ \cline{2-3}
+  & Economic Community of Central African States & IGOECA  \\ \cline{2-3}
+  & Economic Community of West African States (ECOWAS) & IGOWAS \\ \cline{2-3}
+  & Franc Zone Financial Community of Africa & IGOCFA \\ \cline{2-3}
+  & Inter-African Coffee Organization (IACO) & IGOIAC \\ \cline{2-3}
+  & Intergovernmental Authority on Development (IGAD) & IGOIAD \\ \cline{2-3}
+  & Monetary and Economic Community of Central Africa & IGOCEM \\ \cline{2-3}
+  & New Economic Partnership for Africa's Development & IGONEP \\ \cline{2-3}
+  & Organization of African Unity (OAU) & IGOOAU \\ \cline{2-3}
+  & Pan-African Parliament & IGOPAP \\ \cline{2-3}
+  & Southern African Development Community & IGOSAD \\ \cline{2-3}
+  & West Africa Development Bank & IGOWAD \\ \cline{2-3}
+  & West Africa Monetary and Economic Union & IGOWAM \\ \cline{1-3}
+ \multirow{7}{*}\textbf{Middle East} & Arab Cooperation Council & IGOACC \\ \cline{2-3}
+ & Arab Economic Unity Council & IGOAEU \\ \cline{2-3}
+ & Arab League & IGOARL \\ \cline{2-3}
+ & Arab Maghreb Union & IGOAMU \\ \cline{2-3}
+ & Arab Monetary Fund for Economic and Social Development & IGOAMF \\ \cline{2-3}
+ & Gulf Cooperation Council & IGOGCC \\ \cline{2-3}
+ & Org. of Arab Petroleum Exporting Countries (OAPEC) & IGOAPE \\ \cline{1-3}
+ \multirow{10}{*}\textbf{Asia, Europe} & Asian Development Bank & IGOADB \\ \cline{2-3}
+ & Association of Southeast Asian Nations (ASEAN) & IGOASN \\ \cline{2-3}
+ & Commonwealth of Independent States & IGOCIS \\ \cline{2-3}
+ & Council of Europe & IGOCOE \\ \cline{2-3}
+ & Council of Security and Cooperation in Europe (OSCE) & IGOSCE \\ \cline{2-3}
+ & European Bank for Reconstruction and Development & IGOEBR \\ \cline{2-3}
+ & European Free Trade Association & IGOEFT \\ \cline{2-3}
+ & European Union & IGOEEC \\ \cline{2-3}
+ & South Asian Association & IGOSAA \\ \cline{2-3}
+ & Southeast Asia Collective Defense Treaty (SEATO) & IGOSOT \\ \cline{1-3}
+ \hline
+ \multirow{45}{*}\textbf{Global} & Amnesty International & NGOAMN \\ \cline{2-3}
+ & Association of Coffee Producing Countries & IGOCPC \\ \cline{2-3}
+ & Bank for International Settlements & IGOBIS \\ \cline{2-3}
+ & Cocoa Producer's Alliance & IGOCPA \\ \cline{2-3}
+ & Commonwealth of Nations & IGOCWN \\ \cline{2-3}
+ & Group of Eight (G-8) (G-7 plus Russia) & IGOGOE \\ \cline{2-3}
+ & Group of Seven (G-7) & IGOGOS \\ \cline{2-3}
+ & Group of Seventy-Seven (G-77) & IGOGSS \\
+ \cline{1-3}
+ \cline{1-3}
+& Highly Indebted Poor Countries (HIPC) & IGOHIP \\ \cline{2-3}
+ & Human Rights Watch & NGOHRW \\ \cline{2-3}
+ & International Atomic Energy Agency (IAEA) & IGOUNOIAE \\ \cline{2-3}
+ & International Cocoa Organization (ICCO) & IGOICO \\ \cline{2-3}
+ & International Commission of Jurists & NGOJUR \\ \cline{2-3}
+ & International Court of Justice (ICJ) & IGOUNOICJ \\ \cline{2-3}
+ & International Criminal Court & IGOICC \\ \cline{2-3}
+ & International Crisis Group & NGOICG \\ \cline{2-3}
+ & International Federation of Human Rights (FIDH) & NGOFID \\ \cline{2-3}
+ & International Fed. of Red Cross and Red Crescent (ICRC) & NGOCRC \\ \cline{2-3}
+ & International Grains Council & IGOIGC \\ \cline{2-3}
+ & International Helsinki Federation for Human Rights & NGOIHF \\ \cline{2-3}
+ & International Labor Organization & IGOUNOILO \\ \cline{2-3}
+ & International Monetary Fund (IMF) & IGOIMF \\ \cline{2-3}
+ & International Organization for Migration & NGOIOM \\ \cline{2-3}
+ & International War Crimes Tribunals & IGOUNOWCT \\ \cline{2-3}
+ & Inter-Parliamentary Union & IGOIPU \\ \cline{2-3}
+ & Interpol & IGOITP \\ \cline{2-3}
+ & Islamic Development Bank & IGOIDB \\ \cline{2-3}
+ & Medecins Sans Frontieres (Doctors Without Borders) & NGOMSF \\ \cline{2-3}
+ & North Atlantic Treaty Organization (NATO) & IGONAT \\ \cline{2-3}
+ & Organization of American States & IGOOAS \\ \cline{2-3}
+ & Organization of Islamic Conferences (OIC) & IGOOIC \\ \cline{2-3}
+ & Organization of Non-Aligned Countries & IGONON \\ \cline{2-3}
+ & Organization of Petroleum Exporting Countries (OPEC) & IGOOPC \\ \cline{2-3}
+ & Oxfam & NGOXFM \\ \cline{2-3}
+ & Paris Club & IGOPRC \\ \cline{2-3}
+ & Red Cross & NGOIRC \\ \cline{2-3}
+ & Red Crescent & NGORCR \\ \cline{2-3}
+ & United Nations & IGOUNO \\ \cline{2-3}
+ & United Nations Children's Fund (UNICEF) & IGOUNOKID \\ \cline{2-3}
+ & United Nations Food and Agriculture Organization & IGOUNOFAO \\ \cline{2-3}
+ & UN High Commission for Human Rights & IGOUNOHCH \\ \cline{2-3}
+ & UN High Commission for Refugees & IGOUNOHCR \\ \cline{2-3}
+ & World Bank & IGOUNOWBK \\ \cline{2-3}
+ & World Economic Forum & NGOWEF \\ \cline{2-3}
+ & World Food Program & IGOUNOWFP \\ \cline{2-3}
+ & World Health Organization & IGOUNOWHO \\ \cline{2-3}
+ & World Trade Organization (WTO) & IGOWTO \\ \cline{1-3}
+\end{longtable}
+\end{center}
+
+\newpage
+
+
+\newpage
+\section{OTHER RULES AND FORMATS}
+
+\subsection{Date Restrictions}
+\label{sect:timestamps}
+
+Many actor codes require date-restrictions to limit the period for which TABARI will assign that code to the actor. The format of these codes do not deviate from the framework laid out below except for the inclusion of specific dates, which indicate the periods that correspond to each of the different codes. The need for date restrictions arise when the dataset covers a long period and the roles of individuals/groups/organizations---even the names and structures of states---change during this span.
+
+Political power frequently changes hands in Israel. Hence, we cannot give the Israeli Labor Party, for example, a single code that specifies its domestic role. Instead, we code it as date-restricted, capturing when the party was part of the administration and when it played the role of opposition.\footnote{Recall that the project in which Israel was coded preceded the addition of the \texttt{PTY} code.}
+
+\medskip
+\texttt{ISRAELI\_LABOR\_PARTY	[ISRGOVLBA $<$770622][ISRGOVLBA 840814-861020]}\\
+\texttt{[ISRGOVLBA 920713-960618][ISRGOVLBA 990706-010307][ISROPPLBA]\\}
+
+\noindent
+This entry indicates that the Labor Party acted as part of the Israeli government for all of the specified periods and as the opposition during all other times. Furthermore, due to its prominent role in Israeli politics, the party is given its special three-character code (\texttt{LBA}), which sets it apart from other opposition groups or coalition partners in case the researcher wishes to make that distinction at the analysis stage.
+
+Even states sometimes need to be date-restricted when previously sovereign states (or parts of other states) merge (e.g., East and West Germany, North and South Yemen, and North and South Vietnam) or existing states breakup to create multiple new ones (e.g. Yugoslavia, Czechoslovakia, and Ethiopia/Eritrea). For instance, Serbia has the code
+
+\medskip
+\texttt{SERBIA  [YUGSRB $<$920427][FRYSRB 920427-030204][SCGSRB 030205-060605][SRB]}\\
+
+\noindent
+which indicates that Serbia was part of the Socialist Federal Republic of Yugoslavia up until it gained its independence in 1992, after which it formed the Federal Republic of Yugoslavia (with Montenegro), which became the new state---a looser federation---of Serbia and Montenegro after February, 2003. On 5 June 2006, the union of Serbia and Montenegro was dissolved and they each became separate sovereign states.
+
+For a more comprehensive explanation of date-restrictions, readers should refer to Chapter 5 of the TABARI manual (available at http://eventdata.psu.edu/software.dir/tabari.html).
+
+
+
+\subsection{Actors and Agents}
+
+TABARI makes use of two different types of dictionary in order to appropriately code sources and targets of event data. Actor dictionaries came first, containing singular pattern-matchable entries with specific actor codes. Each actor had to be given its own entry into the appropriate actor dictionary. In early 2009, this process was augmented by the creation and addition of agent dictionaries. Rather than list specific actors explicitly, the agent dictionaries use commonly recurring words to categorize actors and help alleviate the need for redundancy in the actor dictionaries. For example, the word ``admiral'' indicates that an actor should be classified \texttt{MIL}. Once \texttt{ADMIRAL} is added to the agents dictionary, TABARI will automatically add the code \texttt{MIL} to the end of the actor's code in the output file when “admiral” is found near the actor's name. (This is subject to being overridden by specific entries in the actor dictionaries. For example, the entry \texttt{ADMIRAL\_NELSON} would be read before the agent, allowing him to be identified as a historical figure, rather than a military actor.)
+
+Actor entries take precedence over agent entries, as the actor codings are presumed to be more specific. Where the agent and actor codings would result in duplication of classifications, the duplicate is ignored. Therefore, if \texttt{ANTRIM} is in the actor dictionary coding as \texttt{[USAMIL]} and \texttt{ADMIRAL} is in the agent dictionary (coding as \texttt{[\~{}MIL]}), then TABARI on seeing the actor ``Admiral Antrim'' will code the resulting as \texttt{[USAMIL]} and \textit{not} \texttt{[USAMILMIL]}. TABARI does not combine agent codings. Hence, for example, while both ``\texttt{STUDENT}'' (coding as \texttt{[\~{}EDU]}) and ``\texttt{DISSIDENT}'' (coding as \texttt{[\~{}OPP]}) may be present in agent dictionaries, TABARI will not read ``student dissident'' as \texttt{[\~{}EDUOPP]}. Instead, \texttt{STUDENT\_DISSIDENT} must be explicitly entered into the agent dictionary. This was done to avoid situations in which ``student dissident'' and ``dissident student'' would code differently (\texttt{EDUOPP} and \texttt{OPPEDU} respectively). Implementation of a hierarchical system for combining multiple agents into a single actor coding may be part of future implementations of TABARI as a further effort to cut down on the need for seemingly redundant dictionary entries.
+
+
+\subsection{Dictionaries}
+
+Currently the agent dictionaries are comprised of separate dictionaries for the \texttt{GOV}, \texttt{MIL}, \texttt{OPP}, and \texttt{REB} codes as well as a generic agent dictionary that handles references for secondary and tertiary role codes. As indicated previously there are also two agent dictionaries for the correct capture of religious codings (differentiated by their level of specificity). Additional helpful dictionaries to the coder are the NGO actor, the Elite actor, and the IMG dictionaries.
+
+The elite actor dictionary has entries for a number of prominent organizations or individuals that would code with the \texttt{ELI} designation. Unfortunately most of the entries are specific to the US making it of limited value to those coding other regions. The IMG dictionary is a work in progress capturing actors that would be associated with several groups that fall under the \texttt{IMG} classification. In some cases only the name of the organization and known other appellations are listed but for some prominent members or leaders are also listed and provided with appropriate codes. For example "Osama bin Laden" is captured by this dictionary and assigned the appropriate \texttt{IMGMOSALQ} coding.
+
+The NGO actor dictionary covers a wide variety of NGOs that a coder might want to capture. Rather than assign specific three character codes for every NGO/IGO efforts have been made to capture these actors with the appropriate International/Transnational actor code followed by a state or geographic region code (indicating either home country of the actor or primary region of its activities) and role codes (usually secondary) that indicate its primary area of expertise. Ethnic or religious identifications have also been captured where they were deemed appropriate.
+
+
+\subsection{Automatically-coded Celebrities} % alternative titles: "Automatic Elitism" or "Automatic Celebrity"
+
+TABARI will code elites automatically in certain sentences. One will note that within the secondary role codes the code \texttt{ELI} specifically mentions former government officials. This is implemented within TABARI by recognizing that the word "former" as part of an agent or actor coding will cause the recognized pattern to be discarded in favor of the \texttt{ELI} secondary role code. Hence, "former Federal Reserve Chairman Alan Greenspan" will code as \texttt{USAELI} instead of \texttt{USAGOV}. Should TABARI fail at deleting double-codes, a Grep filter of the results can do the same task.
+
+\subsection{Coding Conventions}
+\label{sect:militaryconvention}
+
+A number of examples have already been provided in the above sections but it seems worthwhile to point out a few additional as well as examples of coding conventions that can be utilized so as to standardize actor coding across coders.\\
+One such convention is used to distinguish between various members of the US Department of Defense. Most actors in the Defense Department should be coded with the designation \texttt{MIL} followed by either \texttt{SPY} (if connected to military intelligence) or \texttt{GOV} if they are service specific or below (the Commandant of the Marine Corp or Secretary of the Navy for instance). All DoD personnel above this level that are responsible for policy setting code as \texttt{GOVMIL} as they are primarily associated with the government but their role within the government is military oriented.\\
+
+
+
+\chapter{CAMEO Religious Coding Scheme}
+
+\section{Introduction}
+\label{sect:CAMEORCS}
+
+CAMEORCS provides a greater level of detail for coding religion than the shorter CAMEO format by systematically assigning alphanumeric codes to individual religious groups and generalized religious terms. It was created during the summer of 2010 as a part of a larger, CAMEO-based project, and is thus intended as an optional supplement to CAMEO codes. The longer codes are used in actor codes in the exact same place and manner as the simple religious codes. Further, at every level of coding, CAMEORCS grandfathers in the religious codes used by CAMEO's shorter format.
+
+The CAMEORCS directory includes a relatively comprehensive list of religious groups. However, projects may require adding more---and more specific---codes. Adding and coding new religious groups follows the same two rules from actor coding and adds two more.
+
+\begin{itemize}
+\item Proceed from the general to the specific.
+\item Maintain the hierarchical ordering prescribed by the manual.
+\item As far as it is possible, code religious groups by their defining and distinguishing characteristics.
+\item The manual describes which codes to prioritize; follow its prioritization.
+\end{itemize}
+
+CAMEORCS is restricted to three spaces (i.e. nine letters), so coders must be picky about which codes they use.
+
+\subsection{Self-Identification}
+CAMEORCS is not intended to be a grand theological treatise on who's who in the spiritual world. Coding must balance how a group regards itself and how it is regarded by others---especially its coreligionists. In the same vein, this scheme gives groups religious codes whenever plausible. Many organizations today have been called religious but do not regard themselves in this way. These groups nonetheless receive religious codes. Codeable groups include any organizations, communities, and fraternities based around a common philosophy, faith, or ethic. However, \emph{do not code religious groups that are dead during the time period of study.}
+
+\subsection{Individualism}
+Each religious group, down to the lowest plausible level, is given its own distinct code. In addition, some relevant generic terms, e.g. "conservative Anglican", receive their own codes. However, the coder must choose the level of detail to which he or she codes---coding individual congregations would not be plausible. Consistency is not needed; for example, the original directory includes individual Catholic monastic orders, but only denominations (or even associations of national denominations) within Protestantism. In short, include everything worth coding.
+
+\subsection{Hierarchies}
+Often, groups would apparently take different code than the category above them. For example, non-trinitarian Christians are generally coded as \texttt{CHRMAY}, but a few  trinitarian congregations nonetheless have constituent groups that are not. In this type of case, coherency may overrule accuracy; when a subgroup is accepted by its group, code it with that group.
+
+
+\section{First trio of letters}
+\label{sect:firsttrio}
+
+The first three letters of a religious code identify a specific religion or family of religions. Every religion that claims five million adherents or more receives its own code, as designated by prior coding (see Table~\ref{tab:rel1st}.) Offshoots of a religion are given the code of their parent religion, unless they themselves have an individual code (e.g. Christianity, Sikhism, etc.)
+
+Smaller religions are not given their own three-letter codes. Instead, they are categorized within families of religions. We use the common division annotated in the list below. A given religion may have strong influences from more than one of these families, in which case the coder must choose the best fit. Of the families of religions, new religious movements (\texttt{NRM}) hold a special place. They describe religious or philosophical movements, communities and companies created in the last century-and-a-half. The \texttt{NRM} code has lowest priority. For example, the code for a new Indian religious movement would begin with \texttt{INR}, not \texttt{NRM}.
+
+\newpage
+
+\begin{center}
+\begin{longtable}{|l|l|l|}
+\caption{Religious Codes: First Three Letters}
+\label{tab:rel1st}
+\\ \cline{1-3}
+  & \textbf{Group/Religion} & \textbf{Code} \\ \cline{1-3}
+  \textbf{First Priority:} & Atheism/Agnosticism & ATH \\ \cline{2-3}
+  \textbf{Named} & Bahai Faith & BAH \\ \cline{2-3}
+  \textbf{Religions} & Buddhism & BUD \\ \cline{2-3}
+  & Christianity & CHR \\ \cline{2-3}
+  & Confucianism & CON \\ \cline{2-3}
+  & Hinduism & HIN \\ \cline{2-3}
+  & Jainism & JAN \\ \cline{2-3}
+  & Judaism & JEW \\ \cline{2-3}
+  & Islam & MOS \\ \cline{2-3}
+  & Shintoism & SHN \\ \cline{2-3}
+  & Sikhism & SIK \\ \cline{2-3}
+  & Taoism & TAO \\ \cline{1-3}
+  \textbf{Second} & Abrahamic religions & ABR \\ \cline{2-3}
+  \textbf{Priority:} & African diasporic religions & ADR \\ \cline{2-3}
+  \textbf{Religious} & East Asian religions & EAR \\ \cline{2-3}
+   \textbf{Families} & Indian religions & INR \\ \cline{2-3}
+  & Iranic religions & IRR \\ \cline{2-3}
+  & Indigenous tribal religions & ITR \\ \cline{1-3}
+  \textbf{Third Priority} & new religious movements & NRM \\ \cline{1-3}
+  \end{longtable}
+\end{center}
+
+
+\section{Second trio of letters}
+
+The second trio of letters divides the first category further.
+
+\subsection{Denominations}
+First, if the first trio is a a named religion, the second trio can indicate a significant denomination or movement of that religion, e.g. Protestantism from Christianity, Shiism from Islam, or Zen from Buddhism. A complete collection of these codes can be found in the CAMEORCS directory.
+
+\subsection{Generic terms}
+Alternatively, the second trio can be a generic religious code. Such codes, listed in Table~\ref{tab:rel2nd}, simply serve to divide the first groupings into more manageable chunks, and generally apply across religions and family groups. These generic codes are ranked in priority in the table.
+
+\texttt{MAY}, \texttt{OFF}, and \texttt{NRM} serve special roles within named religions, and we define them closely to handle delicate religious issues. \texttt{MAY} is used when a religious group considers itself a part of the parent religion, but the parent religious at least in large part rejects its inclusion. \texttt{OFF} applies to religious groups who do not consider themselves a part of the religion from which they are derived. (Whether the parent religion agrees is disregarded.) New religious movements (\texttt{NRM}) refer to movements that are widely regarded as being within the religion but outside any named sudivision, and were created in roughly the last century-and-a-half. Within religious families, NRMs have the same meaning as they would if used as the first three letters (see Section \ref{sect:firsttrio}).
+
+\subsection{Generic, or Denominational?}
+Since CAMEORCS is designed to code actors, generic terms can sometimes override named denominations. Unitarian-Universalism, for example, comes from the Protestant tradition but does not self-identify as Christian---hence, it is only sensible to code it as \texttt{CHROFF}. The same phenomenon can occur with any generic codes that might describe heterodoxy, but it always occurs with \texttt{OFF}.
+
+\subsection{Region}
+For all indigenous tribal religions (\texttt{ITR}), the second set of letters should be a transnational region, taken from the listings in [the CAMEO actors manual]. Hence, indigenous tribal religions are organized by their geographic origins. This system will inevitably result in the occasional odd code, like \texttt{[USAITRSEA\#\#\#]} (\texttt{USA} for United States and \texttt{SEA} for Southeast Asia), thanks to immigration.
+
+\subsection{Nothing}
+Finally, when there are no applicable specific or generic codes, the second trio can simply be left blank. Ecumenical organizations will usually skip secondary codes, as will general groupings like ``conservative [religion]''.
+
+\begin{center}
+\begin{longtable}{|l|l|l|}
+\caption{Religious Codes: Second Three Letters}
+\label{tab:rel2nd}
+\\ \cline{1-3}
+  & \textbf{Group/Religion} & \textbf{Code} \\ \cline{1-3}
+  \textbf{First Priority} & offshoot & OFF \\ \cline{1-3}
+  \textbf{Second Priority} & named denominations & \\ \cline{1-3}
+  \textbf{Third Priority:} & African diasporic religions & ADR \\ \cline{2-3}
+  \textbf{Specific Items} & gnostic & GNO \\ \cline{2-3}
+   & millenarian & MLN \\ \cline{2-3}
+  & pagan & PAG \\ \cline{2-3}
+  & racialist & RAC \\ \cline{2-3}
+  & syncretic & SYN \\ \cline{2-3}
+  & extraterrestrial & UFO \\ \cline{2-3}
+  & wellness-centric & WLN \\ \cline{1-3}
+  \textbf{Fourth Priority} & controversial status & MAY \\ \cline{1-3}
+  \textbf{Fifth Priority} & new religious movements & NRM \\ \cline{1-3}
+  \end{longtable}
+\end{center}
+
+
+\section{Third trio of characters}
+
+[CAMEORC] codes are completed by a number between 001 and 999. Once again, some codes will skip this trio, namely general categories (``Protestant'' as opposed to ``Lutheran''). The earliest numbers in a set (001-009 or 001-099) are reserved for generic terms, e.g. ``conservative'' or ``evangelical'' or ``moderate'', etc. The header of categories can describe both the group described and the mainstream of that group. For example, \texttt{[CHRLDS000]} refers to both any unknown group or person within the Latter Day Saints movement \emph{and} the Church of Jesus Christ of Latter-Day Saints (e.g. mainstream Mormons, as opposed to splinter groups.)
+
+After the generic terms, the numerical codes can be manipulated to form subcategories. For example, we divide Judaism in the tens column: Liberal Judaism is \texttt{[JEW050]}, Neolog Judaism is \texttt{[JEW060]}, Orthodox Judaism is \texttt{[JEW070]}, and so-on. Subsets of Liberal Judaism would be \texttt{[JEW051]}, \texttt{[JEW052]}, \texttt{[JEW053]}, etc. New Japanese Religions (which come from Shinto) are divided in the hundreds column, into Sect Shinto \texttt{[SHNNRM100-200]} and Shinshukyo \texttt{[SHNNRM300-400]}. Sect Shinto is then subdivided in the tens column, because it has relatively few subgroups, whereas Shinshukyo is divided in the singles column.
+
+Initially, the religious directory has been arranged in alphabetical order (within subsets). However, when adding to the directory, add to the end of whatever category is desired. Creating an alphabetized directory of codes is a matter of a few minutes in Excel, whereas reconciling earlier work to a newly-numbered version of the coding scheme is much trickier. Thus, do not change the order of entries.
+
+Giving an organization its own numerical code ameliorates the effect of coding mistakes and subjectivity. To use a silly hypothetical, suppose the dictionary writer were to mistakenly code Scientology as a form of Orthodox Christianity. In practice, so long as the codes are not combined in the analytical level, Scientology will be \texttt{[CHRDOX\#\#\#]} (remember, this is a hypothetical!) and generic Orthodoxy will be \texttt{[CHRDOX000]}---so the two can be distinguished, and someone looking at the behaviour of the actors will see that the two are distinct (and potentially catch the miscode.) When in doubt, add a number!
+
+
+\section{Religion-specific coding issues}
+
+Religions tend to be as comparable as apples and oranges. As such, different religions are divided slightly differently, we list the major differences below.
+
+\subsection{Christianity}
+A coder must exercise considerable restraint in adding religious groups to the directory of Christianity —- as a both institutionally fractious and very large religion, the number of identifiable Christian groups and denominations vastly outnumber the spaces available for coding. The \texttt{MAY} code sees extensive use in Christianity. We place groups in this category if they follow a non-trinitarian doctrine, worship their leaders, or add new scriptures to the Biblical canon.
+
+\subsection{Hinduism}
+Hinduism is rarely treated by scholars as a single religion, but instead as a group of related religions. Simultaneously, it may be plausibly divided by two methods: by denomination/deity or by philosophy. Hence, instead of denominations, Hinduism's named subcategories are purely taxonomical: \texttt{HINAST} for its Astika (``orthodox'') schools, and \texttt{HINDEN} for its denominations. The hundreds place within these sectarians indicate \emph{which} denomination or school is coded. Most Hindu organizations will be alphabetized within their denomination or philosophy, rather than placed under another level of hierarchy---the requisite information for coding often is absent.
+
+\subsection{Judaism}
+Judaism can best be divided into its movements. However, we also provide a section for the quasi-ethnic distinctions of Ashkenazi, Sephardic, etc. The former categorization always takes priority.
+
+\subsection{Shintoism}
+Shintoism was especially profoundly affected by the worldwide religious shift that started in the mid-nineteenth century, with hundreds of new religious movements being birthed since then. The standing of these organizations in regard to Shinto is not always well-defined. Rather than dividing these ``Japanese new religions'' into \texttt{NRM}, \texttt{MAY}, and \texttt{OFF}, we categorize them all as ``NRM''.
+
+\newpage
+
+\include{CAMEO.ECS}
+
+\newpage
+
+\chapter{CAMEO EVENT CODES}
+\label{chpt:eventcodes}
+
+\textbf{01: MAKE PUBLIC STATEMENT}\\
+010: Make statement, not specified below\\
+011: Decline comment\\
+012: Make pessimistic comment\\
+013: Make optimistic comment\\
+014: Consider policy option\\
+015: Acknowledge or claim responsibility\\
+016: Deny responsibility\\
+017: Engage in symbolic act\\
+018: Make empathetic comment\\
+019: Express accord\\\\
+
+\noindent
+\textbf{02: APPEAL}\\
+020: Make an appeal or request, not specified below\\
+021: Appeal for material cooperation, not specified below\\
+\indent 0211: Appeal for economic cooperation\\
+\indent 0212: Appeal for military cooperation\\
+\indent 0213: Appeal for judicial cooperation\\
+\indent 0214: Appeal for intelligence\\
+022: Appeal for diplomatic cooperation (such as policy support)\\
+023: Appeal for aid, not specified below\\
+\indent 0231: Appeal for economic aid\\
+\indent 0232: Appeal for military aid\\
+\indent 0233: Appeal for humanitarian aid\\
+\indent 0234: Appeal for military protection or peacekeeping\\
+024: Appeal for political reform, not specified below\\
+\indent 0241: Appeal for change in leadership\\
+\indent 0242: Appeal for policy change\\
+\indent 0243: Appeal for rights\\
+\indent 0244: Appeal for change in institutions, regime\\
+025: Appeal to yield, not specified below\\
+\indent 0251: Appeal for easing of administrative sanctions\\
+\indent 0252: Appeal for easing of political dissent\\
+\indent 0253: Appeal for release of persons or property\\
+\indent 0254: Appeal for easing of economic sanctions, boycott, or embargo\\
+\indent 0255: Appeal for target to allow international involvement (non-mediation)\\
+\indent 0256: Appeal for de-escalation of military engagement\\
+026: Appeal to others to meet or negotiate\\
+027: Appeal to others to settle dispute\\
+028: Appeal to engage in or accept mediation\\\\
+
+\noindent
+\textbf{03: EXPRESS INTENT TO COOPERATE}\\
+030: Express intent to cooperate, not specified below\\
+031: Express intent to engage in material cooperation, not specified below\\
+\indent 0311: Express intent to cooperate economically\\
+\indent 0312: Express intent to cooperate militarily\\
+\indent 0313: Express intent to cooperate on judicial matters\\
+\indent 0314: Express intent to cooperate on intelligence\\
+032: Express intent to engage in diplomatic cooperation (such as policy support)\\
+033: Express intent to provide material aid, not specified below\\
+\indent 0331: Express intent to provide economic aid\\
+\indent 0332: Express intent to provide military aid\\
+\indent 0333: Express intent to provide humanitarian aid\\
+\indent 0334: Express intent to provide military protection or peacekeeping\\
+034: Express intent to institute political reform, not specified below\\
+\indent 0341: Express intent to change leadership\\
+\indent 0342: Express intent to change policy\\
+\indent 0343: Express intent to provide rights\\
+\indent 0344: Express intent to change institutions, regime\\
+035: Express intent to yield, not specified below\\
+\indent 0351: Express intent to ease administrative sanctions\\
+\indent 0352: Express intent to ease popular dissent\\
+\indent 0353: Express intent to release persons or property\\
+\indent 0354: Express intent to ease economic sanctions, boycott, or embargo\\
+\indent 0355: Express intent to allow international involvement (non-mediation)\\
+\indent 0356: Express intent to de-escalate military engagement\\
+036: Express intent to meet or negotiate\\
+037: Express intent to settle dispute\\
+038: Express intent to accept mediation\\
+039: Express intent to mediate\\\\
+
+\noindent
+\textbf{04: CONSULT}\\
+040: Consult, not specified below\\
+041: Discuss by telephone\\
+042: Make a visit\\
+043: Host a visit\\
+044: Meet at a "third" location\\
+045: Mediate\\
+046: Engage in negotiation\\\\
+
+\noindent
+\textbf{05: ENGAGE IN DIPLOMATIC COOPERATION}\\
+050: Engage in diplomatic cooperation, not specified below\\
+051: Praise or endorse\\
+052: Defend verbally\\
+053: Rally support on behalf of\\
+054: Grant diplomatic recognition\\
+055: Apologize\\
+056: Forgive\\
+057: Sign formal agreement\\\\
+
+\noindent
+\textbf{06: ENGAGE IN MATERIAL COOPERATION}\\
+060: Engage in material cooperation, not specified below\\
+061: Cooperate economically\\
+062: Cooperate militarily\\
+063: Engage in judicial cooperation\\
+064: Share intelligence or information\\\\
+
+\noindent
+\textbf{07: PROVIDE AID}\\
+070: Provide aid, not specified below\\
+071: Provide economic aid\\
+072: Provide military aid\\
+073: Provide humanitarian aid\\
+074: Provide military protection or peacekeeping\\
+075: Grant asylum\\\\
+
+\noindent
+\textbf{08: YIELD}\\
+080: Yield, not specified below\\
+081: Ease administrative sanctions, not specified below\\
+\indent 0811: Ease restrictions on political freedoms\\
+\indent 0812: Ease ban on political parties or politicians\\
+\indent 0813: Ease curfew\\
+\indent 0814: Ease state of emergency or martial law\\
+082: Ease political dissent\\
+083: Accede to requests or demands for political reform, not specified below\\
+\indent 0831: Accede to demands for change in leadership\\
+\indent 0832: Accede to demands for change in policy\\
+\indent 0833: Accede to demands for rights\\
+\indent 0834: Accede to demands for change in institutions, regime\\
+084: Return, release, not specified below\\
+\indent 0841: Return, release person(s)\\
+\indent 0842: Return, release property\\
+085: Ease economic sanctions, boycott, embargo\\
+086: Allow international involvement, not specified below\\
+\indent 0861: Receive deployment of peacekeepers\\
+\indent 0862: Receive inspectors\\
+\indent 0863: Allow humanitarian access\\
+087: De-escalate military engagement\\
+\indent 0871: Declare truce, ceasefire\\
+\indent 0872: Ease military blockade\\
+\indent 0873: Demobilize armed forces\\
+\indent 0874: Retreat or surrender militarily\\\\
+
+\noindent
+\textbf{09: INVESTIGATE}\\
+090: Investigate, not specified below\\
+091: Investigate crime, corruption\\
+092: Investigate human rights abuses\\
+093: Investigate military action\\
+094: Investigate war crimes\\\\
+
+\noindent
+\textbf{10: DEMAND}\\
+100: Demand, not specified below\\
+101: Demand material cooperation, not specified below\\
+\indent 1011: Demand economic cooperation\\
+\indent 1012: Demand military cooperation\\
+\indent 1013: Demand judicial cooperation\\
+\indent 1014: Demand intelligence cooperation\\
+102: Demand diplomatic cooperation (such as policy support)\\
+103: Demand material aid, not specified below\\
+\indent 1031: Demand economic aid\\
+\indent 1032: Demand military aid\\
+\indent 1033: Demand humanitarian aid\\
+\indent 1034: Demand military protection or peacekeeping\\
+104: Demand political reform, not specified below\\
+\indent 1041: Demand change in leadership\\
+\indent 1042: Demand policy change\\
+\indent 1043: Demand rights\\
+\indent 1044: Demand change in institutions, regime\\
+105: Demand that target yields, not specified below\\
+\indent 1051: Demand easing of administrative sanctions\\
+\indent 1052: Demand easing of political dissent\\
+\indent 1053: Demand release of persons or property\\
+\indent 1054: Demand easing of economic sanctions, boycott, or embargo\\
+\indent 1055: Demand that target allows international involvement (non-mediation)\\
+\indent 1056: Demand de-escalation of military engagement\\
+106: Demand meeting, negotiation\\
+107: Demand settling of dispute\\
+108: Demand mediation\\\\
+
+\noindent
+\textbf{11: DISAPPROVE}\\
+110: Disapprove, not specified below\\
+111: Criticize or denounce\\
+112: Accuse, not specified below\\
+\indent 1121: Accuse of crime, corruption\\
+\indent 1122: Accuse of human rights abuses\\
+\indent 1123: Accuse of aggression\\
+\indent 1124: Accuse of war crimes\\
+\indent 1125: Accuse of espionage, treason\\
+113: Rally opposition against\\
+114: Complain officially\\
+115: Bring lawsuit against\\
+116: Find guilty or liable (legally)\\\\
+
+\noindent
+\textbf{12: REJECT}\\
+120: Reject, not specified below\\
+121: Reject material cooperation\\
+\indent 1211: Reject economic cooperation\\
+\indent 1212: Reject military cooperation\\
+122: Reject request or demand for material aid, not specified below\\
+\indent 1221: Reject request for economic aid\\
+\indent 1222: Reject request for military aid\\
+\indent 1223: Reject request for humanitarian aid\\
+\indent 1224: Reject request for military protection or peacekeeping\\
+123: Reject request or demand for political reform, not specified below\\
+\indent 1231: Reject request for change in leadership\\
+\indent 1232: Reject request for policy change\\
+\indent 1233: Reject request for rights\\
+\indent 1234: Reject request for change in institutions, regime\\
+124: Refuse to yield, not specified below\\
+\indent 1241: Refuse to ease administrative sanctions\\
+\indent 1242: Refuse to ease popular dissent\\
+\indent 1243: Refuse to release persons or property\\
+\indent 1244: Refuse to ease economic sanctions, boycott, or embargo\\
+\indent 1245: Refuse to allow international involvement (non mediation)\\
+\indent 1246: Refuse to de-escalate military engagement\\
+125: Reject proposal to meet, discuss, or negotiate\\
+126: Reject mediation\\
+127: Reject plan, agreement to settle dispute\\
+128: Defy norms, law\\
+129: Veto\\\\
+
+\noindent
+\textbf{13: THREATEN}\\
+130: Threaten, not specified below\\
+131: Threaten non-force, not specified below\\
+\indent 1311: Threaten to reduce or stop aid\\
+\indent 1312: Threaten with sanctions, boycott, embargo\\
+\indent 1313: Threaten to reduce or break relations\\
+132: Threaten with administrative sanctions, not specified below\\
+\indent 1321: Threaten with restrictions on political freedoms\\
+\indent 1322: Threaten to ban political parties or politicians\\
+\indent 1323: Threaten to impose curfew\\
+\indent 1324: Threaten to impose state of emergency or martial law\\
+133: Threaten with political dissent, protest\\
+134: Threaten to halt negotiations\\
+135: Threaten to halt mediation\\
+136: Threaten to halt international involvement (non-mediation)\\
+137: Threaten with repression\\
+138: Threaten with military force, not specified below\\
+\indent 1381: Threaten blockade\\
+\indent 1382: Threaten occupation\\
+\indent 1383: Threaten unconventional violence\\
+\indent 1384: Threaten conventional attack\\
+\indent 1385: Threaten attack with WMD\\
+139: Give ultimatum\\\\
+
+\noindent
+\textbf{14: PROTEST}\\
+140: Engage in political dissent, not specified below\\
+141: Demonstrate or rally, not specified below\\
+\indent 1411: Demonstrate for leadership change\\
+\indent 1412: Demonstrate for policy change\\
+\indent 1413: Demonstrate for rights\\
+\indent 1414: Demonstrate for change in institutions, regime\\
+142: Conduct hunger strike, not specified below\\
+\indent 1421: Conduct hunger strike for leadership change\\
+\indent 1422: Conduct hunger strike for policy change\\
+\indent 1423: Conduct hunger strike for rights\\
+\indent 1424: Conduct hunger strike for change in institutions, regime\\
+143: Conduct strike or boycott, not specified below\\
+\indent 1431: Conduct strike or boycott for leadership change\\
+\indent 1432: Conduct strike or boycott for policy change\\
+\indent 1433: Conduct strike or boycott for rights\\
+\indent 1434: Conduct strike or boycott for change in institutions, regime\\
+144: Obstruct passage, block, not specified below\\
+\indent 1441: Obstruct passage to demand leadership change\\
+\indent 1442: Obstruct passage to demand policy change\\
+\indent 1443: Obstruct passage to demand rights\\
+\indent 1444: Obstruct passage to demand change in institutions, regime\\
+145: Protest violently, riot, not specified below\\
+\indent 1451: Engage in violent protest for leadership change\\
+\indent 1452: Engage in violent protest for policy change\\
+\indent 1453: Engage in violent protest for rights\\
+\indent 1454: Engage in violent protest for change in institutions, regime\\\\
+
+\noindent
+\textbf{15: EXHIBIT FORCE POSTURE}\\
+150: Demonstrate military or police power, not specified below\\
+151: Increase police alert status\\
+152: Increase military alert status\\
+153: Mobilize or increase police power\\
+154: Mobilize or increase armed forces\\
+155: Mobilize or increase cyber-forces\\\\
+
+\noindent
+\textbf{16: REDUCE RELATIONS}\\
+160: Reduce relations, not specified below\\
+161: Reduce or break diplomatic relations\\
+162: Reduce or stop material aid, not specified below\\
+\indent 1621: Reduce or stop economic assistance\\
+\indent 1622: Reduce or stop military assistance\\
+\indent 1623: Reduce or stop humanitarian assistance\\
+163: Impose embargo, boycott, or sanctions\\
+164: Halt negotiations\\
+165: Halt mediation\\
+166: Expel or withdraw, not specified below\\
+\indent 1661: Expel or withdraw peacekeepers\\
+\indent 1662: Expel or withdraw inspectors, observers\\
+\indent 1663: Expel or withdraw aid agencies\\\\
+
+\noindent
+\textbf{17: COERCE}\\
+170: Coerce, not specified below\\
+171: Seize or damage property, not specified below\\
+\indent 1711: Confiscate property\\
+\indent 1712: Destroy property\\
+172: Impose administrative sanctions, not specified below\\
+\indent 1721: Impose restrictions on political freedoms\\
+\indent 1722: Ban political parties or politicians\\
+\indent 1723: Impose curfew\\
+\indent 1724: Impose state of emergency or martial law\\
+173: Arrest, detain, or charge with legal action\\
+174: Expel or deport individuals\\
+175: Use tactics of violent repression\\
+176: Attack cybernetically\\\\
+
+\noindent
+\textbf{18: ASSAULT}\\
+180: Use unconventional violence, not specified below\\
+181: Abduct, hijack, or take hostage\\
+182: Physically assault, not specified below\\
+1821: Sexually assault\\
+1822: Torture\\
+1823: Kill by physical assault\\
+183: Conduct suicide, car, or other non-military bombing, not specified below\\
+1831: Carry out suicide bombing\\
+1832: Carry out vehicular bombing\\
+1833: Carry out roadside bombing\\
+1834: Carry out location bombing\\
+184: Use as human shield\\
+185: Attempt to assassinate\\
+186: Assassinate\\\\
+
+\noindent
+\textbf{19: FIGHT}\\
+190: Use conventional military force, not specified below\\
+191: Impose blockade, restrict movement\\
+192: Occupy territory\\
+193: Fight with small arms and light weapons\\
+194: Fight with artillery and tanks\\
+195: Employ aerial weapons, not specified below\\
+1951: Employ precision-guided aerial munitions\\
+1952: Employ remotely piloted aerial munitions\\
+196: Violate ceasefire\\\\
+
+\noindent
+\textbf{20: USE UNCONVENTIONAL MASS VIOLENCE}\\
+200: Use unconventional mass violence, not specified below\\
+201: Engage in mass expulsion\\
+202: Engage in mass killings\\
+203: Engage in ethnic cleansing\\
+204: Use weapons of mass destruction, not specified below\\
+\indent 2041: Use chemical, biological, or radiological weapons\\
+\indent 2042: Detonate nuclear weapons\\\\
+
+
+\include{CAMEO.ActorCodes}
+
+\include{CAMEO.RCS}
+
+\include{CAMEO.Regional}
+
+\chapter{SUPPLEMENTS}
+
+	\section{Actor Coding Cheatsheet}
+
+{\Large Sarah Stacey}, \\ KEDS Project Coder
+\bigskip
+
+\noindent 2010
+\bigskip
+
+\begin {itemize}
+\item Underscore, underscore, underscore.
+
+\item Never use ``a'', ``an'', or ``the'' in the beginning of an entry in the actors dictionary.
+
+\item When entering just a name (e.g. \texttt{KOFI\_ANNAN}) without a job title (specifying organization, ethnicity, etc.), always date restrict! The entry \texttt{U.N.\_SECRETARY\_GENERAL\_KOFI\_ANNAN} does not require a date restriction, because you can assume he is \texttt{[IGOUNO]} by definition.
+
+\item Do not use only first or last names such as \texttt{ROBERTS} or \texttt{ABDULLAH} that can be confused with other actors. In 99\% of cases, you need to use the full name and/or attach the title (for example, \texttt{SAUDI\_KING\_ABDULLAH}).
+
+\item Remember to include all information given.
+
+
+\begin{quote}
+\begin{verbatim}
+GOVERNMENT_OWNED_BUSINESS [~GOVBUS]
+MILITARY_COURT [~MILJUD]
+STATE_OWNED_NEWS [~GOVMED]
+\end{verbatim}
+\end{quote}
+
+\item Use your judgment on when one identity supersedes another.
+
+
+\begin{quote}
+\begin{verbatim}
+AMERICAN_U.N._OBSERVER [IGOUNO]
+FIJIAN_PEACEKEEPING_SOLDIER [IGOPKO].
+\end{verbatim}
+\end{quote}
+
+\item Don’t confuse ethnicity with territory. Be careful with [PAL] vs. [PSE], and [ARB] vs. [MEA].
+
+\item Don’t be fooled when the title is not in the code.
+
+
+\begin{quote}
+\begin{verbatim}
+ARAB_ALLY_JORDAN [JOR]
+ARAB_CAPITALS [MEA]
+\end{verbatim}
+\end{quote}
+
+\item Any political party should be opposition or government with date restrictions. This also goes for Labor and Communist parties (not \texttt{[~LAB]} OR \texttt{[CMN]}).
+
+\item When entering nouns and adjectives, only add an ``s'' if necessary. For example, never add ``negotiations'', but rather ``negotiation'' so that you do not have add it again when the singular form comes up.
+
+\item Never inject your own bias.
+
+\begin{quote}
+\begin{verbatim}
+EGYPTIAN_FUNDAMENTALIST_GROUP  [EGYMOSRAD] ;*** 7/17/01
+\end{verbatim}
+This entry assumes that all fundamentalist groups in Egypt are also Islamic.
+\end{quote}
+\end {itemize}
+
+	\section{Ten (or Eleven) Commandments on Verb Phrases}
+
+\begin {enumerate}
+\item There are some verbs that innately express intent such as plan, prepare, promise, pledge, vow etc. But most all others, like ``provide'' or ``sign'', need a \texttt{WILL}, \texttt{IS\_TO\_} etc. in order to code in the \texttt{[030]}'s to differentiate betweens events that have taken place and those that have not. Instead of individualized codes for each, use brackets to cover your bases:
+
+
+\begin{quote}
+\begin{verbatim}
+ACCEPT
+- { WOULD | IS_TO_ | WILL } *  MEDIATION [039]
+\end{verbatim} \texttt{(Express intent to mediate)}
+\end{quote}
+
+\item When there is a formal agreement between two actors that describes a specific form of cooperation, always be as specific as possible, instead of always coding it as \texttt{[057:057]}.
+
+
+\begin{quote}
+\begin{verbatim}
+SIGN
+- % * MILITARY ACCORD  [062:062]
+\end{verbatim}
+It is most accurate to say the parties are engaging in military cooperation.
+\end{quote}
+
+\item Only use the code \texttt{[139] (give ultimatum)} if cannot you specify another type of threat:
+
+
+\begin{quote}
+\begin{verbatim}
+ATTEND
+- WILL_NOT_* TALKS UNLESS +
+\end{verbatim}
+In this case, use \texttt{[134] (Threaten to halt negotiations)} instead of \texttt{[139]}.
+\end{quote}
+
+\item Codes such as \texttt{RECEIV} $\rightarrow$ \texttt{+ * SUPPORT FROM \$} produce miscodes because they can be so many different ones: \texttt{[070]}, \texttt{[051]}, etc. Add (the minimally needed number of) words to give such vague phrases context.
+
+
+\begin{quote}
+\begin{verbatim}
+RECEIV
+- + * FINANCIAL SUPPORT FROM $ [071]
+\end{verbatim}
+\end{quote}
+
+\item Especially with problematic verbs like strike, always be sure to include necessary contextual information.
+
+
+\begin{quote}
+\begin{verbatim}
+SAID WOULD * AGAINST +
+\end{verbatim}
+This could be \texttt{[138] (threaten with military force)} or \texttt{[133] (threaten with political dissent).}
+Instead, make the code
+\begin{verbatim}
+SAID WORKERS WOULD GO_ON_* AGAINST + [133]
+\end{verbatim}
+to erase the ambiguity.
+\end{quote}
+
+\item Restoring diplomatic relations is coded as \texttt{[050:050] (Engage in diplomatic cooperation)}, but establishing diplomatic relations is coded as \texttt{[054:054] (Grant diplomatic recognition)}.
+
+\item When Peacekeepers arrive and are received, it is a reciprocal event: \texttt{[074:0861]}.
+
+\item Use \texttt{[175] (Use tactics of violent repression)}, instead of \texttt{[173] (Impose curfew)}, for events where protesters/demonstrators/etc. are arrested, as we are capturing the fact that the government is using repression to restore order.
+
+\item Adding nouns as verbs gets messy. Try to avoid this at all cost.
+
+\item When in doubt, consult the CAMEO or TABARI codebook!
+
+\item Whenever sensible, file a verb pattern under the \emph{first} verb to appear in the pattern. The first verb in a pattern is almost always the conjugated verb.
+
+
+\begin{quote}
+\begin{verbatim}
+ATTACK
+- PROMIS TO_*
+PROMIS
+- * TO_ATTACK
+\end{verbatim}
+These two verb patterns are essentially identical---there's no reason to have both. However, the second is preferable, because it will be read first in a sentence. Hence, if we have the sentence ``\texttt{Gondor promised to attack Mordor with tanks}'', and the verb pattern
+\begin{verbatim}
+PROMIS
+- * TANKS [1384]
+\end{verbatim}
+the second verb pattern will overwrite the third, but the first pattern will not.
+\end{quote}
+
+\end {enumerate}
+
+\bibliographystyle{plain}
+\bibliography{EventData,Schrodt}
+
+\end{document}
+
+ \textbf{Generic Code} & \textbf{Actor Type} & \textbf{Example} & \textbf{Full Code} \\ \cline{1-4}
+
+\Large 01:
+
+{|p{4in}|p{1in}|}
+
+\documentclass[11pt,fullpage,letterpaper]{report}
+\pagestyle{headings} \setcounter{secnumdepth}{-1}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage[usenames]{color}
+\usepackage{tools}
+\usepackage{multirow}
+
+
+\setlongtables 

@@ -116,9 +116,10 @@ SEVENTH SEED
 EIGHTH SEED
 NINTH SEED
 TENTH SEED
-NET    # Getting a little crazy. Seriously, don't run these full-story
 CHAMPION
 CHAMPIONS
+BRONZE MEDAL
+SILVER MEDAL
 
 
 ### FULL STORY DISCARDS

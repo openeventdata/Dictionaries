@@ -15,6 +15,12 @@ and information on those formats can be found in the TABARI manual:
 
 `http://eventdata.parusanalytics.com/tabari.dir/TABARI.0.8.4b2.manual.pdf <http://eventdata.parusanalytics.com/tabari.dir/TABARI.0.8.4b2.manual.pdf>`_
 
+'dev' branch
+------------------------------
+
+This is the 'dev' (development) branch of this repro, which is where dictionaries 
+reside during a testing phase before they are incorporated into the pipeline.
+
 General Rules for dictionaries
 ------------------------------
 

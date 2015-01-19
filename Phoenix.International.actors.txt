@@ -14,30 +14,6 @@
 # SES-0455158, SES-0527564, SES-1004414, SES-1259190) and grants from the University of 
 # Kansas General Research Fund.
 #
-# Last update : 30 January 2014
-#
-# The MIT License (MIT)
-# 
-# Copyright (c) 2014 Open Event Data Alliance 
-# 
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files (the "Software"), to deal
-# in the Software without restriction, including without limitation the rights
-# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-# copies of the Software, and to permit persons to whom the Software is
-# furnished to do so, subject to the following conditions:
-# 
-# The above copyright notice and this permission notice shall be included in
-# all copies or substantial portions of the Software.
-# 
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-# THE SOFTWARE.
-# 
 
 
 ######   The United Nations  #######
@@ -73,6 +49,32 @@ BOUTROS_BOUTROS_GHALI_
 +SECRETARY-GENERAL_BOUTROS-GHALI_
 	[IGOUNO 920101-961231] 
 	[ELI]; IGOrulers.txt
+
+# Media organizations
+NEW_YORK_TIMES
+    [USAMED]
+WASHINGTON_POST
+    [USAMED]
+AL-MONITOR
++AL_MONITOR
+    [USAMED]
+AL_JAZEERA
++AL-JAZEERA
++ALJAZEERA
+    [QATMED]
+BBC
++BRITISH_BROADCASTING_SERVICE
++BBC_WORLD_SERVICE
+    [GBRMED]
+CNN
+    [USAMED]
+XINHUA
++XINHUA_NEWS_AGENCY
+    [CHNMED]
+AFP
++AGENCE_FRANCE-PRESSE
++AGENCE_FRANCE_PRESSE
+    [FRAMED]
 
 ABRAHAM_ABRAHAM_	[IGOUNOREFHCR] ;MleH 23 Jul 2009; NGO_Actors
 JAVIER_DE_CUELLAR_	[IGOUNO 820101-911231] [ELI]; IGOrulers.txt

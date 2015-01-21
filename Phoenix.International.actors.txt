@@ -14,30 +14,6 @@
 # SES-0455158, SES-0527564, SES-1004414, SES-1259190) and grants from the University of 
 # Kansas General Research Fund.
 #
-# Last update : 30 January 2014
-#
-# The MIT License (MIT)
-# 
-# Copyright (c) 2014 Open Event Data Alliance 
-# 
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files (the "Software"), to deal
-# in the Software without restriction, including without limitation the rights
-# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-# copies of the Software, and to permit persons to whom the Software is
-# furnished to do so, subject to the following conditions:
-# 
-# The above copyright notice and this permission notice shall be included in
-# all copies or substantial portions of the Software.
-# 
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-# THE SOFTWARE.
-# 
 
 
 ######   The United Nations  #######
@@ -73,6 +49,7 @@ BOUTROS_BOUTROS_GHALI_
 +SECRETARY-GENERAL_BOUTROS-GHALI_
 	[IGOUNO 920101-961231] 
 	[ELI]; IGOrulers.txt
+
 
 ABRAHAM_ABRAHAM_	[IGOUNOREFHCR] ;MleH 23 Jul 2009; NGO_Actors
 JAVIER_DE_CUELLAR_	[IGOUNO 820101-911231] [ELI]; IGOrulers.txt
@@ -307,7 +284,7 @@ THE_EUROPEAN_UNION_
 +THE_EU_	
 	[IGOEUREEC] ;MleH 09 Jul 2009; NGO_Actors
 EU_HIGH_REPRESENTATIVE
-    [IGOEUREEC]
+	[IGOEUREEC]
 AMINTORE_FANFANI_	[IGOEUREEC 650701-651231] ; president of the CoEU from ITALY; IGOrulers.txt
 ATTILIO_RUFFINI_	[IGOEUREEC 800101-800630] ; president of the CoEU from ITALY; IGOrulers.txt
 CATHERINE_ASHTON
@@ -315,7 +292,7 @@ CATHERINE_ASHTON
 +LADY_CATHERINE_ASHTON
 +BARONESS_ASHTON
 +BARONESS_CATHERINE_ASHTON
-    [IGOEUREEC]
+	[IGOEUREEC]
 CHARLES_WHITELEY_	[IGOEUREEC] ;MleH 24 Jul 2009; NGO_Actors
 JAVIER_SOLANA_	[IGOEUREEC 950701-951231][IGOWSTNAT 951205-991006] ; president of the CoEU from SPAIN; IGOrulers.txt
 JEAN_FRANCOIS_PONCET_	[IGOEUREEC 790101-790630] ; president of the CoEU from FRANCE; IGOrulers.txt
@@ -411,45 +388,61 @@ ALEXANDRE_LAMFALUSSY_	[IGOEUREEC 940101-970630]	; The EU
 # Do they get coded to countries? (Silly for Reuters, makes sense for
 # DC_REPORTER
 REUTERS
-    [MED]
+	[MED]
 THE_GUARDIAN
-    [MED]
+	[MED]
 NEW_YORK_TIMES
-    [MED]
+	[MED]
 WASHINGTON_POST
-    [MED]
+	[MED]
 ASSOCIATED_PRESS
-    [MED]
+	[MED]
 AL-JAZEERA
 +QATAR-BASED_BROADCASTER_AL-JAZEERA
 +QATAR-BASED_AL-JAZEERA
-    [MED]
+	[MED]
 XINHUA
-    [MED]
+	[MED]
 WALL_STREET_JOURNAL
-    [MED]
-BBC_WORLD_SERVICE
-    [MED]
+	[MED]
 GLENN_GREENWALD
-    [MED]
+	[MED]
 BUZZFEED
-    [MED]
+	[MED]
 DC_JOURNALIST
 +DC_REPORTER
-    [MED]
+	[MED]
 HAARETZ
-    [ISRMED]
-SPIEGEL
-    [DEUMED]
+	[ISRMED]
 DUBAI-BASED_BROADCASTER_AL-ARABIYA
-    [MED]
+	[MED]
+AL-MONITOR
++AL_MONITOR
+	[MED]
+AL_JAZEERA
++AL-JAZEERA
++ALJAZEERA
+	[MED]
+BBC
++BRITISH_BROADCASTING_SERVICE
++BBC_WORLD_SERVICE
+	[MED]
+CNN
+	[MED]
+XINHUA
++XINHUA_NEWS_AGENCY
+	[MED]
+AFP
++AGENCE_FRANCE-PRESSE
++AGENCE_FRANCE_PRESSE
+	[MED]
 
 ORGANIZATION_FOR_THE_PROHIBITION_OF_CHEMICAL_WEAPONS
 +OPCW
 +ORGANISATION_FOR_THE_PROHIBITION_OF_CHEMICAL_WEAPONS
 +HAGUE-BASED_ORGANIZATION_FOR_THE_PROHIBITION_OF_CHEMICAL_WEAPONS
 +HAGUE-BASED_ORGANISATION_FOR_THE_PROHIBITION_OF_CHEMICAL_WEAPONS
-    [IGO]
+	[IGO]
 
 #####   Other IGOs  #######
 ARAB_MAGHREB_UNION_	[IGOMEAAMU]; is North Africa really the Middle East?; NGO_Actors

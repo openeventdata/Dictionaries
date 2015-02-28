@@ -129,6 +129,11 @@ geothermal energy [RENEWABLE_ENERGY]
 geothermal power [RENEWABLE_ENERGY]
 </ISSUE>
 
+<ISSUE CATEGORY="SOUTH-TO-SOUTH" TYPE="ALL">
+south to south [SOUTH-TO-SOUTH]
+south-to-south [SOUTH-TO-SOUTH]
+knowledge exchange [SOUTH-TO-SOUTH]
+</ISSUE>
 
 <ISSUE CATEGORY="EUROPEAN_UNION" TYPE="ALL">
 eu [EUROPEAN_UNION]
